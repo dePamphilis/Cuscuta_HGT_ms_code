@@ -1,0 +1,625 @@
+printing to stdout before suppression
+printing to stdout after suppression
+Orthogroup number: 12075 has the big node shown as:
+
+   /-Cpent157544_cp75692_c0_seq2_691x_f2
+  |
+  |         /-Cpent153918_cp60670_c0_seq2_1099p_f2
+  |      /-|
+--|     |   \-Cpent153917_cp60670_c0_seq1_1197p_f1
+  |   /-|
+  |  |  |   /-Cpent141095_cp70506_c0_seq2_1245m_f3
+  |  |   \-|
+   \-|      \-Cpent141101_cp70506_c0_seq8_566m_f4
+     |
+     |      /-Cpent109031_cp69143_c1_seq1_1655p_f1
+     |   /-|
+      \-|   \-Cpent109035_cp69143_c1_seq5_970x_f1
+        |
+         \-gnl_Manes_v4.1_cassava4.1_017267m
+the node1 support consisting the parasite gene and the rosid donor is 100.0 with the node shown as:
+
+      /-Cpent109031_cp69143_c1_seq1_1655p_f1
+   /-|
+--|   \-Cpent109035_cp69143_c1_seq5_970x_f1
+  |
+   \-gnl_Manes_v4.1_cassava4.1_017267m
+the 2nd highly supported node consisting the parasite gene and the rosid donor is 70.0 with the node shown as:
+
+         /-Cpent153918_cp60670_c0_seq2_1099p_f2
+      /-|
+     |   \-Cpent153917_cp60670_c0_seq1_1197p_f1
+   /-|
+  |  |   /-Cpent141095_cp70506_c0_seq2_1245m_f3
+  |   \-|
+--|      \-Cpent141101_cp70506_c0_seq8_566m_f4
+  |
+  |      /-Cpent109031_cp69143_c1_seq1_1655p_f1
+  |   /-|
+   \-|   \-Cpent109035_cp69143_c1_seq5_970x_f1
+     |
+      \-gnl_Manes_v4.1_cassava4.1_017267m
+Orthogroup number: 12864 has the big node shown as:
+
+      /-gnl_Carpa_ASGPBv0.4_evm.model.supercontig_140.7
+   /-|
+  |  |   /-PhAeBC6_p_c5212_g0_i1
+  |   \-|
+--|      \-StHeBC4_p_c12903_g7845_i1
+  |
+  |      /-Cpent140100_cp70210_c0_seq4_2692p_f3
+  |   /-|
+   \-|   \-Cpent140098_cp70210_c0_seq2_3113p_f3
+     |
+      \-Cpent140110_cp70210_c0_seq14_2289p_f3
+the node1 support consisting the parasite gene and the rosid donor is 62.0 with the node shown as:
+
+   /-gnl_Carpa_ASGPBv0.4_evm.model.supercontig_140.7
+--|
+  |   /-PhAeBC6_p_c5212_g0_i1
+   \-|
+      \-StHeBC4_p_c12903_g7845_i1
+the 2nd highly supported node consisting the parasite gene and the rosid donor is 98.0 with the node shown as:
+
+      /-gnl_Carpa_ASGPBv0.4_evm.model.supercontig_140.7
+   /-|
+  |  |   /-PhAeBC6_p_c5212_g0_i1
+  |   \-|
+--|      \-StHeBC4_p_c12903_g7845_i1
+  |
+  |      /-Cpent140100_cp70210_c0_seq4_2692p_f3
+  |   /-|
+   \-|   \-Cpent140098_cp70210_c0_seq2_3113p_f3
+     |
+      \-Cpent140110_cp70210_c0_seq14_2289p_f3
+Orthogroup number: 17226 has the big node shown as:
+
+      /-Eutrema_salsugineum_10016720m
+   /-|
+  |  |   /-Cpent135079_cp70848_c0_seq1_1312p_f1
+  |   \-|
+--|      \-Cpent135080_cp70848_c0_seq2_1224p_f1
+  |
+  |   /-PhAeBC6_h_c17674_g1_i1
+   \-|
+      \-PhAeBC6_h_c17674_g0_i1
+the node1 support consisting the parasite gene and the rosid donor is 74.0 with the node shown as:
+
+   /-Eutrema_salsugineum_10016720m
+--|
+  |   /-Cpent135079_cp70848_c0_seq1_1312p_f1
+   \-|
+      \-Cpent135080_cp70848_c0_seq2_1224p_f1
+the 2nd highly supported node consisting the parasite gene and the rosid donor is 71.0 with the node shown as:
+
+      /-Eutrema_salsugineum_10016720m
+   /-|
+  |  |   /-Cpent135079_cp70848_c0_seq1_1312p_f1
+  |   \-|
+--|      \-Cpent135080_cp70848_c0_seq2_1224p_f1
+  |
+  |   /-PhAeBC6_h_c17674_g1_i1
+   \-|
+      \-PhAeBC6_h_c17674_g0_i1
+Orthogroup number: 17933 has the big node shown as:
+
+   /-StHeBC4_p_c12063_g0_i1
+--|
+  |   /-Capsella_grandiflora_22463s0001.1
+   \-|
+      \-Cpent156998_cp75501_c0_seq2_848p_f1
+the node1 support consisting the parasite gene and the rosid donor is 52.0 with the node shown as:
+
+   /-Capsella_grandiflora_22463s0001.1
+--|
+   \-Cpent156998_cp75501_c0_seq2_848p_f1
+the 2nd highly supported node consisting the parasite gene and the rosid donor is 96.0 with the node shown as:
+
+   /-StHeBC4_p_c12063_g0_i1
+--|
+  |   /-Capsella_grandiflora_22463s0001.1
+   \-|
+      \-Cpent156998_cp75501_c0_seq2_848p_f1
+Orthogroup number: 1951 has the big node shown as:
+
+      /-TrVeBC4_p_c34526_g0_i3
+     |
+     |   /-StHeBC4_p_c25632_g0_i2
+   /-|  |
+  |  |  |   /-gnl_Stras_v1.02_SGA1.0.scaffold106G00100
+  |  |  |  |
+  |   \-|  |      /-Kalanchoe_marnieriana_1235s0004.1
+  |     |  |     |
+  |     |  |     |      /-Cpent70198_cp67938_c2_seq1_1073p_f1
+  |     |  |     |   /-|
+  |     |  |   /-|  |  |   /-Cpent70199_cp67938_c2_seq2_903p_f1
+  |      \-|  |  |  |   \-|
+  |        |  |  |  |      \-Cpent70200_cp67938_c2_seq3_862p_f1
+  |        |  |  |  |
+  |        |  |  |  |            /-StHeBC4_p_c12903_g42011_i1
+  |        |  |   \-|         /-|
+  |        |  |     |        |   \-StHeBC4_p_c12903_g41747_i1
+--|        |  |     |      /-|
+  |        |  |     |     |  |   /-StHeBC4_p_c12903_g42478_i1
+  |         \-|     |   /-|   \-|
+  |           |     |  |  |      \-TrVeBC4_p_c21720_g8626_i1
+  |           |     |  |  |
+  |           |      \-|   \-PhAeBC6_p_c2357_g10_i1
+  |           |        |
+  |           |        |   /-PhAeBC6_p_c2357_g19_i1
+  |           |         \-|
+  |           |            \-TrVeBC4_p_c21720_g8687_i1
+  |           |
+  |            \-gnl_Stras_v1.02_SGA1.0.scaffold106G00090
+  |
+  |   /-PhAeBC6_h_c21860_g1436_i1
+  |  |
+   \-|      /-PhAeBC6_p_c21860_g17139_i1
+     |   /-|
+     |  |   \-PhAeBC6_p_c21860_g21787_i1
+      \-|
+        |   /-PhAeBC6_h_c21860_g20995_i1
+         \-|
+            \-PhAeBC6_h_c21860_g4357_i1
+the node1 support consisting the parasite gene and the rosid donor is 51.0 with the node shown as:
+
+   /-Kalanchoe_marnieriana_1235s0004.1
+  |
+  |      /-Cpent70198_cp67938_c2_seq1_1073p_f1
+  |   /-|
+--|  |  |   /-Cpent70199_cp67938_c2_seq2_903p_f1
+  |  |   \-|
+  |  |      \-Cpent70200_cp67938_c2_seq3_862p_f1
+  |  |
+  |  |            /-StHeBC4_p_c12903_g42011_i1
+   \-|         /-|
+     |        |   \-StHeBC4_p_c12903_g41747_i1
+     |      /-|
+     |     |  |   /-StHeBC4_p_c12903_g42478_i1
+     |   /-|   \-|
+     |  |  |      \-TrVeBC4_p_c21720_g8626_i1
+     |  |  |
+      \-|   \-PhAeBC6_p_c2357_g10_i1
+        |
+        |   /-PhAeBC6_p_c2357_g19_i1
+         \-|
+            \-TrVeBC4_p_c21720_g8687_i1
+the 2nd highly supported node consisting the parasite gene and the rosid donor is 75.0 with the node shown as:
+
+   /-StHeBC4_p_c25632_g0_i2
+  |
+  |   /-gnl_Stras_v1.02_SGA1.0.scaffold106G00100
+  |  |
+--|  |      /-Kalanchoe_marnieriana_1235s0004.1
+  |  |     |
+  |  |     |      /-Cpent70198_cp67938_c2_seq1_1073p_f1
+  |  |     |   /-|
+  |  |   /-|  |  |   /-Cpent70199_cp67938_c2_seq2_903p_f1
+   \-|  |  |  |   \-|
+     |  |  |  |      \-Cpent70200_cp67938_c2_seq3_862p_f1
+     |  |  |  |
+     |  |  |  |            /-StHeBC4_p_c12903_g42011_i1
+     |  |   \-|         /-|
+     |  |     |        |   \-StHeBC4_p_c12903_g41747_i1
+     |  |     |      /-|
+     |  |     |     |  |   /-StHeBC4_p_c12903_g42478_i1
+      \-|     |   /-|   \-|
+        |     |  |  |      \-TrVeBC4_p_c21720_g8626_i1
+        |     |  |  |
+        |      \-|   \-PhAeBC6_p_c2357_g10_i1
+        |        |
+        |        |   /-PhAeBC6_p_c2357_g19_i1
+        |         \-|
+        |            \-TrVeBC4_p_c21720_g8687_i1
+        |
+         \-gnl_Stras_v1.02_SGA1.0.scaffold106G00090
+Orthogroup number: 21870 has the big node shown as:
+
+         /-Cpent32202_cp77438_c0_seq22_2222m_f1
+      /-|
+   /-|   \-Cpent32196_cp77438_c0_seq16_2356m_f1
+  |  |
+--|   \-PhAeBC6_p_c23100_g17_i1
+  |
+  |   /-Linum_usitatissimum_10000819
+   \-|
+      \-Cpent122507_cp71963_c8_seq2_1097x_f1
+the node1 support consisting the parasite gene and the rosid donor is 57.0 with the node shown as:
+
+   /-Linum_usitatissimum_10000819
+--|
+   \-Cpent122507_cp71963_c8_seq2_1097x_f1
+the 2nd highly supported node consisting the parasite gene and the rosid donor is 100.0 with the node shown as:
+
+         /-Cpent32202_cp77438_c0_seq22_2222m_f1
+      /-|
+   /-|   \-Cpent32196_cp77438_c0_seq16_2356m_f1
+  |  |
+--|   \-PhAeBC6_p_c23100_g17_i1
+  |
+  |   /-Linum_usitatissimum_10000819
+   \-|
+      \-Cpent122507_cp71963_c8_seq2_1097x_f1
+Orthogroup number: 22 has the big node shown as:
+
+      /-gnl_Manes_v4.1_cassava4.1_024080m
+     |
+   /-|   /-Cpent245286_cp78690_c1_seq6_778m_f1
+  |  |  |
+  |   \-|      /-Cpent126847_cp71428_c1_seq10_587x_f1
+  |     |   /-|
+  |     |  |   \-Cpent126839_cp71428_c1_seq2_823m_f1
+  |      \-|
+  |        |   /-Cpent126846_cp71428_c1_seq9_659x_f1
+  |         \-|
+  |           |   /-Cpent126838_cp71428_c1_seq1_868m_f1
+--|            \-|
+  |               \-Cpent126840_cp71428_c1_seq3_816m_f1
+  |
+  |   /-Cpent264032_cp48483_c1_seq1_971p_f1
+  |  |
+  |  |      /-Cpent218689_cp72711_c7_seq1_535p_f1
+  |  |     |
+  |  |     |         /-Cpent218690_cp72711_c8_seq1_1451p_f1
+  |  |     |      /-|
+  |  |   /-|     |   \-Cpent218691_cp72711_c8_seq2_1355p_f1
+   \-|  |  |   /-|
+     |  |  |  |  |   /-Cpent218684_cp72711_c1_seq1_458x_f1
+     |  |  |  |   \-|
+     |  |  |  |     |   /-Cpent132289_cp70867_c3_seq6_976m_f1
+     |  |   \-|      \-|
+     |  |     |         \-Cpent132293_cp70867_c3_seq10_460x_f1
+     |  |     |
+     |  |     |   /-Cpent74046_cp67042_c0_seq1_1249m_f1
+      \-|     |  |
+        |      \-|      /-Cpent132291_cp70867_c3_seq8_499m_f1
+        |        |   /-|
+        |        |  |   \-Cpent267340_cp64611_c0_seq1_833m_f1
+        |         \-|
+        |           |   /-Cpent132295_cp70867_c3_seq12_363m_f1
+        |            \-|
+        |               \-Cpent245424_cp78514_c1_seq2_1043p_f1
+        |
+        |   /-Cpent245281_cp78690_c1_seq1_2280m_f1
+         \-|
+            \-Cpent267342_cp64611_c1_seq1_337x_f1
+the node1 support consisting the parasite gene and the rosid donor is 77.0 with the node shown as:
+
+   /-gnl_Manes_v4.1_cassava4.1_024080m
+  |
+--|   /-Cpent245286_cp78690_c1_seq6_778m_f1
+  |  |
+   \-|      /-Cpent126847_cp71428_c1_seq10_587x_f1
+     |   /-|
+     |  |   \-Cpent126839_cp71428_c1_seq2_823m_f1
+      \-|
+        |   /-Cpent126846_cp71428_c1_seq9_659x_f1
+         \-|
+           |   /-Cpent126838_cp71428_c1_seq1_868m_f1
+            \-|
+               \-Cpent126840_cp71428_c1_seq3_816m_f1
+the 2nd highly supported node consisting the parasite gene and the rosid donor is 88.0 with the node shown as:
+
+      /-gnl_Manes_v4.1_cassava4.1_024080m
+     |
+   /-|   /-Cpent245286_cp78690_c1_seq6_778m_f1
+  |  |  |
+  |   \-|      /-Cpent126847_cp71428_c1_seq10_587x_f1
+  |     |   /-|
+  |     |  |   \-Cpent126839_cp71428_c1_seq2_823m_f1
+  |      \-|
+  |        |   /-Cpent126846_cp71428_c1_seq9_659x_f1
+  |         \-|
+  |           |   /-Cpent126838_cp71428_c1_seq1_868m_f1
+--|            \-|
+  |               \-Cpent126840_cp71428_c1_seq3_816m_f1
+  |
+  |   /-Cpent264032_cp48483_c1_seq1_971p_f1
+  |  |
+  |  |      /-Cpent218689_cp72711_c7_seq1_535p_f1
+  |  |     |
+  |  |     |         /-Cpent218690_cp72711_c8_seq1_1451p_f1
+  |  |     |      /-|
+  |  |   /-|     |   \-Cpent218691_cp72711_c8_seq2_1355p_f1
+   \-|  |  |   /-|
+     |  |  |  |  |   /-Cpent218684_cp72711_c1_seq1_458x_f1
+     |  |  |  |   \-|
+     |  |  |  |     |   /-Cpent132289_cp70867_c3_seq6_976m_f1
+     |  |   \-|      \-|
+     |  |     |         \-Cpent132293_cp70867_c3_seq10_460x_f1
+     |  |     |
+     |  |     |   /-Cpent74046_cp67042_c0_seq1_1249m_f1
+      \-|     |  |
+        |      \-|      /-Cpent132291_cp70867_c3_seq8_499m_f1
+        |        |   /-|
+        |        |  |   \-Cpent267340_cp64611_c0_seq1_833m_f1
+        |         \-|
+        |           |   /-Cpent132295_cp70867_c3_seq12_363m_f1
+        |            \-|
+        |               \-Cpent245424_cp78514_c1_seq2_1043p_f1
+        |
+        |   /-Cpent245281_cp78690_c1_seq1_2280m_f1
+         \-|
+            \-Cpent267342_cp64611_c1_seq1_337x_f1
+Orthogroup number: 22371 has the big node shown as:
+
+      /-TrVeBC4_p_c14479_g0_i1
+   /-|
+  |   \-StHeBC4_p_c2971_g0_i1
+--|
+  |      /-Cpent220551_cp73413_c0_seq3_1357p_f1
+  |   /-|
+   \-|   \-Cpent220552_cp73413_c0_seq4_1337p_f1
+     |
+      \-Linum_usitatissimum_10010300
+the node1 support consisting the parasite gene and the rosid donor is 52.0 with the node shown as:
+
+      /-Cpent220551_cp73413_c0_seq3_1357p_f1
+   /-|
+--|   \-Cpent220552_cp73413_c0_seq4_1337p_f1
+  |
+   \-Linum_usitatissimum_10010300
+the 2nd highly supported node consisting the parasite gene and the rosid donor is 100.0 with the node shown as:
+
+      /-TrVeBC4_p_c14479_g0_i1
+   /-|
+  |   \-StHeBC4_p_c2971_g0_i1
+--|
+  |      /-Cpent220551_cp73413_c0_seq3_1357p_f1
+  |   /-|
+   \-|   \-Cpent220552_cp73413_c0_seq4_1337p_f1
+     |
+      \-Linum_usitatissimum_10010300
+Orthogroup number: 26 has the big node shown as:
+
+   /-Cpent47223_cp77320_c1_seq1_2230p_f1
+--|
+  |   /-Cpent47226_cp77320_c2_seq1_1236p_f1
+   \-|
+      \-gnl_Manes_v4.1_cassava4.1_022271m
+the node1 support consisting the parasite gene and the rosid donor is 66.0 with the node shown as:
+
+   /-Cpent47226_cp77320_c2_seq1_1236p_f1
+--|
+   \-gnl_Manes_v4.1_cassava4.1_022271m
+the 2nd highly supported node consisting the parasite gene and the rosid donor is 78.0 with the node shown as:
+
+   /-Cpent47223_cp77320_c1_seq1_2230p_f1
+--|
+  |   /-Cpent47226_cp77320_c2_seq1_1236p_f1
+   \-|
+      \-gnl_Manes_v4.1_cassava4.1_022271m
+Orthogroup number: 281 has the big node shown as:
+
+         /-Cpent222584_cp73012_c3_seq3_1579p_f1
+      /-|
+   /-|   \-Cpent222586_cp73012_c3_seq5_1454p_f1
+  |  |
+  |   \-Cpent222582_cp73012_c3_seq1_1893p_f2
+  |
+--|         /-PhAeBC6_p_c21860_g368_i1
+  |      /-|
+  |   /-|   \-PhAeBC6_p_c21860_g373_i1
+  |  |  |
+   \-|   \-Linum_usitatissimum_10027555
+     |
+      \-Cpent167911_cp75921_c1_seq1_1663p_f2
+the node1 support consisting the parasite gene and the rosid donor is 65.0 with the node shown as:
+
+      /-PhAeBC6_p_c21860_g368_i1
+   /-|
+--|   \-PhAeBC6_p_c21860_g373_i1
+  |
+   \-Linum_usitatissimum_10027555
+the 2nd highly supported node consisting the parasite gene and the rosid donor is 69.0 with the node shown as:
+
+         /-Cpent222584_cp73012_c3_seq3_1579p_f1
+      /-|
+   /-|   \-Cpent222586_cp73012_c3_seq5_1454p_f1
+  |  |
+  |   \-Cpent222582_cp73012_c3_seq1_1893p_f2
+  |
+--|         /-PhAeBC6_p_c21860_g368_i1
+  |      /-|
+  |   /-|   \-PhAeBC6_p_c21860_g373_i1
+  |  |  |
+   \-|   \-Linum_usitatissimum_10027555
+     |
+      \-Cpent167911_cp75921_c1_seq1_1663p_f2
+Orthogroup number: 3105 has the big node shown as:
+
+            /-PhAeBC6_h_c14278_g0_i1
+         /-|
+        |   \-PhAeBC6_h_c21860_g12826_i1
+      /-|
+     |  |   /-Cpent223442_cp73262_c9_seq1_1893m_f1
+   /-|   \-|
+  |  |      \-Cpent223445_cp73262_c9_seq4_1272m_f1
+  |  |
+--|   \-Kalanchoe_marnieriana_1497s0005.1
+  |
+  |   /-TrVeBC4_p_c31798_g1_i1
+   \-|
+      \-TrVeBC4_h_c31798_g0_i1
+the node1 support consisting the parasite gene and the rosid donor is 71.0 with the node shown as:
+
+         /-PhAeBC6_h_c14278_g0_i1
+      /-|
+     |   \-PhAeBC6_h_c21860_g12826_i1
+   /-|
+  |  |   /-Cpent223442_cp73262_c9_seq1_1893m_f1
+--|   \-|
+  |      \-Cpent223445_cp73262_c9_seq4_1272m_f1
+  |
+   \-Kalanchoe_marnieriana_1497s0005.1
+the 2nd highly supported node consisting the parasite gene and the rosid donor is 53.0 with the node shown as:
+
+            /-PhAeBC6_h_c14278_g0_i1
+         /-|
+        |   \-PhAeBC6_h_c21860_g12826_i1
+      /-|
+     |  |   /-Cpent223442_cp73262_c9_seq1_1893m_f1
+   /-|   \-|
+  |  |      \-Cpent223445_cp73262_c9_seq4_1272m_f1
+  |  |
+--|   \-Kalanchoe_marnieriana_1497s0005.1
+  |
+  |   /-TrVeBC4_p_c31798_g1_i1
+   \-|
+      \-TrVeBC4_h_c31798_g0_i1
+Orthogroup number: 66 has the big node shown as:
+
+      /-PhAeBC6_h_c1696_g0_i1
+     |
+     |   /-PhAeBC6_p_c21860_g7483_i1
+     |  |
+     |  |            /-PhAeBC6_p_c21860_g17954_i1
+     |  |         /-|
+     |  |        |  |   /-PhAeBC6_p_c21860_g15807_i1
+   /-|  |        |   \-|
+  |  |  |        |     |   /-PhAeBC6_p_c21860_g4491_i1
+  |  |  |        |      \-|
+  |  |  |        |        |   /-PhAeBC6_p_c21860_g30183_i1
+  |  |  |      /-|         \-|
+  |  |  |     |  |            \-PhAeBC6_p_c21860_g16377_i1
+  |  |  |     |  |
+  |  |  |     |  |      /-Cpent49876_cp76808_c2_seq1_355x_f1
+  |   \-|     |  |   /-|
+  |     |     |  |  |  |   /-gnl_Medtr_Mt4.0v1_Medtr2g105110.1
+  |     |     |  |  |   \-|
+  |     |     |   \-|      \-Cpent218931_cp73440_c3_seq1_350x_f1
+  |     |   /-|     |
+  |     |  |  |     |   /-PhAeBC6_p_c21860_g27305_i1
+  |     |  |  |      \-|
+  |     |  |  |         \-PhAeBC6_p_c21860_g7063_i1
+  |     |  |  |
+  |     |  |  |   /-PhAeBC6_p_c21860_g2425_i1
+  |     |  |  |  |
+  |     |  |  |  |      /-PhAeBC6_p_c21860_g4824_i1
+  |     |  |  |  |     |
+  |     |  |   \-|     |         /-PhAeBC6_p_c21860_g11503_i1
+  |      \-|     |   /-|      /-|
+--|        |     |  |  |   /-|   \-PhAeBC6_p_c21860_g10706_i1
+  |        |     |  |  |  |  |
+  |        |      \-|   \-|   \-PhAeBC6_h_c10364_g0_i1
+  |        |        |     |
+  |        |        |      \-PhAeBC6_h_c21860_g10697_i1
+  |        |        |
+  |        |         \-PhAeBC6_p_c21860_g27741_i1
+  |        |
+  |        |   /-PhAeBC6_p_c24900_g0_i1
+  |         \-|
+  |            \-PhAeBC6_p_c19282_g0_i1
+  |
+  |            /-PhAeBC6_h_c10252_g1_i1
+  |         /-|
+  |        |   \-PhAeBC6_h_c10252_g0_i1
+  |      /-|
+  |     |  |   /-Cpent255576_cp78352_c1_seq16_346x_f1
+  |     |   \-|
+  |   /-|      \-PhAeBC6_p_c20755_g0_i1
+  |  |  |
+  |  |  |   /-PhAeBC6_p_c13889_g0_i1
+  |  |   \-|
+  |  |      \-PhAeBC6_p_c14668_g0_i1
+   \-|
+     |      /-Cpent216039_cp72276_c1_seq6_554x_f1
+     |   /-|
+     |  |  |   /-Cpent244709_cp78068_c0_seq1_6111p_f5
+     |  |   \-|
+      \-|      \-Cpent244711_cp78068_c0_seq3_2664p_f2
+        |
+        |      /-Cpent260198_cp78714_c0_seq1_2386p_f1
+        |   /-|
+         \-|   \-Cpent74371_cp67001_c0_seq2_610p_f1
+           |
+            \-Cpent256555_cp78205_c4_seq1_2433p_f1
+the node1 support consisting the parasite gene and the rosid donor is 70.0 with the node shown as:
+
+   /-gnl_Medtr_Mt4.0v1_Medtr2g105110.1
+--|
+   \-Cpent218931_cp73440_c3_seq1_350x_f1
+the 2nd highly supported node consisting the parasite gene and the rosid donor is 75.0 with the node shown as:
+
+   /-PhAeBC6_h_c1696_g0_i1
+  |
+  |   /-PhAeBC6_p_c21860_g7483_i1
+  |  |
+  |  |            /-PhAeBC6_p_c21860_g17954_i1
+  |  |         /-|
+  |  |        |  |   /-PhAeBC6_p_c21860_g15807_i1
+--|  |        |   \-|
+  |  |        |     |   /-PhAeBC6_p_c21860_g4491_i1
+  |  |        |      \-|
+  |  |        |        |   /-PhAeBC6_p_c21860_g30183_i1
+  |  |      /-|         \-|
+  |  |     |  |            \-PhAeBC6_p_c21860_g16377_i1
+  |  |     |  |
+  |  |     |  |      /-Cpent49876_cp76808_c2_seq1_355x_f1
+   \-|     |  |   /-|
+     |     |  |  |  |   /-gnl_Medtr_Mt4.0v1_Medtr2g105110.1
+     |     |  |  |   \-|
+     |     |   \-|      \-Cpent218931_cp73440_c3_seq1_350x_f1
+     |   /-|     |
+     |  |  |     |   /-PhAeBC6_p_c21860_g27305_i1
+     |  |  |      \-|
+     |  |  |         \-PhAeBC6_p_c21860_g7063_i1
+     |  |  |
+     |  |  |   /-PhAeBC6_p_c21860_g2425_i1
+     |  |  |  |
+     |  |  |  |      /-PhAeBC6_p_c21860_g4824_i1
+     |  |  |  |     |
+     |  |   \-|     |         /-PhAeBC6_p_c21860_g11503_i1
+      \-|     |   /-|      /-|
+        |     |  |  |   /-|   \-PhAeBC6_p_c21860_g10706_i1
+        |     |  |  |  |  |
+        |      \-|   \-|   \-PhAeBC6_h_c10364_g0_i1
+        |        |     |
+        |        |      \-PhAeBC6_h_c21860_g10697_i1
+        |        |
+        |         \-PhAeBC6_p_c21860_g27741_i1
+        |
+        |   /-PhAeBC6_p_c24900_g0_i1
+         \-|
+            \-PhAeBC6_p_c19282_g0_i1
+Orthogroup number: 9426 has the big node shown as:
+
+      /-Cpent268654_cp65776_c1_seq1_632m_f1
+   /-|
+  |   \-Cpent23929_cp77345_c3_seq1_686m_f1
+--|
+  |   /-Eutrema_salsugineum_10001059m
+   \-|
+     |   /-StHeBC4_p_c21399_g0_i1
+      \-|
+        |   /-PhAeBC6_p_c21860_g11073_i1
+         \-|
+           |   /-PhAeBC6_p_c21860_g16918_i1
+            \-|
+               \-PhAeBC6_p_c21860_g16919_i1
+the node1 support consisting the parasite gene and the rosid donor is 72.0 with the node shown as:
+
+   /-Eutrema_salsugineum_10001059m
+--|
+  |   /-StHeBC4_p_c21399_g0_i1
+   \-|
+     |   /-PhAeBC6_p_c21860_g11073_i1
+      \-|
+        |   /-PhAeBC6_p_c21860_g16918_i1
+         \-|
+            \-PhAeBC6_p_c21860_g16919_i1
+the 2nd highly supported node consisting the parasite gene and the rosid donor is 97.0 with the node shown as:
+
+      /-Cpent268654_cp65776_c1_seq1_632m_f1
+   /-|
+  |   \-Cpent23929_cp77345_c3_seq1_686m_f1
+--|
+  |   /-Eutrema_salsugineum_10001059m
+   \-|
+     |   /-StHeBC4_p_c21399_g0_i1
+      \-|
+        |   /-PhAeBC6_p_c21860_g11073_i1
+         \-|
+           |   /-PhAeBC6_p_c21860_g16918_i1
+            \-|
+               \-PhAeBC6_p_c21860_g16919_i1

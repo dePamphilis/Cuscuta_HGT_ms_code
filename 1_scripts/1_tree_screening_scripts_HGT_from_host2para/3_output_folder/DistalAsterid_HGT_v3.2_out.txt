@@ -1,0 +1,491 @@
+printing to stdout before suppression
+printing to stdout after suppression
+Orthogroup number: 103 has the big node shown as:
+
+   /-gnl_kiwi_Achn271011
+  |
+  |   /-StHeBC4_p_c16927_g0_i2
+  |  |
+  |  |                  /-StHeBC4_p_c12446_g0_i1
+  |  |               /-|
+  |  |              |   \-StHeBC4_p_c19295_g0_i1
+  |  |              |
+  |  |              |      /-StHeBC4_h_c16255_g0_i1
+  |  |              |     |
+  |  |            /-|   /-|   /-StHeBC4_p_c10901_g0_i1
+  |  |           |  |  |  |  |
+  |  |           |  |  |   \-|   /-StHeBC4_p_c19029_g5_i1
+  |  |           |  |  |     |  |
+  |  |           |  |  |      \-|      /-StHeBC4_p_c19029_g3_i1
+--|  |           |   \-|        |   /-|
+  |  |           |     |         \-|   \-StHeBC4_h_c19029_g0_i1
+  |  |           |     |           |
+  |  |           |     |            \-StHeBC4_h_c19029_g2_i1
+  |  |           |     |
+  |  |           |     |   /-StHeBC4_p_c26596_g12_i1
+  |  |           |      \-|
+  |  |           |        |   /-StHeBC4_h_c26596_g11_i1
+  |  |         /-|         \-|
+  |  |        |  |           |   /-StHeBC4_p_c26596_g15_i1
+  |  |        |  |            \-|
+  |  |        |  |               \-StHeBC4_p_c26596_g3_i1
+  |  |        |  |
+  |  |        |  |            /-Cpent140100_cp70210_c0_seq4_2692p_f1
+  |  |        |  |         /-|
+   \-|        |  |        |   \-Cpent140110_cp70210_c0_seq14_2289p_f1
+     |        |  |      /-|
+     |        |  |     |  |   /-Cpent140098_cp70210_c0_seq2_3113p_f1
+     |        |  |     |   \-|
+     |        |  |   /-|      \-Cpent140106_cp70210_c0_seq10_2365p_f1
+     |      /-|  |  |  |
+     |     |  |  |  |  |   /-PhAeBC6_p_c4776_g0_i1
+     |     |  |   \-|   \-|
+     |     |  |     |      \-PhAeBC6_p_c12242_g0_i1
+     |     |  |     |
+     |     |  |     |   /-StHeBC4_p_c22107_g9_i3
+     |     |  |      \-|
+     |     |  |         \-StHeBC4_p_c9940_g0_i1
+     |     |  |
+     |     |  |   /-StHeBC4_p_c3796_g0_i1
+     |     |  |  |
+     |     |  |  |      /-StHeBC4_p_c19333_g0_i2
+     |     |   \-|   /-|
+     |     |     |  |   \-StHeBC4_p_c19333_g1_i2
+     |     |     |  |
+     |   /-|     |  |         /-StHeBC4_p_c21110_g6_i1
+     |  |  |      \-|      /-|
+     |  |  |        |   /-|   \-StHeBC4_p_c21110_g2_i1
+     |  |  |        |  |  |
+     |  |  |        |  |   \-StHeBC4_p_c21110_g4_i1
+     |  |  |        |  |
+     |  |  |         \-|      /-StHeBC4_p_c21110_g0_i1
+     |  |  |           |   /-|
+     |  |  |           |  |  |   /-StHeBC4_p_c21110_g7_i1
+      \-|  |           |  |   \-|
+        |  |            \-|     |   /-StHeBC4_p_c21110_g1_i1
+        |  |              |      \-|
+        |  |              |         \-StHeBC4_p_c21110_g5_i1
+        |  |              |
+        |  |               \-StHeBC4_p_c21110_g3_i1
+        |  |
+        |   \-StHeBC4_p_c20699_g0_i1
+        |
+         \-StHeBC4_p_c19145_g0_i2
+the node1 support consisting the Cuscuta gene and distal asterid donor is 100.0 with the node shown as:
+
+         /-Cpent140100_cp70210_c0_seq4_2692p_f1
+      /-|
+     |   \-Cpent140110_cp70210_c0_seq14_2289p_f1
+   /-|
+  |  |   /-Cpent140098_cp70210_c0_seq2_3113p_f1
+  |   \-|
+--|      \-Cpent140106_cp70210_c0_seq10_2365p_f1
+  |
+  |   /-PhAeBC6_p_c4776_g0_i1
+   \-|
+      \-PhAeBC6_p_c12242_g0_i1
+the 2nd node weakly supporting the grouping of distal asterid clade is 49.0 with the node shown as:
+
+   /-PhAeBC6_p_c4776_g0_i1
+--|
+   \-PhAeBC6_p_c12242_g0_i1
+Orthogroup number: 103 has the big node shown as:
+
+   /-gnl_kiwi_Achn271011
+  |
+  |   /-StHeBC4_p_c16927_g0_i2
+  |  |
+  |  |                  /-StHeBC4_p_c12446_g0_i1
+  |  |               /-|
+  |  |              |   \-StHeBC4_p_c19295_g0_i1
+  |  |              |
+  |  |              |      /-StHeBC4_h_c16255_g0_i1
+  |  |              |     |
+  |  |            /-|   /-|   /-StHeBC4_p_c10901_g0_i1
+  |  |           |  |  |  |  |
+  |  |           |  |  |   \-|   /-StHeBC4_p_c19029_g5_i1
+  |  |           |  |  |     |  |
+  |  |           |  |  |      \-|      /-StHeBC4_p_c19029_g3_i1
+--|  |           |   \-|        |   /-|
+  |  |           |     |         \-|   \-StHeBC4_h_c19029_g0_i1
+  |  |           |     |           |
+  |  |           |     |            \-StHeBC4_h_c19029_g2_i1
+  |  |           |     |
+  |  |           |     |   /-StHeBC4_p_c26596_g12_i1
+  |  |           |      \-|
+  |  |           |        |   /-StHeBC4_h_c26596_g11_i1
+  |  |         /-|         \-|
+  |  |        |  |           |   /-StHeBC4_p_c26596_g15_i1
+  |  |        |  |            \-|
+  |  |        |  |               \-StHeBC4_p_c26596_g3_i1
+  |  |        |  |
+  |  |        |  |            /-Cpent140100_cp70210_c0_seq4_2692p_f1
+  |  |        |  |         /-|
+   \-|        |  |        |   \-Cpent140110_cp70210_c0_seq14_2289p_f1
+     |        |  |      /-|
+     |        |  |     |  |   /-Cpent140098_cp70210_c0_seq2_3113p_f1
+     |        |  |     |   \-|
+     |        |  |   /-|      \-Cpent140106_cp70210_c0_seq10_2365p_f1
+     |      /-|  |  |  |
+     |     |  |  |  |  |   /-PhAeBC6_p_c4776_g0_i1
+     |     |  |   \-|   \-|
+     |     |  |     |      \-PhAeBC6_p_c12242_g0_i1
+     |     |  |     |
+     |     |  |     |   /-StHeBC4_p_c22107_g9_i3
+     |     |  |      \-|
+     |     |  |         \-StHeBC4_p_c9940_g0_i1
+     |     |  |
+     |     |  |   /-StHeBC4_p_c3796_g0_i1
+     |     |  |  |
+     |     |  |  |      /-StHeBC4_p_c19333_g0_i2
+     |     |   \-|   /-|
+     |     |     |  |   \-StHeBC4_p_c19333_g1_i2
+     |     |     |  |
+     |   /-|     |  |         /-StHeBC4_p_c21110_g6_i1
+     |  |  |      \-|      /-|
+     |  |  |        |   /-|   \-StHeBC4_p_c21110_g2_i1
+     |  |  |        |  |  |
+     |  |  |        |  |   \-StHeBC4_p_c21110_g4_i1
+     |  |  |        |  |
+     |  |  |         \-|      /-StHeBC4_p_c21110_g0_i1
+     |  |  |           |   /-|
+     |  |  |           |  |  |   /-StHeBC4_p_c21110_g7_i1
+      \-|  |           |  |   \-|
+        |  |            \-|     |   /-StHeBC4_p_c21110_g1_i1
+        |  |              |      \-|
+        |  |              |         \-StHeBC4_p_c21110_g5_i1
+        |  |              |
+        |  |               \-StHeBC4_p_c21110_g3_i1
+        |  |
+        |   \-StHeBC4_p_c20699_g0_i1
+        |
+         \-StHeBC4_p_c19145_g0_i2
+the node1 support consisting the Cuscuta gene and distal asterid donor is 100.0 with the node shown as:
+
+         /-Cpent140100_cp70210_c0_seq4_2692p_f1
+      /-|
+     |   \-Cpent140110_cp70210_c0_seq14_2289p_f1
+   /-|
+  |  |   /-Cpent140098_cp70210_c0_seq2_3113p_f1
+  |   \-|
+--|      \-Cpent140106_cp70210_c0_seq10_2365p_f1
+  |
+  |   /-PhAeBC6_p_c4776_g0_i1
+   \-|
+      \-PhAeBC6_p_c12242_g0_i1
+the 2nd node weakly supporting the grouping of distal asterid clade is 49.0 with the node shown as:
+
+   /-PhAeBC6_p_c4776_g0_i1
+--|
+   \-PhAeBC6_p_c12242_g0_i1
+Orthogroup number: 103 has the big node shown as:
+
+   /-gnl_kiwi_Achn271011
+  |
+  |   /-StHeBC4_p_c16927_g0_i2
+  |  |
+  |  |                  /-StHeBC4_p_c12446_g0_i1
+  |  |               /-|
+  |  |              |   \-StHeBC4_p_c19295_g0_i1
+  |  |              |
+  |  |              |      /-StHeBC4_h_c16255_g0_i1
+  |  |              |     |
+  |  |            /-|   /-|   /-StHeBC4_p_c10901_g0_i1
+  |  |           |  |  |  |  |
+  |  |           |  |  |   \-|   /-StHeBC4_p_c19029_g5_i1
+  |  |           |  |  |     |  |
+  |  |           |  |  |      \-|      /-StHeBC4_p_c19029_g3_i1
+--|  |           |   \-|        |   /-|
+  |  |           |     |         \-|   \-StHeBC4_h_c19029_g0_i1
+  |  |           |     |           |
+  |  |           |     |            \-StHeBC4_h_c19029_g2_i1
+  |  |           |     |
+  |  |           |     |   /-StHeBC4_p_c26596_g12_i1
+  |  |           |      \-|
+  |  |           |        |   /-StHeBC4_h_c26596_g11_i1
+  |  |         /-|         \-|
+  |  |        |  |           |   /-StHeBC4_p_c26596_g15_i1
+  |  |        |  |            \-|
+  |  |        |  |               \-StHeBC4_p_c26596_g3_i1
+  |  |        |  |
+  |  |        |  |            /-Cpent140100_cp70210_c0_seq4_2692p_f1
+  |  |        |  |         /-|
+   \-|        |  |        |   \-Cpent140110_cp70210_c0_seq14_2289p_f1
+     |        |  |      /-|
+     |        |  |     |  |   /-Cpent140098_cp70210_c0_seq2_3113p_f1
+     |        |  |     |   \-|
+     |        |  |   /-|      \-Cpent140106_cp70210_c0_seq10_2365p_f1
+     |      /-|  |  |  |
+     |     |  |  |  |  |   /-PhAeBC6_p_c4776_g0_i1
+     |     |  |   \-|   \-|
+     |     |  |     |      \-PhAeBC6_p_c12242_g0_i1
+     |     |  |     |
+     |     |  |     |   /-StHeBC4_p_c22107_g9_i3
+     |     |  |      \-|
+     |     |  |         \-StHeBC4_p_c9940_g0_i1
+     |     |  |
+     |     |  |   /-StHeBC4_p_c3796_g0_i1
+     |     |  |  |
+     |     |  |  |      /-StHeBC4_p_c19333_g0_i2
+     |     |   \-|   /-|
+     |     |     |  |   \-StHeBC4_p_c19333_g1_i2
+     |     |     |  |
+     |   /-|     |  |         /-StHeBC4_p_c21110_g6_i1
+     |  |  |      \-|      /-|
+     |  |  |        |   /-|   \-StHeBC4_p_c21110_g2_i1
+     |  |  |        |  |  |
+     |  |  |        |  |   \-StHeBC4_p_c21110_g4_i1
+     |  |  |        |  |
+     |  |  |         \-|      /-StHeBC4_p_c21110_g0_i1
+     |  |  |           |   /-|
+     |  |  |           |  |  |   /-StHeBC4_p_c21110_g7_i1
+      \-|  |           |  |   \-|
+        |  |            \-|     |   /-StHeBC4_p_c21110_g1_i1
+        |  |              |      \-|
+        |  |              |         \-StHeBC4_p_c21110_g5_i1
+        |  |              |
+        |  |               \-StHeBC4_p_c21110_g3_i1
+        |  |
+        |   \-StHeBC4_p_c20699_g0_i1
+        |
+         \-StHeBC4_p_c19145_g0_i2
+the node1 support consisting the Cuscuta gene and distal asterid donor is 100.0 with the node shown as:
+
+         /-Cpent140100_cp70210_c0_seq4_2692p_f1
+      /-|
+     |   \-Cpent140110_cp70210_c0_seq14_2289p_f1
+   /-|
+  |  |   /-Cpent140098_cp70210_c0_seq2_3113p_f1
+  |   \-|
+--|      \-Cpent140106_cp70210_c0_seq10_2365p_f1
+  |
+  |   /-PhAeBC6_p_c4776_g0_i1
+   \-|
+      \-PhAeBC6_p_c12242_g0_i1
+the 2nd node weakly supporting the grouping of distal asterid clade is 49.0 with the node shown as:
+
+   /-PhAeBC6_p_c4776_g0_i1
+--|
+   \-PhAeBC6_p_c12242_g0_i1
+Orthogroup number: 103 has the big node shown as:
+
+   /-gnl_kiwi_Achn271011
+  |
+  |   /-StHeBC4_p_c16927_g0_i2
+  |  |
+  |  |                  /-StHeBC4_p_c12446_g0_i1
+  |  |               /-|
+  |  |              |   \-StHeBC4_p_c19295_g0_i1
+  |  |              |
+  |  |              |      /-StHeBC4_h_c16255_g0_i1
+  |  |              |     |
+  |  |            /-|   /-|   /-StHeBC4_p_c10901_g0_i1
+  |  |           |  |  |  |  |
+  |  |           |  |  |   \-|   /-StHeBC4_p_c19029_g5_i1
+  |  |           |  |  |     |  |
+  |  |           |  |  |      \-|      /-StHeBC4_p_c19029_g3_i1
+--|  |           |   \-|        |   /-|
+  |  |           |     |         \-|   \-StHeBC4_h_c19029_g0_i1
+  |  |           |     |           |
+  |  |           |     |            \-StHeBC4_h_c19029_g2_i1
+  |  |           |     |
+  |  |           |     |   /-StHeBC4_p_c26596_g12_i1
+  |  |           |      \-|
+  |  |           |        |   /-StHeBC4_h_c26596_g11_i1
+  |  |         /-|         \-|
+  |  |        |  |           |   /-StHeBC4_p_c26596_g15_i1
+  |  |        |  |            \-|
+  |  |        |  |               \-StHeBC4_p_c26596_g3_i1
+  |  |        |  |
+  |  |        |  |            /-Cpent140100_cp70210_c0_seq4_2692p_f1
+  |  |        |  |         /-|
+   \-|        |  |        |   \-Cpent140110_cp70210_c0_seq14_2289p_f1
+     |        |  |      /-|
+     |        |  |     |  |   /-Cpent140098_cp70210_c0_seq2_3113p_f1
+     |        |  |     |   \-|
+     |        |  |   /-|      \-Cpent140106_cp70210_c0_seq10_2365p_f1
+     |      /-|  |  |  |
+     |     |  |  |  |  |   /-PhAeBC6_p_c4776_g0_i1
+     |     |  |   \-|   \-|
+     |     |  |     |      \-PhAeBC6_p_c12242_g0_i1
+     |     |  |     |
+     |     |  |     |   /-StHeBC4_p_c22107_g9_i3
+     |     |  |      \-|
+     |     |  |         \-StHeBC4_p_c9940_g0_i1
+     |     |  |
+     |     |  |   /-StHeBC4_p_c3796_g0_i1
+     |     |  |  |
+     |     |  |  |      /-StHeBC4_p_c19333_g0_i2
+     |     |   \-|   /-|
+     |     |     |  |   \-StHeBC4_p_c19333_g1_i2
+     |     |     |  |
+     |   /-|     |  |         /-StHeBC4_p_c21110_g6_i1
+     |  |  |      \-|      /-|
+     |  |  |        |   /-|   \-StHeBC4_p_c21110_g2_i1
+     |  |  |        |  |  |
+     |  |  |        |  |   \-StHeBC4_p_c21110_g4_i1
+     |  |  |        |  |
+     |  |  |         \-|      /-StHeBC4_p_c21110_g0_i1
+     |  |  |           |   /-|
+     |  |  |           |  |  |   /-StHeBC4_p_c21110_g7_i1
+      \-|  |           |  |   \-|
+        |  |            \-|     |   /-StHeBC4_p_c21110_g1_i1
+        |  |              |      \-|
+        |  |              |         \-StHeBC4_p_c21110_g5_i1
+        |  |              |
+        |  |               \-StHeBC4_p_c21110_g3_i1
+        |  |
+        |   \-StHeBC4_p_c20699_g0_i1
+        |
+         \-StHeBC4_p_c19145_g0_i2
+the node1 support consisting the Cuscuta gene and distal asterid donor is 100.0 with the node shown as:
+
+         /-Cpent140100_cp70210_c0_seq4_2692p_f1
+      /-|
+     |   \-Cpent140110_cp70210_c0_seq14_2289p_f1
+   /-|
+  |  |   /-Cpent140098_cp70210_c0_seq2_3113p_f1
+  |   \-|
+--|      \-Cpent140106_cp70210_c0_seq10_2365p_f1
+  |
+  |   /-PhAeBC6_p_c4776_g0_i1
+   \-|
+      \-PhAeBC6_p_c12242_g0_i1
+the 2nd node weakly supporting the grouping of distal asterid clade is 49.0 with the node shown as:
+
+   /-PhAeBC6_p_c4776_g0_i1
+--|
+   \-PhAeBC6_p_c12242_g0_i1
+Orthogroup number: 18 has the big node shown as:
+
+      /-gnl_Betvu_v1.1_Bv9_208960_tjmz.t1
+   /-|
+  |   \-gnl_Betvu_v1.1_Bv_06370_wtrp.t1
+  |
+  |         /-gnl_Betvu_v1.1_Bv2_039510_adaa.t1
+  |      /-|
+  |     |  |   /-gnl_Betvu_v1.1_Bv6_143030_eykz.t1
+--|     |   \-|
+  |   /-|      \-gnl_Betvu_v1.1_Bv_86100_rgwi.t1
+  |  |  |
+  |  |  |   /-gnl_Betvu_v1.1_Bv5_114590_jzxo.t1
+  |  |   \-|
+  |  |     |   /-gnl_Betvu_v1.1_Bv8_191560_iqce.t1
+   \-|      \-|
+     |        |   /-gnl_Betvu_v1.1_Bv_21620_iewd.t1
+     |         \-|
+     |            \-gnl_Betvu_v1.1_Bv_21600_ishg.t1
+     |
+      \-Cpent250288_cp78732_c1_seq1_1137x_f1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 78.0 with the node shown as:
+
+         /-gnl_Betvu_v1.1_Bv2_039510_adaa.t1
+      /-|
+     |  |   /-gnl_Betvu_v1.1_Bv6_143030_eykz.t1
+     |   \-|
+   /-|      \-gnl_Betvu_v1.1_Bv_86100_rgwi.t1
+  |  |
+  |  |   /-gnl_Betvu_v1.1_Bv5_114590_jzxo.t1
+  |   \-|
+  |     |   /-gnl_Betvu_v1.1_Bv8_191560_iqce.t1
+--|      \-|
+  |        |   /-gnl_Betvu_v1.1_Bv_21620_iewd.t1
+  |         \-|
+  |            \-gnl_Betvu_v1.1_Bv_21600_ishg.t1
+  |
+   \-Cpent250288_cp78732_c1_seq1_1137x_f1
+the 2nd node weakly supporting the grouping of distal asterid clade is 49.0 with the node shown as:
+
+      /-gnl_Betvu_v1.1_Bv2_039510_adaa.t1
+   /-|
+  |  |   /-gnl_Betvu_v1.1_Bv6_143030_eykz.t1
+  |   \-|
+--|      \-gnl_Betvu_v1.1_Bv_86100_rgwi.t1
+  |
+  |   /-gnl_Betvu_v1.1_Bv5_114590_jzxo.t1
+   \-|
+     |   /-gnl_Betvu_v1.1_Bv8_191560_iqce.t1
+      \-|
+        |   /-gnl_Betvu_v1.1_Bv_21620_iewd.t1
+         \-|
+            \-gnl_Betvu_v1.1_Bv_21600_ishg.t1
+Orthogroup number: 18 has the big node shown as:
+
+         /-gnl_Betvu_v1.1_Bv2_039510_adaa.t1
+      /-|
+     |  |   /-gnl_Betvu_v1.1_Bv6_143030_eykz.t1
+     |   \-|
+   /-|      \-gnl_Betvu_v1.1_Bv_86100_rgwi.t1
+  |  |
+  |  |   /-gnl_Betvu_v1.1_Bv5_114590_jzxo.t1
+  |   \-|
+  |     |   /-gnl_Betvu_v1.1_Bv8_191560_iqce.t1
+--|      \-|
+  |        |   /-gnl_Betvu_v1.1_Bv_21620_iewd.t1
+  |         \-|
+  |            \-gnl_Betvu_v1.1_Bv_21600_ishg.t1
+  |
+   \-Cpent250288_cp78732_c1_seq1_1137x_f1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 78.0 with the node shown as:
+
+         /-gnl_Betvu_v1.1_Bv2_039510_adaa.t1
+      /-|
+     |  |   /-gnl_Betvu_v1.1_Bv6_143030_eykz.t1
+     |   \-|
+   /-|      \-gnl_Betvu_v1.1_Bv_86100_rgwi.t1
+  |  |
+  |  |   /-gnl_Betvu_v1.1_Bv5_114590_jzxo.t1
+  |   \-|
+  |     |   /-gnl_Betvu_v1.1_Bv8_191560_iqce.t1
+--|      \-|
+  |        |   /-gnl_Betvu_v1.1_Bv_21620_iewd.t1
+  |         \-|
+  |            \-gnl_Betvu_v1.1_Bv_21600_ishg.t1
+  |
+   \-Cpent250288_cp78732_c1_seq1_1137x_f1
+the 2nd node weakly supporting the grouping of distal asterid clade is 49.0 with the node shown as:
+
+      /-gnl_Betvu_v1.1_Bv2_039510_adaa.t1
+   /-|
+  |  |   /-gnl_Betvu_v1.1_Bv6_143030_eykz.t1
+  |   \-|
+--|      \-gnl_Betvu_v1.1_Bv_86100_rgwi.t1
+  |
+  |   /-gnl_Betvu_v1.1_Bv5_114590_jzxo.t1
+   \-|
+     |   /-gnl_Betvu_v1.1_Bv8_191560_iqce.t1
+      \-|
+        |   /-gnl_Betvu_v1.1_Bv_21620_iewd.t1
+         \-|
+            \-gnl_Betvu_v1.1_Bv_21600_ishg.t1
+Orthogroup number: 2810 has the big node shown as:
+
+         /-Amaranthus_hypochondriacus_009184
+      /-|
+     |  |   /-Amaranthus_hypochondriacus_018344
+   /-|   \-|
+  |  |      \-Amaranthus_hypochondriacus_018341
+--|  |
+  |   \-gnl_Betvu_v1.1_Bv_50130_dfio.t1
+  |
+   \-Cpent143876_cp70206_c0_seq1_1608m_f1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 62.0 with the node shown as:
+
+         /-Amaranthus_hypochondriacus_009184
+      /-|
+     |  |   /-Amaranthus_hypochondriacus_018344
+   /-|   \-|
+  |  |      \-Amaranthus_hypochondriacus_018341
+--|  |
+  |   \-gnl_Betvu_v1.1_Bv_50130_dfio.t1
+  |
+   \-Cpent143876_cp70206_c0_seq1_1608m_f1
+the 2nd node weakly supporting the grouping of distal asterid clade is 41.0 with the node shown as:
+
+      /-Amaranthus_hypochondriacus_009184
+   /-|
+  |  |   /-Amaranthus_hypochondriacus_018344
+--|   \-|
+  |      \-Amaranthus_hypochondriacus_018341
+  |
+   \-gnl_Betvu_v1.1_Bv_50130_dfio.t1

@@ -1,0 +1,1478 @@
+printing to stdout before suppression
+printing to stdout after suppression
+Orthogroup number: 13192 has the big node shown as:
+
+      /-Cpent90346_cp54851_c1_seq4_1156x_f1
+   /-|
+  |  |   /-Cpent90344_cp54851_c1_seq2_1640x_f1
+  |   \-|
+  |     |   /-Cpent90345_cp54851_c1_seq3_1219x_f1
+--|      \-|
+  |         \-Cpent90343_cp54851_c1_seq1_1703x_f1
+  |
+  |   /-Cpent152426_cp60121_c0_seq11_1884p_f1
+   \-|
+     |   /-gnl_Phavu_v1.0_Phvul.002G047900.1
+      \-|
+         \-gnl_Medtr_Mt4.0v1_Medtr5g005690.1
+the node1 support consisting the Cuscuta gene and rosid donor is 95.0 with the node shown as:
+
+   /-Cpent152426_cp60121_c0_seq11_1884p_f1
+--|
+  |   /-gnl_Phavu_v1.0_Phvul.002G047900.1
+   \-|
+      \-gnl_Medtr_Mt4.0v1_Medtr5g005690.1
+the 2nd node weakly supporting the grouping of rosid clade is 38.0 with the node shown as:
+
+   /-gnl_Phavu_v1.0_Phvul.002G047900.1
+--|
+   \-gnl_Medtr_Mt4.0v1_Medtr5g005690.1
+Orthogroup number: 13192 has the big node shown as:
+
+   /-Cpent152426_cp60121_c0_seq11_1884p_f1
+--|
+  |   /-gnl_Phavu_v1.0_Phvul.002G047900.1
+   \-|
+      \-gnl_Medtr_Mt4.0v1_Medtr5g005690.1
+the node1 support consisting the Cuscuta gene and rosid donor is 95.0 with the node shown as:
+
+   /-Cpent152426_cp60121_c0_seq11_1884p_f1
+--|
+  |   /-gnl_Phavu_v1.0_Phvul.002G047900.1
+   \-|
+      \-gnl_Medtr_Mt4.0v1_Medtr5g005690.1
+the 2nd node weakly supporting the grouping of rosid clade is 38.0 with the node shown as:
+
+   /-gnl_Phavu_v1.0_Phvul.002G047900.1
+--|
+   \-gnl_Medtr_Mt4.0v1_Medtr5g005690.1
+Orthogroup number: 15425 has the big node shown as:
+
+         /-gnl_Eucgr_v1.1_Eucgr.F01057.1
+      /-|
+     |   \-gnl_Eucgr_v1.1_Eucgr.F00851.1
+     |
+   /-|      /-Cpent258776_cp78149_c1_seq9_2973m_f2
+  |  |   /-|
+  |  |  |  |   /-StHeBC4_h_c12903_g17152_i1
+  |   \-|   \-|
+--|     |      \-Cpent160315_cp74801_c1_seq1_1455m_f2
+  |     |
+  |      \-Cpent168395_cp75578_c0_seq4_2516m_f2
+  |
+  |   /-Eutrema_salsugineum_10019597m
+   \-|
+      \-gnl_Poptr_v3.0_Potri.013G121100.1
+the node1 support consisting the Cuscuta gene and rosid donor is 71.0 with the node shown as:
+
+      /-Cpent258776_cp78149_c1_seq9_2973m_f2
+   /-|
+  |  |   /-StHeBC4_h_c12903_g17152_i1
+--|   \-|
+  |      \-Cpent160315_cp74801_c1_seq1_1455m_f2
+  |
+   \-Cpent168395_cp75578_c0_seq4_2516m_f2
+the 2nd node weakly supporting the grouping of rosid clade is 46.0 with the node shown as:
+
+   /-StHeBC4_h_c12903_g17152_i1
+--|
+   \-Cpent160315_cp74801_c1_seq1_1455m_f2
+Orthogroup number: 15425 has the big node shown as:
+
+      /-gnl_Eucgr_v1.1_Eucgr.F01057.1
+   /-|
+  |   \-gnl_Eucgr_v1.1_Eucgr.F00851.1
+  |
+--|      /-Cpent258776_cp78149_c1_seq9_2973m_f2
+  |   /-|
+  |  |  |   /-StHeBC4_h_c12903_g17152_i1
+   \-|   \-|
+     |      \-Cpent160315_cp74801_c1_seq1_1455m_f2
+     |
+      \-Cpent168395_cp75578_c0_seq4_2516m_f2
+the node1 support consisting the Cuscuta gene and rosid donor is 71.0 with the node shown as:
+
+      /-Cpent258776_cp78149_c1_seq9_2973m_f2
+   /-|
+  |  |   /-StHeBC4_h_c12903_g17152_i1
+--|   \-|
+  |      \-Cpent160315_cp74801_c1_seq1_1455m_f2
+  |
+   \-Cpent168395_cp75578_c0_seq4_2516m_f2
+the 2nd node weakly supporting the grouping of rosid clade is 46.0 with the node shown as:
+
+   /-StHeBC4_h_c12903_g17152_i1
+--|
+   \-Cpent160315_cp74801_c1_seq1_1455m_f2
+Orthogroup number: 16476 has the big node shown as:
+
+      /-gnl_Theca_v1.1_Thecc1EG044801t1
+     |
+     |      /-Cpent136660_cp71315_c0_seq6_387p_f1
+     |   /-|
+   /-|  |  |   /-Cpent136662_cp71315_c1_seq2_1174m_f1
+  |  |  |   \-|
+  |  |  |     |   /-Cpent136664_cp71315_c1_seq4_1078m_f1
+  |  |  |      \-|
+  |  |  |        |   /-Cpent136666_cp71315_c1_seq6_585m_f1
+  |   \-|         \-|
+  |     |           |   /-Cpent136661_cp71315_c1_seq1_1176m_f1
+--|     |            \-|
+  |     |               \-Cpent136665_cp71315_c1_seq5_1011m_f1
+  |     |
+  |     |   /-gnl_Theca_v1.1_Thecc1EG044799t1
+  |      \-|
+  |         \-gnl_Theca_v1.1_Thecc1EG044829t1
+  |
+   \-gnl_Theca_v1.1_Thecc1EG044818t1
+the node1 support consisting the Cuscuta gene and rosid donor is 91.0 with the node shown as:
+
+      /-Cpent136660_cp71315_c0_seq6_387p_f1
+   /-|
+  |  |   /-Cpent136662_cp71315_c1_seq2_1174m_f1
+  |   \-|
+  |     |   /-Cpent136664_cp71315_c1_seq4_1078m_f1
+  |      \-|
+  |        |   /-Cpent136666_cp71315_c1_seq6_585m_f1
+--|         \-|
+  |           |   /-Cpent136661_cp71315_c1_seq1_1176m_f1
+  |            \-|
+  |               \-Cpent136665_cp71315_c1_seq5_1011m_f1
+  |
+  |   /-gnl_Theca_v1.1_Thecc1EG044799t1
+   \-|
+      \-gnl_Theca_v1.1_Thecc1EG044829t1
+the 2nd node weakly supporting the grouping of rosid clade is 35.0 with the node shown as:
+
+   /-gnl_Theca_v1.1_Thecc1EG044799t1
+--|
+   \-gnl_Theca_v1.1_Thecc1EG044829t1
+Orthogroup number: 16476 has the big node shown as:
+
+      /-gnl_Theca_v1.1_Thecc1EG044801t1
+     |
+     |      /-Cpent136660_cp71315_c0_seq6_387p_f1
+     |   /-|
+   /-|  |  |   /-Cpent136662_cp71315_c1_seq2_1174m_f1
+  |  |  |   \-|
+  |  |  |     |   /-Cpent136664_cp71315_c1_seq4_1078m_f1
+  |  |  |      \-|
+  |  |  |        |   /-Cpent136666_cp71315_c1_seq6_585m_f1
+  |   \-|         \-|
+  |     |           |   /-Cpent136661_cp71315_c1_seq1_1176m_f1
+--|     |            \-|
+  |     |               \-Cpent136665_cp71315_c1_seq5_1011m_f1
+  |     |
+  |     |   /-gnl_Theca_v1.1_Thecc1EG044799t1
+  |      \-|
+  |         \-gnl_Theca_v1.1_Thecc1EG044829t1
+  |
+   \-gnl_Theca_v1.1_Thecc1EG044818t1
+the node1 support consisting the Cuscuta gene and rosid donor is 91.0 with the node shown as:
+
+      /-Cpent136660_cp71315_c0_seq6_387p_f1
+   /-|
+  |  |   /-Cpent136662_cp71315_c1_seq2_1174m_f1
+  |   \-|
+  |     |   /-Cpent136664_cp71315_c1_seq4_1078m_f1
+  |      \-|
+  |        |   /-Cpent136666_cp71315_c1_seq6_585m_f1
+--|         \-|
+  |           |   /-Cpent136661_cp71315_c1_seq1_1176m_f1
+  |            \-|
+  |               \-Cpent136665_cp71315_c1_seq5_1011m_f1
+  |
+  |   /-gnl_Theca_v1.1_Thecc1EG044799t1
+   \-|
+      \-gnl_Theca_v1.1_Thecc1EG044829t1
+the 2nd node weakly supporting the grouping of rosid clade is 35.0 with the node shown as:
+
+   /-gnl_Theca_v1.1_Thecc1EG044799t1
+--|
+   \-gnl_Theca_v1.1_Thecc1EG044829t1
+Orthogroup number: 16476 has the big node shown as:
+
+      /-gnl_Theca_v1.1_Thecc1EG044801t1
+     |
+     |      /-Cpent136660_cp71315_c0_seq6_387p_f1
+     |   /-|
+   /-|  |  |   /-Cpent136662_cp71315_c1_seq2_1174m_f1
+  |  |  |   \-|
+  |  |  |     |   /-Cpent136664_cp71315_c1_seq4_1078m_f1
+  |  |  |      \-|
+  |  |  |        |   /-Cpent136666_cp71315_c1_seq6_585m_f1
+  |   \-|         \-|
+  |     |           |   /-Cpent136661_cp71315_c1_seq1_1176m_f1
+--|     |            \-|
+  |     |               \-Cpent136665_cp71315_c1_seq5_1011m_f1
+  |     |
+  |     |   /-gnl_Theca_v1.1_Thecc1EG044799t1
+  |      \-|
+  |         \-gnl_Theca_v1.1_Thecc1EG044829t1
+  |
+   \-gnl_Theca_v1.1_Thecc1EG044818t1
+the node1 support consisting the Cuscuta gene and rosid donor is 91.0 with the node shown as:
+
+      /-Cpent136660_cp71315_c0_seq6_387p_f1
+   /-|
+  |  |   /-Cpent136662_cp71315_c1_seq2_1174m_f1
+  |   \-|
+  |     |   /-Cpent136664_cp71315_c1_seq4_1078m_f1
+  |      \-|
+  |        |   /-Cpent136666_cp71315_c1_seq6_585m_f1
+--|         \-|
+  |           |   /-Cpent136661_cp71315_c1_seq1_1176m_f1
+  |            \-|
+  |               \-Cpent136665_cp71315_c1_seq5_1011m_f1
+  |
+  |   /-gnl_Theca_v1.1_Thecc1EG044799t1
+   \-|
+      \-gnl_Theca_v1.1_Thecc1EG044829t1
+the 2nd node weakly supporting the grouping of rosid clade is 35.0 with the node shown as:
+
+   /-gnl_Theca_v1.1_Thecc1EG044799t1
+--|
+   \-gnl_Theca_v1.1_Thecc1EG044829t1
+Orthogroup number: 16476 has the big node shown as:
+
+      /-gnl_Theca_v1.1_Thecc1EG044801t1
+     |
+     |      /-Cpent136660_cp71315_c0_seq6_387p_f1
+     |   /-|
+   /-|  |  |   /-Cpent136662_cp71315_c1_seq2_1174m_f1
+  |  |  |   \-|
+  |  |  |     |   /-Cpent136664_cp71315_c1_seq4_1078m_f1
+  |  |  |      \-|
+  |  |  |        |   /-Cpent136666_cp71315_c1_seq6_585m_f1
+  |   \-|         \-|
+  |     |           |   /-Cpent136661_cp71315_c1_seq1_1176m_f1
+--|     |            \-|
+  |     |               \-Cpent136665_cp71315_c1_seq5_1011m_f1
+  |     |
+  |     |   /-gnl_Theca_v1.1_Thecc1EG044799t1
+  |      \-|
+  |         \-gnl_Theca_v1.1_Thecc1EG044829t1
+  |
+   \-gnl_Theca_v1.1_Thecc1EG044818t1
+the node1 support consisting the Cuscuta gene and rosid donor is 91.0 with the node shown as:
+
+      /-Cpent136660_cp71315_c0_seq6_387p_f1
+   /-|
+  |  |   /-Cpent136662_cp71315_c1_seq2_1174m_f1
+  |   \-|
+  |     |   /-Cpent136664_cp71315_c1_seq4_1078m_f1
+  |      \-|
+  |        |   /-Cpent136666_cp71315_c1_seq6_585m_f1
+--|         \-|
+  |           |   /-Cpent136661_cp71315_c1_seq1_1176m_f1
+  |            \-|
+  |               \-Cpent136665_cp71315_c1_seq5_1011m_f1
+  |
+  |   /-gnl_Theca_v1.1_Thecc1EG044799t1
+   \-|
+      \-gnl_Theca_v1.1_Thecc1EG044829t1
+the 2nd node weakly supporting the grouping of rosid clade is 35.0 with the node shown as:
+
+   /-gnl_Theca_v1.1_Thecc1EG044799t1
+--|
+   \-gnl_Theca_v1.1_Thecc1EG044829t1
+Orthogroup number: 16476 has the big node shown as:
+
+      /-gnl_Theca_v1.1_Thecc1EG044801t1
+     |
+     |      /-Cpent136660_cp71315_c0_seq6_387p_f1
+     |   /-|
+   /-|  |  |   /-Cpent136662_cp71315_c1_seq2_1174m_f1
+  |  |  |   \-|
+  |  |  |     |   /-Cpent136664_cp71315_c1_seq4_1078m_f1
+  |  |  |      \-|
+  |  |  |        |   /-Cpent136666_cp71315_c1_seq6_585m_f1
+  |   \-|         \-|
+  |     |           |   /-Cpent136661_cp71315_c1_seq1_1176m_f1
+--|     |            \-|
+  |     |               \-Cpent136665_cp71315_c1_seq5_1011m_f1
+  |     |
+  |     |   /-gnl_Theca_v1.1_Thecc1EG044799t1
+  |      \-|
+  |         \-gnl_Theca_v1.1_Thecc1EG044829t1
+  |
+   \-gnl_Theca_v1.1_Thecc1EG044818t1
+the node1 support consisting the Cuscuta gene and rosid donor is 91.0 with the node shown as:
+
+      /-Cpent136660_cp71315_c0_seq6_387p_f1
+   /-|
+  |  |   /-Cpent136662_cp71315_c1_seq2_1174m_f1
+  |   \-|
+  |     |   /-Cpent136664_cp71315_c1_seq4_1078m_f1
+  |      \-|
+  |        |   /-Cpent136666_cp71315_c1_seq6_585m_f1
+--|         \-|
+  |           |   /-Cpent136661_cp71315_c1_seq1_1176m_f1
+  |            \-|
+  |               \-Cpent136665_cp71315_c1_seq5_1011m_f1
+  |
+  |   /-gnl_Theca_v1.1_Thecc1EG044799t1
+   \-|
+      \-gnl_Theca_v1.1_Thecc1EG044829t1
+the 2nd node weakly supporting the grouping of rosid clade is 35.0 with the node shown as:
+
+   /-gnl_Theca_v1.1_Thecc1EG044799t1
+--|
+   \-gnl_Theca_v1.1_Thecc1EG044829t1
+Orthogroup number: 16476 has the big node shown as:
+
+      /-gnl_Theca_v1.1_Thecc1EG044801t1
+     |
+     |      /-Cpent136660_cp71315_c0_seq6_387p_f1
+     |   /-|
+   /-|  |  |   /-Cpent136662_cp71315_c1_seq2_1174m_f1
+  |  |  |   \-|
+  |  |  |     |   /-Cpent136664_cp71315_c1_seq4_1078m_f1
+  |  |  |      \-|
+  |  |  |        |   /-Cpent136666_cp71315_c1_seq6_585m_f1
+  |   \-|         \-|
+  |     |           |   /-Cpent136661_cp71315_c1_seq1_1176m_f1
+--|     |            \-|
+  |     |               \-Cpent136665_cp71315_c1_seq5_1011m_f1
+  |     |
+  |     |   /-gnl_Theca_v1.1_Thecc1EG044799t1
+  |      \-|
+  |         \-gnl_Theca_v1.1_Thecc1EG044829t1
+  |
+   \-gnl_Theca_v1.1_Thecc1EG044818t1
+the node1 support consisting the Cuscuta gene and rosid donor is 91.0 with the node shown as:
+
+      /-Cpent136660_cp71315_c0_seq6_387p_f1
+   /-|
+  |  |   /-Cpent136662_cp71315_c1_seq2_1174m_f1
+  |   \-|
+  |     |   /-Cpent136664_cp71315_c1_seq4_1078m_f1
+  |      \-|
+  |        |   /-Cpent136666_cp71315_c1_seq6_585m_f1
+--|         \-|
+  |           |   /-Cpent136661_cp71315_c1_seq1_1176m_f1
+  |            \-|
+  |               \-Cpent136665_cp71315_c1_seq5_1011m_f1
+  |
+  |   /-gnl_Theca_v1.1_Thecc1EG044799t1
+   \-|
+      \-gnl_Theca_v1.1_Thecc1EG044829t1
+the 2nd node weakly supporting the grouping of rosid clade is 35.0 with the node shown as:
+
+   /-gnl_Theca_v1.1_Thecc1EG044799t1
+--|
+   \-gnl_Theca_v1.1_Thecc1EG044829t1
+Orthogroup number: 16476 has the big node shown as:
+
+   /-gnl_Theca_v1.1_Thecc1EG044801t1
+  |
+  |      /-Cpent136660_cp71315_c0_seq6_387p_f1
+  |   /-|
+--|  |  |   /-Cpent136662_cp71315_c1_seq2_1174m_f1
+  |  |   \-|
+  |  |     |   /-Cpent136664_cp71315_c1_seq4_1078m_f1
+  |  |      \-|
+  |  |        |   /-Cpent136666_cp71315_c1_seq6_585m_f1
+   \-|         \-|
+     |           |   /-Cpent136661_cp71315_c1_seq1_1176m_f1
+     |            \-|
+     |               \-Cpent136665_cp71315_c1_seq5_1011m_f1
+     |
+     |   /-gnl_Theca_v1.1_Thecc1EG044799t1
+      \-|
+         \-gnl_Theca_v1.1_Thecc1EG044829t1
+the node1 support consisting the Cuscuta gene and rosid donor is 91.0 with the node shown as:
+
+      /-Cpent136660_cp71315_c0_seq6_387p_f1
+   /-|
+  |  |   /-Cpent136662_cp71315_c1_seq2_1174m_f1
+  |   \-|
+  |     |   /-Cpent136664_cp71315_c1_seq4_1078m_f1
+  |      \-|
+  |        |   /-Cpent136666_cp71315_c1_seq6_585m_f1
+--|         \-|
+  |           |   /-Cpent136661_cp71315_c1_seq1_1176m_f1
+  |            \-|
+  |               \-Cpent136665_cp71315_c1_seq5_1011m_f1
+  |
+  |   /-gnl_Theca_v1.1_Thecc1EG044799t1
+   \-|
+      \-gnl_Theca_v1.1_Thecc1EG044829t1
+the 2nd node weakly supporting the grouping of rosid clade is 35.0 with the node shown as:
+
+   /-gnl_Theca_v1.1_Thecc1EG044799t1
+--|
+   \-gnl_Theca_v1.1_Thecc1EG044829t1
+Orthogroup number: 16476 has the big node shown as:
+
+   /-gnl_Theca_v1.1_Thecc1EG044801t1
+  |
+  |      /-Cpent136660_cp71315_c0_seq6_387p_f1
+  |   /-|
+--|  |  |   /-Cpent136662_cp71315_c1_seq2_1174m_f1
+  |  |   \-|
+  |  |     |   /-Cpent136664_cp71315_c1_seq4_1078m_f1
+  |  |      \-|
+  |  |        |   /-Cpent136666_cp71315_c1_seq6_585m_f1
+   \-|         \-|
+     |           |   /-Cpent136661_cp71315_c1_seq1_1176m_f1
+     |            \-|
+     |               \-Cpent136665_cp71315_c1_seq5_1011m_f1
+     |
+     |   /-gnl_Theca_v1.1_Thecc1EG044799t1
+      \-|
+         \-gnl_Theca_v1.1_Thecc1EG044829t1
+the node1 support consisting the Cuscuta gene and rosid donor is 91.0 with the node shown as:
+
+      /-Cpent136660_cp71315_c0_seq6_387p_f1
+   /-|
+  |  |   /-Cpent136662_cp71315_c1_seq2_1174m_f1
+  |   \-|
+  |     |   /-Cpent136664_cp71315_c1_seq4_1078m_f1
+  |      \-|
+  |        |   /-Cpent136666_cp71315_c1_seq6_585m_f1
+--|         \-|
+  |           |   /-Cpent136661_cp71315_c1_seq1_1176m_f1
+  |            \-|
+  |               \-Cpent136665_cp71315_c1_seq5_1011m_f1
+  |
+  |   /-gnl_Theca_v1.1_Thecc1EG044799t1
+   \-|
+      \-gnl_Theca_v1.1_Thecc1EG044829t1
+the 2nd node weakly supporting the grouping of rosid clade is 35.0 with the node shown as:
+
+   /-gnl_Theca_v1.1_Thecc1EG044799t1
+--|
+   \-gnl_Theca_v1.1_Thecc1EG044829t1
+Orthogroup number: 16476 has the big node shown as:
+
+   /-gnl_Theca_v1.1_Thecc1EG044801t1
+  |
+  |      /-Cpent136660_cp71315_c0_seq6_387p_f1
+  |   /-|
+--|  |  |   /-Cpent136662_cp71315_c1_seq2_1174m_f1
+  |  |   \-|
+  |  |     |   /-Cpent136664_cp71315_c1_seq4_1078m_f1
+  |  |      \-|
+  |  |        |   /-Cpent136666_cp71315_c1_seq6_585m_f1
+   \-|         \-|
+     |           |   /-Cpent136661_cp71315_c1_seq1_1176m_f1
+     |            \-|
+     |               \-Cpent136665_cp71315_c1_seq5_1011m_f1
+     |
+     |   /-gnl_Theca_v1.1_Thecc1EG044799t1
+      \-|
+         \-gnl_Theca_v1.1_Thecc1EG044829t1
+the node1 support consisting the Cuscuta gene and rosid donor is 91.0 with the node shown as:
+
+      /-Cpent136660_cp71315_c0_seq6_387p_f1
+   /-|
+  |  |   /-Cpent136662_cp71315_c1_seq2_1174m_f1
+  |   \-|
+  |     |   /-Cpent136664_cp71315_c1_seq4_1078m_f1
+  |      \-|
+  |        |   /-Cpent136666_cp71315_c1_seq6_585m_f1
+--|         \-|
+  |           |   /-Cpent136661_cp71315_c1_seq1_1176m_f1
+  |            \-|
+  |               \-Cpent136665_cp71315_c1_seq5_1011m_f1
+  |
+  |   /-gnl_Theca_v1.1_Thecc1EG044799t1
+   \-|
+      \-gnl_Theca_v1.1_Thecc1EG044829t1
+the 2nd node weakly supporting the grouping of rosid clade is 35.0 with the node shown as:
+
+   /-gnl_Theca_v1.1_Thecc1EG044799t1
+--|
+   \-gnl_Theca_v1.1_Thecc1EG044829t1
+Orthogroup number: 16476 has the big node shown as:
+
+   /-gnl_Theca_v1.1_Thecc1EG044801t1
+  |
+  |      /-Cpent136660_cp71315_c0_seq6_387p_f1
+  |   /-|
+--|  |  |   /-Cpent136662_cp71315_c1_seq2_1174m_f1
+  |  |   \-|
+  |  |     |   /-Cpent136664_cp71315_c1_seq4_1078m_f1
+  |  |      \-|
+  |  |        |   /-Cpent136666_cp71315_c1_seq6_585m_f1
+   \-|         \-|
+     |           |   /-Cpent136661_cp71315_c1_seq1_1176m_f1
+     |            \-|
+     |               \-Cpent136665_cp71315_c1_seq5_1011m_f1
+     |
+     |   /-gnl_Theca_v1.1_Thecc1EG044799t1
+      \-|
+         \-gnl_Theca_v1.1_Thecc1EG044829t1
+the node1 support consisting the Cuscuta gene and rosid donor is 91.0 with the node shown as:
+
+      /-Cpent136660_cp71315_c0_seq6_387p_f1
+   /-|
+  |  |   /-Cpent136662_cp71315_c1_seq2_1174m_f1
+  |   \-|
+  |     |   /-Cpent136664_cp71315_c1_seq4_1078m_f1
+  |      \-|
+  |        |   /-Cpent136666_cp71315_c1_seq6_585m_f1
+--|         \-|
+  |           |   /-Cpent136661_cp71315_c1_seq1_1176m_f1
+  |            \-|
+  |               \-Cpent136665_cp71315_c1_seq5_1011m_f1
+  |
+  |   /-gnl_Theca_v1.1_Thecc1EG044799t1
+   \-|
+      \-gnl_Theca_v1.1_Thecc1EG044829t1
+the 2nd node weakly supporting the grouping of rosid clade is 35.0 with the node shown as:
+
+   /-gnl_Theca_v1.1_Thecc1EG044799t1
+--|
+   \-gnl_Theca_v1.1_Thecc1EG044829t1
+Orthogroup number: 16476 has the big node shown as:
+
+   /-gnl_Theca_v1.1_Thecc1EG044801t1
+  |
+  |      /-Cpent136660_cp71315_c0_seq6_387p_f1
+  |   /-|
+--|  |  |   /-Cpent136662_cp71315_c1_seq2_1174m_f1
+  |  |   \-|
+  |  |     |   /-Cpent136664_cp71315_c1_seq4_1078m_f1
+  |  |      \-|
+  |  |        |   /-Cpent136666_cp71315_c1_seq6_585m_f1
+   \-|         \-|
+     |           |   /-Cpent136661_cp71315_c1_seq1_1176m_f1
+     |            \-|
+     |               \-Cpent136665_cp71315_c1_seq5_1011m_f1
+     |
+     |   /-gnl_Theca_v1.1_Thecc1EG044799t1
+      \-|
+         \-gnl_Theca_v1.1_Thecc1EG044829t1
+the node1 support consisting the Cuscuta gene and rosid donor is 91.0 with the node shown as:
+
+      /-Cpent136660_cp71315_c0_seq6_387p_f1
+   /-|
+  |  |   /-Cpent136662_cp71315_c1_seq2_1174m_f1
+  |   \-|
+  |     |   /-Cpent136664_cp71315_c1_seq4_1078m_f1
+  |      \-|
+  |        |   /-Cpent136666_cp71315_c1_seq6_585m_f1
+--|         \-|
+  |           |   /-Cpent136661_cp71315_c1_seq1_1176m_f1
+  |            \-|
+  |               \-Cpent136665_cp71315_c1_seq5_1011m_f1
+  |
+  |   /-gnl_Theca_v1.1_Thecc1EG044799t1
+   \-|
+      \-gnl_Theca_v1.1_Thecc1EG044829t1
+the 2nd node weakly supporting the grouping of rosid clade is 35.0 with the node shown as:
+
+   /-gnl_Theca_v1.1_Thecc1EG044799t1
+--|
+   \-gnl_Theca_v1.1_Thecc1EG044829t1
+Orthogroup number: 16476 has the big node shown as:
+
+   /-gnl_Theca_v1.1_Thecc1EG044801t1
+  |
+  |      /-Cpent136660_cp71315_c0_seq6_387p_f1
+  |   /-|
+--|  |  |   /-Cpent136662_cp71315_c1_seq2_1174m_f1
+  |  |   \-|
+  |  |     |   /-Cpent136664_cp71315_c1_seq4_1078m_f1
+  |  |      \-|
+  |  |        |   /-Cpent136666_cp71315_c1_seq6_585m_f1
+   \-|         \-|
+     |           |   /-Cpent136661_cp71315_c1_seq1_1176m_f1
+     |            \-|
+     |               \-Cpent136665_cp71315_c1_seq5_1011m_f1
+     |
+     |   /-gnl_Theca_v1.1_Thecc1EG044799t1
+      \-|
+         \-gnl_Theca_v1.1_Thecc1EG044829t1
+the node1 support consisting the Cuscuta gene and rosid donor is 91.0 with the node shown as:
+
+      /-Cpent136660_cp71315_c0_seq6_387p_f1
+   /-|
+  |  |   /-Cpent136662_cp71315_c1_seq2_1174m_f1
+  |   \-|
+  |     |   /-Cpent136664_cp71315_c1_seq4_1078m_f1
+  |      \-|
+  |        |   /-Cpent136666_cp71315_c1_seq6_585m_f1
+--|         \-|
+  |           |   /-Cpent136661_cp71315_c1_seq1_1176m_f1
+  |            \-|
+  |               \-Cpent136665_cp71315_c1_seq5_1011m_f1
+  |
+  |   /-gnl_Theca_v1.1_Thecc1EG044799t1
+   \-|
+      \-gnl_Theca_v1.1_Thecc1EG044829t1
+the 2nd node weakly supporting the grouping of rosid clade is 35.0 with the node shown as:
+
+   /-gnl_Theca_v1.1_Thecc1EG044799t1
+--|
+   \-gnl_Theca_v1.1_Thecc1EG044829t1
+Orthogroup number: 16476 has the big node shown as:
+
+      /-Cpent136660_cp71315_c0_seq6_387p_f1
+   /-|
+  |  |   /-Cpent136662_cp71315_c1_seq2_1174m_f1
+  |   \-|
+  |     |   /-Cpent136664_cp71315_c1_seq4_1078m_f1
+  |      \-|
+  |        |   /-Cpent136666_cp71315_c1_seq6_585m_f1
+--|         \-|
+  |           |   /-Cpent136661_cp71315_c1_seq1_1176m_f1
+  |            \-|
+  |               \-Cpent136665_cp71315_c1_seq5_1011m_f1
+  |
+  |   /-gnl_Theca_v1.1_Thecc1EG044799t1
+   \-|
+      \-gnl_Theca_v1.1_Thecc1EG044829t1
+the node1 support consisting the Cuscuta gene and rosid donor is 91.0 with the node shown as:
+
+      /-Cpent136660_cp71315_c0_seq6_387p_f1
+   /-|
+  |  |   /-Cpent136662_cp71315_c1_seq2_1174m_f1
+  |   \-|
+  |     |   /-Cpent136664_cp71315_c1_seq4_1078m_f1
+  |      \-|
+  |        |   /-Cpent136666_cp71315_c1_seq6_585m_f1
+--|         \-|
+  |           |   /-Cpent136661_cp71315_c1_seq1_1176m_f1
+  |            \-|
+  |               \-Cpent136665_cp71315_c1_seq5_1011m_f1
+  |
+  |   /-gnl_Theca_v1.1_Thecc1EG044799t1
+   \-|
+      \-gnl_Theca_v1.1_Thecc1EG044829t1
+the 2nd node weakly supporting the grouping of rosid clade is 35.0 with the node shown as:
+
+   /-gnl_Theca_v1.1_Thecc1EG044799t1
+--|
+   \-gnl_Theca_v1.1_Thecc1EG044829t1
+Orthogroup number: 16476 has the big node shown as:
+
+      /-Cpent136660_cp71315_c0_seq6_387p_f1
+   /-|
+  |  |   /-Cpent136662_cp71315_c1_seq2_1174m_f1
+  |   \-|
+  |     |   /-Cpent136664_cp71315_c1_seq4_1078m_f1
+  |      \-|
+  |        |   /-Cpent136666_cp71315_c1_seq6_585m_f1
+--|         \-|
+  |           |   /-Cpent136661_cp71315_c1_seq1_1176m_f1
+  |            \-|
+  |               \-Cpent136665_cp71315_c1_seq5_1011m_f1
+  |
+  |   /-gnl_Theca_v1.1_Thecc1EG044799t1
+   \-|
+      \-gnl_Theca_v1.1_Thecc1EG044829t1
+the node1 support consisting the Cuscuta gene and rosid donor is 91.0 with the node shown as:
+
+      /-Cpent136660_cp71315_c0_seq6_387p_f1
+   /-|
+  |  |   /-Cpent136662_cp71315_c1_seq2_1174m_f1
+  |   \-|
+  |     |   /-Cpent136664_cp71315_c1_seq4_1078m_f1
+  |      \-|
+  |        |   /-Cpent136666_cp71315_c1_seq6_585m_f1
+--|         \-|
+  |           |   /-Cpent136661_cp71315_c1_seq1_1176m_f1
+  |            \-|
+  |               \-Cpent136665_cp71315_c1_seq5_1011m_f1
+  |
+  |   /-gnl_Theca_v1.1_Thecc1EG044799t1
+   \-|
+      \-gnl_Theca_v1.1_Thecc1EG044829t1
+the 2nd node weakly supporting the grouping of rosid clade is 35.0 with the node shown as:
+
+   /-gnl_Theca_v1.1_Thecc1EG044799t1
+--|
+   \-gnl_Theca_v1.1_Thecc1EG044829t1
+Orthogroup number: 16476 has the big node shown as:
+
+      /-Cpent136660_cp71315_c0_seq6_387p_f1
+   /-|
+  |  |   /-Cpent136662_cp71315_c1_seq2_1174m_f1
+  |   \-|
+  |     |   /-Cpent136664_cp71315_c1_seq4_1078m_f1
+  |      \-|
+  |        |   /-Cpent136666_cp71315_c1_seq6_585m_f1
+--|         \-|
+  |           |   /-Cpent136661_cp71315_c1_seq1_1176m_f1
+  |            \-|
+  |               \-Cpent136665_cp71315_c1_seq5_1011m_f1
+  |
+  |   /-gnl_Theca_v1.1_Thecc1EG044799t1
+   \-|
+      \-gnl_Theca_v1.1_Thecc1EG044829t1
+the node1 support consisting the Cuscuta gene and rosid donor is 91.0 with the node shown as:
+
+      /-Cpent136660_cp71315_c0_seq6_387p_f1
+   /-|
+  |  |   /-Cpent136662_cp71315_c1_seq2_1174m_f1
+  |   \-|
+  |     |   /-Cpent136664_cp71315_c1_seq4_1078m_f1
+  |      \-|
+  |        |   /-Cpent136666_cp71315_c1_seq6_585m_f1
+--|         \-|
+  |           |   /-Cpent136661_cp71315_c1_seq1_1176m_f1
+  |            \-|
+  |               \-Cpent136665_cp71315_c1_seq5_1011m_f1
+  |
+  |   /-gnl_Theca_v1.1_Thecc1EG044799t1
+   \-|
+      \-gnl_Theca_v1.1_Thecc1EG044829t1
+the 2nd node weakly supporting the grouping of rosid clade is 35.0 with the node shown as:
+
+   /-gnl_Theca_v1.1_Thecc1EG044799t1
+--|
+   \-gnl_Theca_v1.1_Thecc1EG044829t1
+Orthogroup number: 16476 has the big node shown as:
+
+      /-Cpent136660_cp71315_c0_seq6_387p_f1
+   /-|
+  |  |   /-Cpent136662_cp71315_c1_seq2_1174m_f1
+  |   \-|
+  |     |   /-Cpent136664_cp71315_c1_seq4_1078m_f1
+  |      \-|
+  |        |   /-Cpent136666_cp71315_c1_seq6_585m_f1
+--|         \-|
+  |           |   /-Cpent136661_cp71315_c1_seq1_1176m_f1
+  |            \-|
+  |               \-Cpent136665_cp71315_c1_seq5_1011m_f1
+  |
+  |   /-gnl_Theca_v1.1_Thecc1EG044799t1
+   \-|
+      \-gnl_Theca_v1.1_Thecc1EG044829t1
+the node1 support consisting the Cuscuta gene and rosid donor is 91.0 with the node shown as:
+
+      /-Cpent136660_cp71315_c0_seq6_387p_f1
+   /-|
+  |  |   /-Cpent136662_cp71315_c1_seq2_1174m_f1
+  |   \-|
+  |     |   /-Cpent136664_cp71315_c1_seq4_1078m_f1
+  |      \-|
+  |        |   /-Cpent136666_cp71315_c1_seq6_585m_f1
+--|         \-|
+  |           |   /-Cpent136661_cp71315_c1_seq1_1176m_f1
+  |            \-|
+  |               \-Cpent136665_cp71315_c1_seq5_1011m_f1
+  |
+  |   /-gnl_Theca_v1.1_Thecc1EG044799t1
+   \-|
+      \-gnl_Theca_v1.1_Thecc1EG044829t1
+the 2nd node weakly supporting the grouping of rosid clade is 35.0 with the node shown as:
+
+   /-gnl_Theca_v1.1_Thecc1EG044799t1
+--|
+   \-gnl_Theca_v1.1_Thecc1EG044829t1
+Orthogroup number: 16476 has the big node shown as:
+
+      /-Cpent136660_cp71315_c0_seq6_387p_f1
+   /-|
+  |  |   /-Cpent136662_cp71315_c1_seq2_1174m_f1
+  |   \-|
+  |     |   /-Cpent136664_cp71315_c1_seq4_1078m_f1
+  |      \-|
+  |        |   /-Cpent136666_cp71315_c1_seq6_585m_f1
+--|         \-|
+  |           |   /-Cpent136661_cp71315_c1_seq1_1176m_f1
+  |            \-|
+  |               \-Cpent136665_cp71315_c1_seq5_1011m_f1
+  |
+  |   /-gnl_Theca_v1.1_Thecc1EG044799t1
+   \-|
+      \-gnl_Theca_v1.1_Thecc1EG044829t1
+the node1 support consisting the Cuscuta gene and rosid donor is 91.0 with the node shown as:
+
+      /-Cpent136660_cp71315_c0_seq6_387p_f1
+   /-|
+  |  |   /-Cpent136662_cp71315_c1_seq2_1174m_f1
+  |   \-|
+  |     |   /-Cpent136664_cp71315_c1_seq4_1078m_f1
+  |      \-|
+  |        |   /-Cpent136666_cp71315_c1_seq6_585m_f1
+--|         \-|
+  |           |   /-Cpent136661_cp71315_c1_seq1_1176m_f1
+  |            \-|
+  |               \-Cpent136665_cp71315_c1_seq5_1011m_f1
+  |
+  |   /-gnl_Theca_v1.1_Thecc1EG044799t1
+   \-|
+      \-gnl_Theca_v1.1_Thecc1EG044829t1
+the 2nd node weakly supporting the grouping of rosid clade is 35.0 with the node shown as:
+
+   /-gnl_Theca_v1.1_Thecc1EG044799t1
+--|
+   \-gnl_Theca_v1.1_Thecc1EG044829t1
+Orthogroup number: 16476 has the big node shown as:
+
+      /-Cpent136660_cp71315_c0_seq6_387p_f1
+   /-|
+  |  |   /-Cpent136662_cp71315_c1_seq2_1174m_f1
+  |   \-|
+  |     |   /-Cpent136664_cp71315_c1_seq4_1078m_f1
+  |      \-|
+  |        |   /-Cpent136666_cp71315_c1_seq6_585m_f1
+--|         \-|
+  |           |   /-Cpent136661_cp71315_c1_seq1_1176m_f1
+  |            \-|
+  |               \-Cpent136665_cp71315_c1_seq5_1011m_f1
+  |
+  |   /-gnl_Theca_v1.1_Thecc1EG044799t1
+   \-|
+      \-gnl_Theca_v1.1_Thecc1EG044829t1
+the node1 support consisting the Cuscuta gene and rosid donor is 91.0 with the node shown as:
+
+      /-Cpent136660_cp71315_c0_seq6_387p_f1
+   /-|
+  |  |   /-Cpent136662_cp71315_c1_seq2_1174m_f1
+  |   \-|
+  |     |   /-Cpent136664_cp71315_c1_seq4_1078m_f1
+  |      \-|
+  |        |   /-Cpent136666_cp71315_c1_seq6_585m_f1
+--|         \-|
+  |           |   /-Cpent136661_cp71315_c1_seq1_1176m_f1
+  |            \-|
+  |               \-Cpent136665_cp71315_c1_seq5_1011m_f1
+  |
+  |   /-gnl_Theca_v1.1_Thecc1EG044799t1
+   \-|
+      \-gnl_Theca_v1.1_Thecc1EG044829t1
+the 2nd node weakly supporting the grouping of rosid clade is 35.0 with the node shown as:
+
+   /-gnl_Theca_v1.1_Thecc1EG044799t1
+--|
+   \-gnl_Theca_v1.1_Thecc1EG044829t1
+Orthogroup number: 24129 has the big node shown as:
+
+      /-Cpent71499_cp66765_c0_seq1_1442m_f3
+   /-|
+  |   \-Cpent73376_cp66639_c0_seq1_1108p_f2
+--|
+  |   /-Kalanchoe_marnieriana_0781s0008.1
+   \-|
+     |   /-Cpent78064_cp67812_c0_seq2_1085p_f2
+      \-|
+        |   /-Capsella_grandiflora_7094s0005.1
+         \-|
+            \-Cpent89475_cp54567_c0_seq1_361x_f1
+the node1 support consisting the Cuscuta gene and rosid donor is 78.0 with the node shown as:
+
+      /-Cpent71499_cp66765_c0_seq1_1442m_f3
+   /-|
+  |   \-Cpent73376_cp66639_c0_seq1_1108p_f2
+--|
+  |   /-Kalanchoe_marnieriana_0781s0008.1
+   \-|
+     |   /-Cpent78064_cp67812_c0_seq2_1085p_f2
+      \-|
+        |   /-Capsella_grandiflora_7094s0005.1
+         \-|
+            \-Cpent89475_cp54567_c0_seq1_361x_f1
+the 2nd node weakly supporting the grouping of rosid clade is 40.0 with the node shown as:
+
+   /-Capsella_grandiflora_7094s0005.1
+--|
+   \-Cpent89475_cp54567_c0_seq1_361x_f1
+Orthogroup number: 24129 has the big node shown as:
+
+      /-Cpent71499_cp66765_c0_seq1_1442m_f3
+   /-|
+  |   \-Cpent73376_cp66639_c0_seq1_1108p_f2
+--|
+  |   /-Kalanchoe_marnieriana_0781s0008.1
+   \-|
+     |   /-Cpent78064_cp67812_c0_seq2_1085p_f2
+      \-|
+        |   /-Capsella_grandiflora_7094s0005.1
+         \-|
+            \-Cpent89475_cp54567_c0_seq1_361x_f1
+the node1 support consisting the Cuscuta gene and rosid donor is 78.0 with the node shown as:
+
+      /-Cpent71499_cp66765_c0_seq1_1442m_f3
+   /-|
+  |   \-Cpent73376_cp66639_c0_seq1_1108p_f2
+--|
+  |   /-Kalanchoe_marnieriana_0781s0008.1
+   \-|
+     |   /-Cpent78064_cp67812_c0_seq2_1085p_f2
+      \-|
+        |   /-Capsella_grandiflora_7094s0005.1
+         \-|
+            \-Cpent89475_cp54567_c0_seq1_361x_f1
+the 2nd node weakly supporting the grouping of rosid clade is 40.0 with the node shown as:
+
+   /-Capsella_grandiflora_7094s0005.1
+--|
+   \-Cpent89475_cp54567_c0_seq1_361x_f1
+Orthogroup number: 31679 has the big node shown as:
+
+      /-Cpent181291_cp74985_c0_seq3_1877m_f2
+   /-|
+  |   \-Cpent181298_cp74985_c0_seq10_1222x_f1
+--|
+  |   /-Linum_usitatissimum_10034391
+   \-|
+      \-TrVeBC4_p_c34860_g0_i1
+the node1 support consisting the Cuscuta gene and rosid donor is 53.0 with the node shown as:
+
+      /-Cpent181291_cp74985_c0_seq3_1877m_f2
+   /-|
+  |   \-Cpent181298_cp74985_c0_seq10_1222x_f1
+--|
+  |   /-Linum_usitatissimum_10034391
+   \-|
+      \-TrVeBC4_p_c34860_g0_i1
+the 2nd node weakly supporting the grouping of rosid clade is 41.0 with the node shown as:
+
+   /-Linum_usitatissimum_10034391
+--|
+   \-TrVeBC4_p_c34860_g0_i1
+Orthogroup number: 31679 has the big node shown as:
+
+      /-Cpent181291_cp74985_c0_seq3_1877m_f2
+   /-|
+  |   \-Cpent181298_cp74985_c0_seq10_1222x_f1
+--|
+  |   /-Linum_usitatissimum_10034391
+   \-|
+      \-TrVeBC4_p_c34860_g0_i1
+the node1 support consisting the Cuscuta gene and rosid donor is 53.0 with the node shown as:
+
+      /-Cpent181291_cp74985_c0_seq3_1877m_f2
+   /-|
+  |   \-Cpent181298_cp74985_c0_seq10_1222x_f1
+--|
+  |   /-Linum_usitatissimum_10034391
+   \-|
+      \-TrVeBC4_p_c34860_g0_i1
+the 2nd node weakly supporting the grouping of rosid clade is 41.0 with the node shown as:
+
+   /-Linum_usitatissimum_10034391
+--|
+   \-TrVeBC4_p_c34860_g0_i1
+Orthogroup number: 32277 has the big node shown as:
+
+            /-Cpent244203_cp78627_c0_seq1_1644m_f2
+         /-|
+        |   \-StHeBC4_p_c21793_g1_i1
+      /-|
+     |  |   /-Cpent139069_cp70315_c0_seq1_1402m_f2
+     |   \-|
+   /-|     |   /-Cpent97700_cp68912_c0_seq1_754m_f3
+  |  |      \-|
+  |  |         \-Cpent97701_cp68912_c1_seq1_624p_f3
+--|  |
+  |   \-gnl_Carpa_ASGPBv0.4_evm.TU.contig_42260.2
+  |
+   \-gnl_Eucgr_v1.1_Eucgr.I01164.1
+the node1 support consisting the Cuscuta gene and rosid donor is 66.0 with the node shown as:
+
+      /-Cpent244203_cp78627_c0_seq1_1644m_f2
+   /-|
+  |   \-StHeBC4_p_c21793_g1_i1
+--|
+  |   /-Cpent139069_cp70315_c0_seq1_1402m_f2
+   \-|
+     |   /-Cpent97700_cp68912_c0_seq1_754m_f3
+      \-|
+         \-Cpent97701_cp68912_c1_seq1_624p_f3
+the 2nd node weakly supporting the grouping of rosid clade is 41.0 with the node shown as:
+
+   /-Cpent97700_cp68912_c0_seq1_754m_f3
+--|
+   \-Cpent97701_cp68912_c1_seq1_624p_f3
+Orthogroup number: 32277 has the big node shown as:
+
+            /-Cpent244203_cp78627_c0_seq1_1644m_f2
+         /-|
+        |   \-StHeBC4_p_c21793_g1_i1
+      /-|
+     |  |   /-Cpent139069_cp70315_c0_seq1_1402m_f2
+     |   \-|
+   /-|     |   /-Cpent97700_cp68912_c0_seq1_754m_f3
+  |  |      \-|
+  |  |         \-Cpent97701_cp68912_c1_seq1_624p_f3
+--|  |
+  |   \-gnl_Carpa_ASGPBv0.4_evm.TU.contig_42260.2
+  |
+   \-gnl_Eucgr_v1.1_Eucgr.I01164.1
+the node1 support consisting the Cuscuta gene and rosid donor is 66.0 with the node shown as:
+
+      /-Cpent244203_cp78627_c0_seq1_1644m_f2
+   /-|
+  |   \-StHeBC4_p_c21793_g1_i1
+--|
+  |   /-Cpent139069_cp70315_c0_seq1_1402m_f2
+   \-|
+     |   /-Cpent97700_cp68912_c0_seq1_754m_f3
+      \-|
+         \-Cpent97701_cp68912_c1_seq1_624p_f3
+the 2nd node weakly supporting the grouping of rosid clade is 41.0 with the node shown as:
+
+   /-Cpent97700_cp68912_c0_seq1_754m_f3
+--|
+   \-Cpent97701_cp68912_c1_seq1_624p_f3
+Orthogroup number: 32277 has the big node shown as:
+
+            /-Cpent244203_cp78627_c0_seq1_1644m_f2
+         /-|
+        |   \-StHeBC4_p_c21793_g1_i1
+      /-|
+     |  |   /-Cpent139069_cp70315_c0_seq1_1402m_f2
+     |   \-|
+   /-|     |   /-Cpent97700_cp68912_c0_seq1_754m_f3
+  |  |      \-|
+  |  |         \-Cpent97701_cp68912_c1_seq1_624p_f3
+--|  |
+  |   \-gnl_Carpa_ASGPBv0.4_evm.TU.contig_42260.2
+  |
+   \-gnl_Eucgr_v1.1_Eucgr.I01164.1
+the node1 support consisting the Cuscuta gene and rosid donor is 66.0 with the node shown as:
+
+      /-Cpent244203_cp78627_c0_seq1_1644m_f2
+   /-|
+  |   \-StHeBC4_p_c21793_g1_i1
+--|
+  |   /-Cpent139069_cp70315_c0_seq1_1402m_f2
+   \-|
+     |   /-Cpent97700_cp68912_c0_seq1_754m_f3
+      \-|
+         \-Cpent97701_cp68912_c1_seq1_624p_f3
+the 2nd node weakly supporting the grouping of rosid clade is 41.0 with the node shown as:
+
+   /-Cpent97700_cp68912_c0_seq1_754m_f3
+--|
+   \-Cpent97701_cp68912_c1_seq1_624p_f3
+Orthogroup number: 32277 has the big node shown as:
+
+         /-Cpent244203_cp78627_c0_seq1_1644m_f2
+      /-|
+     |   \-StHeBC4_p_c21793_g1_i1
+   /-|
+  |  |   /-Cpent139069_cp70315_c0_seq1_1402m_f2
+  |   \-|
+--|     |   /-Cpent97700_cp68912_c0_seq1_754m_f3
+  |      \-|
+  |         \-Cpent97701_cp68912_c1_seq1_624p_f3
+  |
+   \-gnl_Carpa_ASGPBv0.4_evm.TU.contig_42260.2
+the node1 support consisting the Cuscuta gene and rosid donor is 66.0 with the node shown as:
+
+      /-Cpent244203_cp78627_c0_seq1_1644m_f2
+   /-|
+  |   \-StHeBC4_p_c21793_g1_i1
+--|
+  |   /-Cpent139069_cp70315_c0_seq1_1402m_f2
+   \-|
+     |   /-Cpent97700_cp68912_c0_seq1_754m_f3
+      \-|
+         \-Cpent97701_cp68912_c1_seq1_624p_f3
+the 2nd node weakly supporting the grouping of rosid clade is 41.0 with the node shown as:
+
+   /-Cpent97700_cp68912_c0_seq1_754m_f3
+--|
+   \-Cpent97701_cp68912_c1_seq1_624p_f3
+Orthogroup number: 32277 has the big node shown as:
+
+         /-Cpent244203_cp78627_c0_seq1_1644m_f2
+      /-|
+     |   \-StHeBC4_p_c21793_g1_i1
+   /-|
+  |  |   /-Cpent139069_cp70315_c0_seq1_1402m_f2
+  |   \-|
+--|     |   /-Cpent97700_cp68912_c0_seq1_754m_f3
+  |      \-|
+  |         \-Cpent97701_cp68912_c1_seq1_624p_f3
+  |
+   \-gnl_Carpa_ASGPBv0.4_evm.TU.contig_42260.2
+the node1 support consisting the Cuscuta gene and rosid donor is 66.0 with the node shown as:
+
+      /-Cpent244203_cp78627_c0_seq1_1644m_f2
+   /-|
+  |   \-StHeBC4_p_c21793_g1_i1
+--|
+  |   /-Cpent139069_cp70315_c0_seq1_1402m_f2
+   \-|
+     |   /-Cpent97700_cp68912_c0_seq1_754m_f3
+      \-|
+         \-Cpent97701_cp68912_c1_seq1_624p_f3
+the 2nd node weakly supporting the grouping of rosid clade is 41.0 with the node shown as:
+
+   /-Cpent97700_cp68912_c0_seq1_754m_f3
+--|
+   \-Cpent97701_cp68912_c1_seq1_624p_f3
+Orthogroup number: 32277 has the big node shown as:
+
+         /-Cpent244203_cp78627_c0_seq1_1644m_f2
+      /-|
+     |   \-StHeBC4_p_c21793_g1_i1
+   /-|
+  |  |   /-Cpent139069_cp70315_c0_seq1_1402m_f2
+  |   \-|
+--|     |   /-Cpent97700_cp68912_c0_seq1_754m_f3
+  |      \-|
+  |         \-Cpent97701_cp68912_c1_seq1_624p_f3
+  |
+   \-gnl_Carpa_ASGPBv0.4_evm.TU.contig_42260.2
+the node1 support consisting the Cuscuta gene and rosid donor is 66.0 with the node shown as:
+
+      /-Cpent244203_cp78627_c0_seq1_1644m_f2
+   /-|
+  |   \-StHeBC4_p_c21793_g1_i1
+--|
+  |   /-Cpent139069_cp70315_c0_seq1_1402m_f2
+   \-|
+     |   /-Cpent97700_cp68912_c0_seq1_754m_f3
+      \-|
+         \-Cpent97701_cp68912_c1_seq1_624p_f3
+the 2nd node weakly supporting the grouping of rosid clade is 41.0 with the node shown as:
+
+   /-Cpent97700_cp68912_c0_seq1_754m_f3
+--|
+   \-Cpent97701_cp68912_c1_seq1_624p_f3
+Orthogroup number: 3566 has the big node shown as:
+
+      /-Cpent25070_cp76327_c0_seq1_464p_f1
+     |
+     |         /-TrVeBC4_p_c26589_g0_i1
+   /-|      /-|
+  |  |   /-|   \-TrVeBC4_p_c26726_g0_i1
+  |  |  |  |
+  |   \-|   \-PhAeBC6_p_c21860_g7773_i1
+--|     |
+  |      \-TrVeBC4_p_c36792_g10_i1
+  |
+  |   /-Linum_usitatissimum_10011606
+   \-|
+      \-Linum_usitatissimum_10039646
+the node1 support consisting the Cuscuta gene and rosid donor is 82.0 with the node shown as:
+
+   /-Cpent25070_cp76327_c0_seq1_464p_f1
+  |
+  |         /-TrVeBC4_p_c26589_g0_i1
+--|      /-|
+  |   /-|   \-TrVeBC4_p_c26726_g0_i1
+  |  |  |
+   \-|   \-PhAeBC6_p_c21860_g7773_i1
+     |
+      \-TrVeBC4_p_c36792_g10_i1
+the 2nd node weakly supporting the grouping of rosid clade is 34.0 with the node shown as:
+
+         /-TrVeBC4_p_c26589_g0_i1
+      /-|
+   /-|   \-TrVeBC4_p_c26726_g0_i1
+  |  |
+--|   \-PhAeBC6_p_c21860_g7773_i1
+  |
+   \-TrVeBC4_p_c36792_g10_i1
+Orthogroup number: 3703 has the big node shown as:
+
+   /-Cpent260705_cp78388_c2_seq44_1746p_f1
+--|
+  |   /-Kalanchoe_marnieriana_0028s0090.1
+   \-|
+      \-PhAeBC6_p_c11943_g1_i1
+the node1 support consisting the Cuscuta gene and rosid donor is 62.0 with the node shown as:
+
+   /-Cpent260705_cp78388_c2_seq44_1746p_f1
+--|
+  |   /-Kalanchoe_marnieriana_0028s0090.1
+   \-|
+      \-PhAeBC6_p_c11943_g1_i1
+the 2nd node weakly supporting the grouping of rosid clade is 48.0 with the node shown as:
+
+   /-Kalanchoe_marnieriana_0028s0090.1
+--|
+   \-PhAeBC6_p_c11943_g1_i1
+Orthogroup number: 7345 has the big node shown as:
+
+         /-gnl_Poptr_v3.0_Potri.007G081400.1
+        |
+      /-|      /-Linum_usitatissimum_10036626
+     |  |   /-|
+     |  |  |  |   /-Linum_usitatissimum_10036628
+     |   \-|   \-|
+     |     |      \-Linum_usitatissimum_10035845
+     |     |
+     |      \-gnl_Manes_v4.1_cassava4.1_008552m
+   /-|
+  |  |      /-gnl_Carpa_ASGPBv0.4_evm.model.supercontig_196.11
+  |  |     |
+  |  |   /-|      /-Capsella_grandiflora_2438s0015.1
+  |  |  |  |   /-|
+  |  |  |   \-|   \-gnl_Arath_TAIR10_AT5G64860.1
+  |  |  |     |
+  |   \-|      \-Eutrema_salsugineum_10003902m
+  |     |
+  |     |      /-Cpent222917_cp73046_c0_seq1_1436m_f1
+--|     |   /-|
+  |     |  |   \-Cpent222918_cp73046_c0_seq2_1337m_f1
+  |      \-|
+  |        |   /-Cpent222919_cp73046_c1_seq1_1196p_f1
+  |         \-|
+  |            \-gnl_Theca_v1.1_Thecc1EG001239t1
+  |
+  |      /-gnl_Phavu_v1.0_Phvul.009G139500.1
+  |   /-|
+  |  |   \-gnl_Medtr_Mt4.0v1_Medtr3g094840.1
+   \-|
+     |      /-gnl_Prupe_v1.0_ppa011408m
+     |   /-|
+      \-|   \-gnl_Prupe_v1.0_ppa003327m
+        |
+         \-gnl_Eucgr_v1.1_Eucgr.I00325.1
+the node1 support consisting the Cuscuta gene and rosid donor is 98.0 with the node shown as:
+
+      /-Cpent222917_cp73046_c0_seq1_1436m_f1
+   /-|
+  |   \-Cpent222918_cp73046_c0_seq2_1337m_f1
+--|
+  |   /-Cpent222919_cp73046_c1_seq1_1196p_f1
+   \-|
+      \-gnl_Theca_v1.1_Thecc1EG001239t1
+the 2nd node weakly supporting the grouping of rosid clade is 41.0 with the node shown as:
+
+   /-Cpent222919_cp73046_c1_seq1_1196p_f1
+--|
+   \-gnl_Theca_v1.1_Thecc1EG001239t1
+Orthogroup number: 7345 has the big node shown as:
+
+         /-gnl_Poptr_v3.0_Potri.007G081400.1
+        |
+      /-|      /-Linum_usitatissimum_10036626
+     |  |   /-|
+     |  |  |  |   /-Linum_usitatissimum_10036628
+     |   \-|   \-|
+     |     |      \-Linum_usitatissimum_10035845
+     |     |
+     |      \-gnl_Manes_v4.1_cassava4.1_008552m
+   /-|
+  |  |      /-gnl_Carpa_ASGPBv0.4_evm.model.supercontig_196.11
+  |  |     |
+  |  |   /-|      /-Capsella_grandiflora_2438s0015.1
+  |  |  |  |   /-|
+  |  |  |   \-|   \-gnl_Arath_TAIR10_AT5G64860.1
+  |  |  |     |
+  |   \-|      \-Eutrema_salsugineum_10003902m
+  |     |
+  |     |      /-Cpent222917_cp73046_c0_seq1_1436m_f1
+--|     |   /-|
+  |     |  |   \-Cpent222918_cp73046_c0_seq2_1337m_f1
+  |      \-|
+  |        |   /-Cpent222919_cp73046_c1_seq1_1196p_f1
+  |         \-|
+  |            \-gnl_Theca_v1.1_Thecc1EG001239t1
+  |
+  |      /-gnl_Phavu_v1.0_Phvul.009G139500.1
+  |   /-|
+  |  |   \-gnl_Medtr_Mt4.0v1_Medtr3g094840.1
+   \-|
+     |      /-gnl_Prupe_v1.0_ppa011408m
+     |   /-|
+      \-|   \-gnl_Prupe_v1.0_ppa003327m
+        |
+         \-gnl_Eucgr_v1.1_Eucgr.I00325.1
+the node1 support consisting the Cuscuta gene and rosid donor is 98.0 with the node shown as:
+
+      /-Cpent222917_cp73046_c0_seq1_1436m_f1
+   /-|
+  |   \-Cpent222918_cp73046_c0_seq2_1337m_f1
+--|
+  |   /-Cpent222919_cp73046_c1_seq1_1196p_f1
+   \-|
+      \-gnl_Theca_v1.1_Thecc1EG001239t1
+the 2nd node weakly supporting the grouping of rosid clade is 41.0 with the node shown as:
+
+   /-Cpent222919_cp73046_c1_seq1_1196p_f1
+--|
+   \-gnl_Theca_v1.1_Thecc1EG001239t1
+Orthogroup number: 7345 has the big node shown as:
+
+      /-gnl_Poptr_v3.0_Potri.007G081400.1
+     |
+   /-|      /-Linum_usitatissimum_10036626
+  |  |   /-|
+  |  |  |  |   /-Linum_usitatissimum_10036628
+  |   \-|   \-|
+  |     |      \-Linum_usitatissimum_10035845
+  |     |
+  |      \-gnl_Manes_v4.1_cassava4.1_008552m
+--|
+  |      /-gnl_Carpa_ASGPBv0.4_evm.model.supercontig_196.11
+  |     |
+  |   /-|      /-Capsella_grandiflora_2438s0015.1
+  |  |  |   /-|
+  |  |   \-|   \-gnl_Arath_TAIR10_AT5G64860.1
+  |  |     |
+   \-|      \-Eutrema_salsugineum_10003902m
+     |
+     |      /-Cpent222917_cp73046_c0_seq1_1436m_f1
+     |   /-|
+     |  |   \-Cpent222918_cp73046_c0_seq2_1337m_f1
+      \-|
+        |   /-Cpent222919_cp73046_c1_seq1_1196p_f1
+         \-|
+            \-gnl_Theca_v1.1_Thecc1EG001239t1
+the node1 support consisting the Cuscuta gene and rosid donor is 98.0 with the node shown as:
+
+      /-Cpent222917_cp73046_c0_seq1_1436m_f1
+   /-|
+  |   \-Cpent222918_cp73046_c0_seq2_1337m_f1
+--|
+  |   /-Cpent222919_cp73046_c1_seq1_1196p_f1
+   \-|
+      \-gnl_Theca_v1.1_Thecc1EG001239t1
+the 2nd node weakly supporting the grouping of rosid clade is 41.0 with the node shown as:
+
+   /-Cpent222919_cp73046_c1_seq1_1196p_f1
+--|
+   \-gnl_Theca_v1.1_Thecc1EG001239t1
+Orthogroup number: 7345 has the big node shown as:
+
+      /-gnl_Poptr_v3.0_Potri.007G081400.1
+     |
+   /-|      /-Linum_usitatissimum_10036626
+  |  |   /-|
+  |  |  |  |   /-Linum_usitatissimum_10036628
+  |   \-|   \-|
+  |     |      \-Linum_usitatissimum_10035845
+  |     |
+  |      \-gnl_Manes_v4.1_cassava4.1_008552m
+--|
+  |      /-gnl_Carpa_ASGPBv0.4_evm.model.supercontig_196.11
+  |     |
+  |   /-|      /-Capsella_grandiflora_2438s0015.1
+  |  |  |   /-|
+  |  |   \-|   \-gnl_Arath_TAIR10_AT5G64860.1
+  |  |     |
+   \-|      \-Eutrema_salsugineum_10003902m
+     |
+     |      /-Cpent222917_cp73046_c0_seq1_1436m_f1
+     |   /-|
+     |  |   \-Cpent222918_cp73046_c0_seq2_1337m_f1
+      \-|
+        |   /-Cpent222919_cp73046_c1_seq1_1196p_f1
+         \-|
+            \-gnl_Theca_v1.1_Thecc1EG001239t1
+the node1 support consisting the Cuscuta gene and rosid donor is 98.0 with the node shown as:
+
+      /-Cpent222917_cp73046_c0_seq1_1436m_f1
+   /-|
+  |   \-Cpent222918_cp73046_c0_seq2_1337m_f1
+--|
+  |   /-Cpent222919_cp73046_c1_seq1_1196p_f1
+   \-|
+      \-gnl_Theca_v1.1_Thecc1EG001239t1
+the 2nd node weakly supporting the grouping of rosid clade is 41.0 with the node shown as:
+
+   /-Cpent222919_cp73046_c1_seq1_1196p_f1
+--|
+   \-gnl_Theca_v1.1_Thecc1EG001239t1
+Orthogroup number: 7345 has the big node shown as:
+
+      /-gnl_Carpa_ASGPBv0.4_evm.model.supercontig_196.11
+     |
+   /-|      /-Capsella_grandiflora_2438s0015.1
+  |  |   /-|
+  |   \-|   \-gnl_Arath_TAIR10_AT5G64860.1
+  |     |
+--|      \-Eutrema_salsugineum_10003902m
+  |
+  |      /-Cpent222917_cp73046_c0_seq1_1436m_f1
+  |   /-|
+  |  |   \-Cpent222918_cp73046_c0_seq2_1337m_f1
+   \-|
+     |   /-Cpent222919_cp73046_c1_seq1_1196p_f1
+      \-|
+         \-gnl_Theca_v1.1_Thecc1EG001239t1
+the node1 support consisting the Cuscuta gene and rosid donor is 98.0 with the node shown as:
+
+      /-Cpent222917_cp73046_c0_seq1_1436m_f1
+   /-|
+  |   \-Cpent222918_cp73046_c0_seq2_1337m_f1
+--|
+  |   /-Cpent222919_cp73046_c1_seq1_1196p_f1
+   \-|
+      \-gnl_Theca_v1.1_Thecc1EG001239t1
+the 2nd node weakly supporting the grouping of rosid clade is 41.0 with the node shown as:
+
+   /-Cpent222919_cp73046_c1_seq1_1196p_f1
+--|
+   \-gnl_Theca_v1.1_Thecc1EG001239t1
+Orthogroup number: 7345 has the big node shown as:
+
+      /-gnl_Carpa_ASGPBv0.4_evm.model.supercontig_196.11
+     |
+   /-|      /-Capsella_grandiflora_2438s0015.1
+  |  |   /-|
+  |   \-|   \-gnl_Arath_TAIR10_AT5G64860.1
+  |     |
+--|      \-Eutrema_salsugineum_10003902m
+  |
+  |      /-Cpent222917_cp73046_c0_seq1_1436m_f1
+  |   /-|
+  |  |   \-Cpent222918_cp73046_c0_seq2_1337m_f1
+   \-|
+     |   /-Cpent222919_cp73046_c1_seq1_1196p_f1
+      \-|
+         \-gnl_Theca_v1.1_Thecc1EG001239t1
+the node1 support consisting the Cuscuta gene and rosid donor is 98.0 with the node shown as:
+
+      /-Cpent222917_cp73046_c0_seq1_1436m_f1
+   /-|
+  |   \-Cpent222918_cp73046_c0_seq2_1337m_f1
+--|
+  |   /-Cpent222919_cp73046_c1_seq1_1196p_f1
+   \-|
+      \-gnl_Theca_v1.1_Thecc1EG001239t1
+the 2nd node weakly supporting the grouping of rosid clade is 41.0 with the node shown as:
+
+   /-Cpent222919_cp73046_c1_seq1_1196p_f1
+--|
+   \-gnl_Theca_v1.1_Thecc1EG001239t1
+Orthogroup number: 7345 has the big node shown as:
+
+      /-Cpent222917_cp73046_c0_seq1_1436m_f1
+   /-|
+  |   \-Cpent222918_cp73046_c0_seq2_1337m_f1
+--|
+  |   /-Cpent222919_cp73046_c1_seq1_1196p_f1
+   \-|
+      \-gnl_Theca_v1.1_Thecc1EG001239t1
+the node1 support consisting the Cuscuta gene and rosid donor is 98.0 with the node shown as:
+
+      /-Cpent222917_cp73046_c0_seq1_1436m_f1
+   /-|
+  |   \-Cpent222918_cp73046_c0_seq2_1337m_f1
+--|
+  |   /-Cpent222919_cp73046_c1_seq1_1196p_f1
+   \-|
+      \-gnl_Theca_v1.1_Thecc1EG001239t1
+the 2nd node weakly supporting the grouping of rosid clade is 41.0 with the node shown as:
+
+   /-Cpent222919_cp73046_c1_seq1_1196p_f1
+--|
+   \-gnl_Theca_v1.1_Thecc1EG001239t1
+Orthogroup number: 7345 has the big node shown as:
+
+      /-Cpent222917_cp73046_c0_seq1_1436m_f1
+   /-|
+  |   \-Cpent222918_cp73046_c0_seq2_1337m_f1
+--|
+  |   /-Cpent222919_cp73046_c1_seq1_1196p_f1
+   \-|
+      \-gnl_Theca_v1.1_Thecc1EG001239t1
+the node1 support consisting the Cuscuta gene and rosid donor is 98.0 with the node shown as:
+
+      /-Cpent222917_cp73046_c0_seq1_1436m_f1
+   /-|
+  |   \-Cpent222918_cp73046_c0_seq2_1337m_f1
+--|
+  |   /-Cpent222919_cp73046_c1_seq1_1196p_f1
+   \-|
+      \-gnl_Theca_v1.1_Thecc1EG001239t1
+the 2nd node weakly supporting the grouping of rosid clade is 41.0 with the node shown as:
+
+   /-Cpent222919_cp73046_c1_seq1_1196p_f1
+--|
+   \-gnl_Theca_v1.1_Thecc1EG001239t1

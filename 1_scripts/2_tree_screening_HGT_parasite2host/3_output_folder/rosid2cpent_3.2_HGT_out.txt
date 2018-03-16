@@ -1,0 +1,123 @@
+printing to stdout before suppression
+printing to stdout after suppression
+Orthogroup number: 13192 has the big node shown as:
+
+      /-Cpent90346_cp54851_c1_seq4_1156x_f1
+   /-|
+  |  |   /-Cpent90344_cp54851_c1_seq2_1640x_f1
+  |   \-|
+  |     |   /-Cpent90345_cp54851_c1_seq3_1219x_f1
+--|      \-|
+  |         \-Cpent90343_cp54851_c1_seq1_1703x_f1
+  |
+  |   /-Cpent152426_cp60121_c0_seq11_1884p_f1
+   \-|
+     |   /-gnl_Phavu_v1.0_Phvul.002G047900.1
+      \-|
+         \-gnl_Medtr_Mt4.0v1_Medtr5g005690.1
+the node1 support consisting the parasite gene and the rosid donor is 95.0 with the node shown as:
+
+   /-Cpent152426_cp60121_c0_seq11_1884p_f1
+--|
+  |   /-gnl_Phavu_v1.0_Phvul.002G047900.1
+   \-|
+      \-gnl_Medtr_Mt4.0v1_Medtr5g005690.1
+the 2nd highly supported node consisting the parasite gene and the rosid donor is 55.0 with the node shown as:
+
+      /-Cpent90346_cp54851_c1_seq4_1156x_f1
+   /-|
+  |  |   /-Cpent90344_cp54851_c1_seq2_1640x_f1
+  |   \-|
+  |     |   /-Cpent90345_cp54851_c1_seq3_1219x_f1
+--|      \-|
+  |         \-Cpent90343_cp54851_c1_seq1_1703x_f1
+  |
+  |   /-Cpent152426_cp60121_c0_seq11_1884p_f1
+   \-|
+     |   /-gnl_Phavu_v1.0_Phvul.002G047900.1
+      \-|
+         \-gnl_Medtr_Mt4.0v1_Medtr5g005690.1
+Orthogroup number: 1517 has the big node shown as:
+
+   /-Cpent74101_cp67008_c1_seq2_1429x_f1
+  |
+  |      /-TrVeBC4_p_c21720_g35341_i1
+  |   /-|
+  |  |   \-TrVeBC4_p_c21720_g35289_i1
+--|  |
+  |  |            /-Cpent100844_cp68883_c1_seq9_783p_f1
+  |  |         /-|
+  |  |        |   \-Cpent100838_cp68883_c1_seq3_2154p_f1
+  |  |      /-|
+   \-|     |  |   /-Cpent100841_cp68883_c1_seq6_1681p_f1
+     |     |   \-|
+     |   /-|      \-Cpent100836_cp68883_c1_seq1_2417p_f1
+     |  |  |
+     |  |  |   /-Cpent42860_cp76026_c1_seq16_744p_f1
+     |  |   \-|
+     |  |     |   /-Cpent165234_cp74405_c1_seq3_413x_f1
+      \-|      \-|
+        |         \-Cpent165233_cp74405_c1_seq2_1123x_f2
+        |
+        |      /-Kalanchoe_marnieriana_0732s0013.1
+        |   /-|
+         \-|   \-Kalanchoe_marnieriana_0003s0043.1
+           |
+            \-Cpent74111_cp67008_c1_seq12_493x_f1
+the node1 support consisting the parasite gene and the rosid donor is 59.0 with the node shown as:
+
+      /-Kalanchoe_marnieriana_0732s0013.1
+   /-|
+--|   \-Kalanchoe_marnieriana_0003s0043.1
+  |
+   \-Cpent74111_cp67008_c1_seq12_493x_f1
+the 2nd highly supported node consisting the parasite gene and the rosid donor is 69.0 with the node shown as:
+
+      /-TrVeBC4_p_c21720_g35341_i1
+   /-|
+  |   \-TrVeBC4_p_c21720_g35289_i1
+  |
+  |            /-Cpent100844_cp68883_c1_seq9_783p_f1
+  |         /-|
+  |        |   \-Cpent100838_cp68883_c1_seq3_2154p_f1
+  |      /-|
+--|     |  |   /-Cpent100841_cp68883_c1_seq6_1681p_f1
+  |     |   \-|
+  |   /-|      \-Cpent100836_cp68883_c1_seq1_2417p_f1
+  |  |  |
+  |  |  |   /-Cpent42860_cp76026_c1_seq16_744p_f1
+  |  |   \-|
+  |  |     |   /-Cpent165234_cp74405_c1_seq3_413x_f1
+   \-|      \-|
+     |         \-Cpent165233_cp74405_c1_seq2_1123x_f2
+     |
+     |      /-Kalanchoe_marnieriana_0732s0013.1
+     |   /-|
+      \-|   \-Kalanchoe_marnieriana_0003s0043.1
+        |
+         \-Cpent74111_cp67008_c1_seq12_493x_f1
+Orthogroup number: 3640 has the big node shown as:
+
+      /-Cpent132549_cp70616_c0_seq1_1394p_f1
+   /-|
+  |  |   /-gnl_Manes_v4.1_cassava4.1_004241m
+--|   \-|
+  |      \-gnl_Manes_v4.1_cassava4.1_003096m
+  |
+   \-Cpent132550_cp70616_c0_seq2_1302m_f1
+the node1 support consisting the parasite gene and the rosid donor is 58.0 with the node shown as:
+
+   /-Cpent132549_cp70616_c0_seq1_1394p_f1
+--|
+  |   /-gnl_Manes_v4.1_cassava4.1_004241m
+   \-|
+      \-gnl_Manes_v4.1_cassava4.1_003096m
+the 2nd highly supported node consisting the parasite gene and the rosid donor is 85.0 with the node shown as:
+
+      /-Cpent132549_cp70616_c0_seq1_1394p_f1
+   /-|
+  |  |   /-gnl_Manes_v4.1_cassava4.1_004241m
+--|   \-|
+  |      \-gnl_Manes_v4.1_cassava4.1_003096m
+  |
+   \-Cpent132550_cp70616_c0_seq2_1302m_f1

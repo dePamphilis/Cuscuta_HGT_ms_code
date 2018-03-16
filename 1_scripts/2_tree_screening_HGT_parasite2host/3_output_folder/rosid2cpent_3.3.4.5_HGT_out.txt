@@ -1,0 +1,2 @@
+printing to stdout before suppression
+printing to stdout after suppression

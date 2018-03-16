@@ -1,0 +1,53 @@
+python ../get_HGT_from_Rosids2Cuscuta_model1_50_and_atLeastOne50_more_than_0Cpent.py . > ../Rosid_HGT_v1_out.txt
+cd ..
+perl export_ortho_from_HGT_screen_output.pl Rosid_HGT_v1_out.txt > Rosid_HGT_v1_orthos
+
+
+python ../get_HGT_from_Rosids2Cuscuta_model2.1_50_and_atLeastOne50_trial_more_than_0pent_v2.py . > ../Rosid_HGT_v2.1_out.txt
+cd ..
+perl export_ortho_from_HGT_screen_output.pl Rosid_HGT_v2.1_out.txt > Rosid_HGT_v2.1_orthos
+
+python ../get_HGT_from_Rosids2Cuscuta_model2.2_50_and_OnlyOne50_trial2_more_than_0Cpent_v2.py . > ../Rosid_HGT_v2.2_out.txt
+cd ..
+perl export_ortho_from_HGT_screen_output.pl Rosid_HGT_v2.2_out.txt > Rosid_HGT_v2.2_orthos
+
+
+python ../get_HGT_from_rosids2Cuscuta_model3.1_50_and_OnlyOne50_1donor_trial_more_than_0Cpent_v2.py . > ../Rosid_HGT_v3.1_out.txt
+cd ..
+perl export_ortho_from_HGT_screen_output.pl Rosid_HGT_v3.1_out.txt > Rosid_HGT_v3.1_orthos
+
+
+python ../get_HGT_from_Rosids2Cuscuta_model3.2_50_and_OnlyOne50_gt1donor_trial_more_than_0Cpent_v2.py . > ../Rosid_HGT_v3.2_out.txt
+cd ..
+perl export_ortho_from_HGT_screen_output.pl Rosid_HGT_v3.2_out.txt > Rosid_HGT_v3.2_orthos
+
+
+
+
+
+
+
+
+python ../get_HGT_from_distalAsterid2Cuscuta_model1_50_and_atLeastOne50_more_than_0Cpent.py . > ../DistalAsterid_HGT_v1_out.txt
+cd ..
+perl export_ortho_from_HGT_screen_output.pl DistalAsterid_HGT_v1_out.txt > DistalAsterid_HGT_v1_orthos
+
+python ../get_HGT_from_distalAsterid2Cuscuta_model2.1_50_and_atLeastOne50_trial_more_than_0pent_v2.py . > ../DistalAsterid_HGT_v2.1_out.txt
+cd ..
+perl export_ortho_from_HGT_screen_output.pl DistalAsterid_HGT_v2.1_out.txt > DistalAsterid_HGT_v2.1_orthos
+
+python ../get_HGT_from_distalAsterid2Cuscuta_model2.2_50_and_OnlyOne50_trial2_more_than_0Cpent_v2.py . > ../DistalAsterid_HGT_v2.2_out.txt
+cd ..
+perl export_ortho_from_HGT_screen_output.pl DistalAsterid_HGT_v2.2_out.txt > DistalAsterid_HGT_v2.2_orthos
+
+
+python ../get_HGT_from_distalAsterid2Cuscuta_model3.1_50_and_OnlyOne50_1donor_trial_more_than_0Cpent_v2.py . > ../DistalAsterid_HGT_v3.1_out.txt
+cd ..
+perl export_ortho_from_HGT_screen_output.pl DistalAsterid_HGT_v3.1_out.txt > DistalAsterid_HGT_v3.1_orthos
+
+python ../get_HGT_from_distalAsterid2Cuscuta_model3.2_50_and_OnlyOne50_gt1donor_trial_more_than_0Cpent_v2.py . > ../DistalAsterid_HGT_v3.2_out.txt
+cd ..
+perl export_ortho_from_HGT_screen_output.pl DistalAsterid_HGT_v3.2_out.txt > DistalAsterid_HGT_v3.2_orthos
+
+
+

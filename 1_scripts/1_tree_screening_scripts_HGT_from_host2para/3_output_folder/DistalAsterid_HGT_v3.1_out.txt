@@ -1,0 +1,1720 @@
+printing to stdout before suppression
+printing to stdout after suppression
+Orthogroup number: 103 has the big node shown as:
+
+         /-Cpent193713_cp72645_c6_seq8_1127p_f3
+      /-|
+     |  |   /-Cpent193713_cp72645_c6_seq8_1127p_f1
+   /-|   \-|
+  |  |      \-Cpent193721_cp72645_c6_seq16_667x_f1
+  |  |
+  |   \-gnl_Betvu_v1.1_Bv8_198750_xwnf.t1
+--|
+  |         /-PhAeBC6_p_c20507_g0_i1
+  |      /-|
+  |   /-|   \-PhAeBC6_p_c20507_g1_i1
+  |  |  |
+   \-|   \-PhAeBC6_p_c20507_g2_i1
+     |
+     |   /-Daucus_carota_008359
+      \-|
+        |   /-Daucus_carota_023746
+         \-|
+            \-Daucus_carota_003199
+the node1 support consisting the Cuscuta gene and distal asterid donor is 65.0 with the node shown as:
+
+      /-Cpent193713_cp72645_c6_seq8_1127p_f3
+   /-|
+  |  |   /-Cpent193713_cp72645_c6_seq8_1127p_f1
+--|   \-|
+  |      \-Cpent193721_cp72645_c6_seq16_667x_f1
+  |
+   \-gnl_Betvu_v1.1_Bv8_198750_xwnf.t1
+Orthogroup number: 103 has the big node shown as:
+
+         /-Cpent193713_cp72645_c6_seq8_1127p_f3
+      /-|
+     |  |   /-Cpent193713_cp72645_c6_seq8_1127p_f1
+   /-|   \-|
+  |  |      \-Cpent193721_cp72645_c6_seq16_667x_f1
+  |  |
+  |   \-gnl_Betvu_v1.1_Bv8_198750_xwnf.t1
+--|
+  |         /-PhAeBC6_p_c20507_g0_i1
+  |      /-|
+  |   /-|   \-PhAeBC6_p_c20507_g1_i1
+  |  |  |
+   \-|   \-PhAeBC6_p_c20507_g2_i1
+     |
+     |   /-Daucus_carota_008359
+      \-|
+        |   /-Daucus_carota_023746
+         \-|
+            \-Daucus_carota_003199
+the node1 support consisting the Cuscuta gene and distal asterid donor is 65.0 with the node shown as:
+
+      /-Cpent193713_cp72645_c6_seq8_1127p_f3
+   /-|
+  |  |   /-Cpent193713_cp72645_c6_seq8_1127p_f1
+--|   \-|
+  |      \-Cpent193721_cp72645_c6_seq16_667x_f1
+  |
+   \-gnl_Betvu_v1.1_Bv8_198750_xwnf.t1
+Orthogroup number: 103 has the big node shown as:
+
+         /-Cpent193713_cp72645_c6_seq8_1127p_f3
+      /-|
+     |  |   /-Cpent193713_cp72645_c6_seq8_1127p_f1
+   /-|   \-|
+  |  |      \-Cpent193721_cp72645_c6_seq16_667x_f1
+  |  |
+  |   \-gnl_Betvu_v1.1_Bv8_198750_xwnf.t1
+--|
+  |         /-PhAeBC6_p_c20507_g0_i1
+  |      /-|
+  |   /-|   \-PhAeBC6_p_c20507_g1_i1
+  |  |  |
+   \-|   \-PhAeBC6_p_c20507_g2_i1
+     |
+     |   /-Daucus_carota_008359
+      \-|
+        |   /-Daucus_carota_023746
+         \-|
+            \-Daucus_carota_003199
+the node1 support consisting the Cuscuta gene and distal asterid donor is 65.0 with the node shown as:
+
+      /-Cpent193713_cp72645_c6_seq8_1127p_f3
+   /-|
+  |  |   /-Cpent193713_cp72645_c6_seq8_1127p_f1
+--|   \-|
+  |      \-Cpent193721_cp72645_c6_seq16_667x_f1
+  |
+   \-gnl_Betvu_v1.1_Bv8_198750_xwnf.t1
+Orthogroup number: 10399 has the big node shown as:
+
+   /-artichoke_024062_1
+--|
+   \-Cpent143804_cp71064_c0_seq4_1623p_f3
+the node1 support consisting the Cuscuta gene and distal asterid donor is 73.0 with the node shown as:
+
+   /-artichoke_024062_1
+--|
+   \-Cpent143804_cp71064_c0_seq4_1623p_f3
+Orthogroup number: 10519 has the big node shown as:
+
+            /-Cpent75456_cp66365_c0_seq1_669m_f2
+         /-|
+      /-|   \-Cpent75458_cp66365_c0_seq3_507x_f1
+     |  |
+   /-|   \-Daucus_carota_018074
+  |  |
+  |  |   /-gnl_Betvu_v1.1_Bv3u_070700_ykce.t1
+--|   \-|
+  |      \-Amaranthus_hypochondriacus_017577
+  |
+  |   /-gnl_kiwi_Achn319461
+   \-|
+      \-gnl_kiwi_Achn063051
+the node1 support consisting the Cuscuta gene and distal asterid donor is 51.0 with the node shown as:
+
+      /-Cpent75456_cp66365_c0_seq1_669m_f2
+   /-|
+--|   \-Cpent75458_cp66365_c0_seq3_507x_f1
+  |
+   \-Daucus_carota_018074
+Orthogroup number: 10519 has the big node shown as:
+
+            /-Cpent75456_cp66365_c0_seq1_669m_f2
+         /-|
+      /-|   \-Cpent75458_cp66365_c0_seq3_507x_f1
+     |  |
+   /-|   \-Daucus_carota_018074
+  |  |
+  |  |   /-gnl_Betvu_v1.1_Bv3u_070700_ykce.t1
+--|   \-|
+  |      \-Amaranthus_hypochondriacus_017577
+  |
+  |   /-gnl_kiwi_Achn319461
+   \-|
+      \-gnl_kiwi_Achn063051
+the node1 support consisting the Cuscuta gene and distal asterid donor is 51.0 with the node shown as:
+
+      /-Cpent75456_cp66365_c0_seq1_669m_f2
+   /-|
+--|   \-Cpent75458_cp66365_c0_seq3_507x_f1
+  |
+   \-Daucus_carota_018074
+Orthogroup number: 10519 has the big node shown as:
+
+         /-Cpent75456_cp66365_c0_seq1_669m_f2
+      /-|
+   /-|   \-Cpent75458_cp66365_c0_seq3_507x_f1
+  |  |
+--|   \-Daucus_carota_018074
+  |
+  |   /-gnl_Betvu_v1.1_Bv3u_070700_ykce.t1
+   \-|
+      \-Amaranthus_hypochondriacus_017577
+the node1 support consisting the Cuscuta gene and distal asterid donor is 51.0 with the node shown as:
+
+      /-Cpent75456_cp66365_c0_seq1_669m_f2
+   /-|
+--|   \-Cpent75458_cp66365_c0_seq3_507x_f1
+  |
+   \-Daucus_carota_018074
+Orthogroup number: 10519 has the big node shown as:
+
+         /-Cpent75456_cp66365_c0_seq1_669m_f2
+      /-|
+   /-|   \-Cpent75458_cp66365_c0_seq3_507x_f1
+  |  |
+--|   \-Daucus_carota_018074
+  |
+  |   /-gnl_Betvu_v1.1_Bv3u_070700_ykce.t1
+   \-|
+      \-Amaranthus_hypochondriacus_017577
+the node1 support consisting the Cuscuta gene and distal asterid donor is 51.0 with the node shown as:
+
+      /-Cpent75456_cp66365_c0_seq1_669m_f2
+   /-|
+--|   \-Cpent75458_cp66365_c0_seq3_507x_f1
+  |
+   \-Daucus_carota_018074
+Orthogroup number: 10860 has the big node shown as:
+
+   /-Amaranthus_hypochondriacus_019808
+--|
+   \-Cpent191530_cp75636_c0_seq1_2136m_f3
+the node1 support consisting the Cuscuta gene and distal asterid donor is 50.0 with the node shown as:
+
+   /-Amaranthus_hypochondriacus_019808
+--|
+   \-Cpent191530_cp75636_c0_seq1_2136m_f3
+Orthogroup number: 10867 has the big node shown as:
+
+      /-Cpent47226_cp77320_c2_seq1_1236p_f2
+     |
+   /-|      /-Cpent35771_cp77411_c4_seq15_1194p_f3
+  |  |   /-|
+  |   \-|   \-artichoke_026107_1
+  |     |
+--|      \-Cpent247175_cp78422_c1_seq1_3351p_f3
+  |
+  |   /-StHeBC4_p_c18060_g0_i1
+  |  |
+   \-|      /-Cpent156224_cp75117_c0_seq3_2178p_f2
+     |   /-|
+      \-|   \-Cpent156222_cp75117_c0_seq1_2733p_f2
+        |
+         \-Cpent241514_cp78110_c0_seq2_4243p_f3
+the node1 support consisting the Cuscuta gene and distal asterid donor is 91.0 with the node shown as:
+
+   /-Cpent35771_cp77411_c4_seq15_1194p_f3
+--|
+   \-artichoke_026107_1
+Orthogroup number: 10867 has the big node shown as:
+
+      /-Cpent35771_cp77411_c4_seq15_1194p_f3
+   /-|
+--|   \-artichoke_026107_1
+  |
+   \-Cpent247175_cp78422_c1_seq1_3351p_f3
+the node1 support consisting the Cuscuta gene and distal asterid donor is 91.0 with the node shown as:
+
+   /-Cpent35771_cp77411_c4_seq15_1194p_f3
+--|
+   \-artichoke_026107_1
+Orthogroup number: 1149 has the big node shown as:
+
+   /-gnl_kiwi_Achn382141
+--|
+   \-Cpent256336_cp78447_c2_seq2_627p_f1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 98.0 with the node shown as:
+
+   /-gnl_kiwi_Achn382141
+--|
+   \-Cpent256336_cp78447_c2_seq2_627p_f1
+Orthogroup number: 11808 has the big node shown as:
+
+   /-gnl_kiwi_Achn330321
+--|
+   \-Cpent73957_cp67513_c0_seq1_686p_f2
+the node1 support consisting the Cuscuta gene and distal asterid donor is 72.0 with the node shown as:
+
+   /-gnl_kiwi_Achn330321
+--|
+   \-Cpent73957_cp67513_c0_seq1_686p_f2
+Orthogroup number: 12024 has the big node shown as:
+
+         /-PhAeBC6_p_c21655_g0_i1
+      /-|
+     |  |   /-Cpent193147_cp74741_c6_seq19_837m_f1
+     |   \-|
+     |      \-gnl_Betvu_v1.1_Bv9_219300_misn.t1
+     |
+   /-|         /-PhAeBC6_p_c9467_g0_i1
+  |  |      /-|
+  |  |   /-|   \-PhAeBC6_p_c21860_g8677_i1
+  |  |  |  |
+  |  |  |   \-PhAeBC6_p_c21860_g8681_i1
+  |  |  |
+  |   \-|         /-PhAeBC6_p_c8841_g0_i1
+--|     |      /-|
+  |     |   /-|   \-PhAeBC6_p_c21655_g1_i1
+  |     |  |  |
+  |      \-|   \-PhAeBC6_p_c866_g0_i1
+  |        |
+  |         \-PhAeBC6_p_c21860_g8680_i1
+  |
+   \-PhAeBC6_h_c13114_g0_i1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 65.0 with the node shown as:
+
+   /-Cpent193147_cp74741_c6_seq19_837m_f1
+--|
+   \-gnl_Betvu_v1.1_Bv9_219300_misn.t1
+Orthogroup number: 12024 has the big node shown as:
+
+      /-PhAeBC6_p_c21655_g0_i1
+   /-|
+  |  |   /-Cpent193147_cp74741_c6_seq19_837m_f1
+  |   \-|
+  |      \-gnl_Betvu_v1.1_Bv9_219300_misn.t1
+  |
+--|         /-PhAeBC6_p_c9467_g0_i1
+  |      /-|
+  |   /-|   \-PhAeBC6_p_c21860_g8677_i1
+  |  |  |
+  |  |   \-PhAeBC6_p_c21860_g8681_i1
+  |  |
+   \-|         /-PhAeBC6_p_c8841_g0_i1
+     |      /-|
+     |   /-|   \-PhAeBC6_p_c21655_g1_i1
+     |  |  |
+      \-|   \-PhAeBC6_p_c866_g0_i1
+        |
+         \-PhAeBC6_p_c21860_g8680_i1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 65.0 with the node shown as:
+
+   /-Cpent193147_cp74741_c6_seq19_837m_f1
+--|
+   \-gnl_Betvu_v1.1_Bv9_219300_misn.t1
+Orthogroup number: 12597 has the big node shown as:
+
+   /-artichoke_011690_1
+--|
+   \-Cpent174459_cp75611_c1_seq1_3871p_f4
+the node1 support consisting the Cuscuta gene and distal asterid donor is 59.0 with the node shown as:
+
+   /-artichoke_011690_1
+--|
+   \-Cpent174459_cp75611_c1_seq1_3871p_f4
+Orthogroup number: 13523 has the big node shown as:
+
+   /-Daucus_carota_022881
+  |
+--|      /-Cpent182155_cp75731_c0_seq1_1165p_f1
+  |   /-|
+  |  |   \-PhAeBC6_p_c24666_g0_i1
+   \-|
+     |   /-Daucus_carota_032337
+      \-|
+         \-PhAeBC6_p_c21860_g18573_i1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 85.0 with the node shown as:
+
+   /-Cpent182155_cp75731_c0_seq1_1165p_f1
+--|
+   \-PhAeBC6_p_c24666_g0_i1
+Orthogroup number: 1358 has the big node shown as:
+
+      /-PhAeBC6_p_c21860_g13716_i1
+     |
+   /-|      /-Cpent152118_cp61413_c0_seq1_976m_f2
+  |  |   /-|
+  |   \-|   \-artichoke_000595_1
+--|     |
+  |      \-PhAeBC6_p_c21860_g13395_i2
+  |
+   \-PhAeBC6_p_c21860_g13161_i2
+the node1 support consisting the Cuscuta gene and distal asterid donor is 100.0 with the node shown as:
+
+   /-Cpent152118_cp61413_c0_seq1_976m_f2
+--|
+   \-artichoke_000595_1
+Orthogroup number: 1358 has the big node shown as:
+
+      /-Cpent152118_cp61413_c0_seq1_976m_f2
+   /-|
+--|   \-artichoke_000595_1
+  |
+   \-PhAeBC6_p_c21860_g13395_i2
+the node1 support consisting the Cuscuta gene and distal asterid donor is 100.0 with the node shown as:
+
+   /-Cpent152118_cp61413_c0_seq1_976m_f2
+--|
+   \-artichoke_000595_1
+Orthogroup number: 1388 has the big node shown as:
+
+   /-Daucus_carota_015294
+--|
+   \-Cpent248389_cp78264_c0_seq1_682p_f1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 56.0 with the node shown as:
+
+   /-Daucus_carota_015294
+--|
+   \-Cpent248389_cp78264_c0_seq1_682p_f1
+Orthogroup number: 15072 has the big node shown as:
+
+   /-Amaranthus_hypochondriacus_007756
+--|
+   \-Cpent171416_cp75294_c1_seq3_1454m_f1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 100.0 with the node shown as:
+
+   /-Amaranthus_hypochondriacus_007756
+--|
+   \-Cpent171416_cp75294_c1_seq3_1454m_f1
+Orthogroup number: 1517 has the big node shown as:
+
+         /-Daucus_carota_001222
+      /-|
+   /-|   \-TrVeBC4_p_c24062_g0_i1
+  |  |
+--|   \-PhAeBC6_p_c5614_g0_i1
+  |
+  |   /-Cpent93659_cp63368_c0_seq5_837p_f1
+   \-|
+      \-PhAeBC6_p_c18739_g0_i1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 79.0 with the node shown as:
+
+   /-Cpent93659_cp63368_c0_seq5_837p_f1
+--|
+   \-PhAeBC6_p_c18739_g0_i1
+Orthogroup number: 15293 has the big node shown as:
+
+         /-Cpent269113_cp64023_c0_seq1_1458p_f1
+      /-|
+     |   \-gnl_Betvu_v1.1_Bv4_087320_wsns.t1
+   /-|
+  |  |   /-gnl_Betvu_v1.1_Bv4_087340_aknt.t1
+--|   \-|
+  |      \-gnl_Betvu_v1.1_Bv4_087350_qgmd.t1
+  |
+   \-gnl_Betvu_v1.1_Bv4_087330_fwja.t1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 53.0 with the node shown as:
+
+   /-Cpent269113_cp64023_c0_seq1_1458p_f1
+--|
+   \-gnl_Betvu_v1.1_Bv4_087320_wsns.t1
+Orthogroup number: 15293 has the big node shown as:
+
+      /-Cpent269113_cp64023_c0_seq1_1458p_f1
+   /-|
+  |   \-gnl_Betvu_v1.1_Bv4_087320_wsns.t1
+--|
+  |   /-gnl_Betvu_v1.1_Bv4_087340_aknt.t1
+   \-|
+      \-gnl_Betvu_v1.1_Bv4_087350_qgmd.t1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 53.0 with the node shown as:
+
+   /-Cpent269113_cp64023_c0_seq1_1458p_f1
+--|
+   \-gnl_Betvu_v1.1_Bv4_087320_wsns.t1
+Orthogroup number: 15316 has the big node shown as:
+
+               /-gnl_Betvu_v1.1_Bv8_195650_cwig.t1
+            /-|
+           |   \-gnl_Betvu_v1.1_Bv8_195640_wixg.t1
+           |
+           |      /-Amaranthus_hypochondriacus_001571
+         /-|   /-|
+        |  |  |  |   /-Amaranthus_hypochondriacus_011144
+        |  |  |   \-|
+        |  |  |     |   /-Amaranthus_hypochondriacus_001556
+        |  |  |      \-|
+        |   \-|         \-Amaranthus_hypochondriacus_001555
+        |     |
+        |     |      /-Cpent194069_cp72434_c1_seq2_695x_f1
+      /-|     |   /-|
+     |  |     |  |  |   /-Cpent194068_cp72434_c1_seq1_704x_f1
+     |  |      \-|   \-|
+     |  |        |      \-Cpent194067_cp72434_c0_seq1_1432p_f1
+     |  |        |
+   /-|  |         \-Cpent228035_cp59672_c0_seq1_1318x_f1
+  |  |  |
+  |  |  |   /-TrVeBC4_p_c33716_g0_i2
+  |  |   \-|
+--|  |      \-Cpent209243_cp72348_c1_seq6_2018p_f1
+  |  |
+  |   \-gnl_Betvu_v1.1_Bv_13100_jnor.t2
+  |
+   \-gnl_Betvu_v1.1_Bv_13100_jnor.t1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 100.0 with the node shown as:
+
+   /-TrVeBC4_p_c33716_g0_i2
+--|
+   \-Cpent209243_cp72348_c1_seq6_2018p_f1
+Orthogroup number: 15316 has the big node shown as:
+
+            /-gnl_Betvu_v1.1_Bv8_195650_cwig.t1
+         /-|
+        |   \-gnl_Betvu_v1.1_Bv8_195640_wixg.t1
+        |
+        |      /-Amaranthus_hypochondriacus_001571
+      /-|   /-|
+     |  |  |  |   /-Amaranthus_hypochondriacus_011144
+     |  |  |   \-|
+     |  |  |     |   /-Amaranthus_hypochondriacus_001556
+     |  |  |      \-|
+     |   \-|         \-Amaranthus_hypochondriacus_001555
+     |     |
+     |     |      /-Cpent194069_cp72434_c1_seq2_695x_f1
+   /-|     |   /-|
+  |  |     |  |  |   /-Cpent194068_cp72434_c1_seq1_704x_f1
+  |  |      \-|   \-|
+  |  |        |      \-Cpent194067_cp72434_c0_seq1_1432p_f1
+  |  |        |
+--|  |         \-Cpent228035_cp59672_c0_seq1_1318x_f1
+  |  |
+  |  |   /-TrVeBC4_p_c33716_g0_i2
+  |   \-|
+  |      \-Cpent209243_cp72348_c1_seq6_2018p_f1
+  |
+   \-gnl_Betvu_v1.1_Bv_13100_jnor.t2
+the node1 support consisting the Cuscuta gene and distal asterid donor is 100.0 with the node shown as:
+
+   /-TrVeBC4_p_c33716_g0_i2
+--|
+   \-Cpent209243_cp72348_c1_seq6_2018p_f1
+Orthogroup number: 15316 has the big node shown as:
+
+         /-gnl_Betvu_v1.1_Bv8_195650_cwig.t1
+      /-|
+     |   \-gnl_Betvu_v1.1_Bv8_195640_wixg.t1
+     |
+     |      /-Amaranthus_hypochondriacus_001571
+   /-|   /-|
+  |  |  |  |   /-Amaranthus_hypochondriacus_011144
+  |  |  |   \-|
+  |  |  |     |   /-Amaranthus_hypochondriacus_001556
+  |  |  |      \-|
+  |   \-|         \-Amaranthus_hypochondriacus_001555
+  |     |
+  |     |      /-Cpent194069_cp72434_c1_seq2_695x_f1
+--|     |   /-|
+  |     |  |  |   /-Cpent194068_cp72434_c1_seq1_704x_f1
+  |      \-|   \-|
+  |        |      \-Cpent194067_cp72434_c0_seq1_1432p_f1
+  |        |
+  |         \-Cpent228035_cp59672_c0_seq1_1318x_f1
+  |
+  |   /-TrVeBC4_p_c33716_g0_i2
+   \-|
+      \-Cpent209243_cp72348_c1_seq6_2018p_f1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 100.0 with the node shown as:
+
+   /-TrVeBC4_p_c33716_g0_i2
+--|
+   \-Cpent209243_cp72348_c1_seq6_2018p_f1
+Orthogroup number: 156 has the big node shown as:
+
+            /-StHeBC4_p_c12903_g28020_i1
+         /-|
+      /-|   \-Cpent212522_cp73223_c3_seq2_750p_f1
+     |  |
+   /-|   \-gnl_Betvu_v1.1_Bv8_200880_snri.t1
+  |  |
+  |  |   /-Amaranthus_hypochondriacus_014494
+  |   \-|
+  |     |   /-gnl_Betvu_v1.1_Bv8_200850_kwiu.t1
+--|      \-|
+  |        |   /-gnl_Betvu_v1.1_Bv8_200840_nanq.t1
+  |         \-|
+  |            \-gnl_Betvu_v1.1_Bv8_200840_nanq.t2
+  |
+  |   /-gnl_Betvu_v1.1_Bv8_200860_puch.t1
+   \-|
+      \-Amaranthus_hypochondriacus_013650
+the node1 support consisting the Cuscuta gene and distal asterid donor is 77.0 with the node shown as:
+
+   /-StHeBC4_p_c12903_g28020_i1
+--|
+   \-Cpent212522_cp73223_c3_seq2_750p_f1
+Orthogroup number: 156 has the big node shown as:
+
+         /-StHeBC4_p_c12903_g28020_i1
+      /-|
+   /-|   \-Cpent212522_cp73223_c3_seq2_750p_f1
+  |  |
+--|   \-gnl_Betvu_v1.1_Bv8_200880_snri.t1
+  |
+  |   /-Amaranthus_hypochondriacus_014494
+   \-|
+     |   /-gnl_Betvu_v1.1_Bv8_200850_kwiu.t1
+      \-|
+        |   /-gnl_Betvu_v1.1_Bv8_200840_nanq.t1
+         \-|
+            \-gnl_Betvu_v1.1_Bv8_200840_nanq.t2
+the node1 support consisting the Cuscuta gene and distal asterid donor is 77.0 with the node shown as:
+
+   /-StHeBC4_p_c12903_g28020_i1
+--|
+   \-Cpent212522_cp73223_c3_seq2_750p_f1
+Orthogroup number: 15724 has the big node shown as:
+
+   /-Daucus_carota_021300
+--|
+   \-Cpent163997_cp75437_c0_seq1_2730m_f2
+the node1 support consisting the Cuscuta gene and distal asterid donor is 82.0 with the node shown as:
+
+   /-Daucus_carota_021300
+--|
+   \-Cpent163997_cp75437_c0_seq1_2730m_f2
+Orthogroup number: 15778 has the big node shown as:
+
+   /-Daucus_carota_023499
+--|
+   \-Cpent210283_cp73531_c0_seq6_1411p_f1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 96.0 with the node shown as:
+
+   /-Daucus_carota_023499
+--|
+   \-Cpent210283_cp73531_c0_seq6_1411p_f1
+Orthogroup number: 1700 has the big node shown as:
+
+   /-Daucus_carota_000334
+--|
+   \-Cpent180321_cp74660_c0_seq3_1013m_f1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 88.0 with the node shown as:
+
+   /-Daucus_carota_000334
+--|
+   \-Cpent180321_cp74660_c0_seq3_1013m_f1
+Orthogroup number: 1710 has the big node shown as:
+
+   /-Daucus_carota_020379
+--|
+  |   /-artichoke_025750_1
+   \-|
+      \-Cpent156859_cp74295_c2_seq49_1044m_f1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 51.0 with the node shown as:
+
+   /-artichoke_025750_1
+--|
+   \-Cpent156859_cp74295_c2_seq49_1044m_f1
+Orthogroup number: 1710 has the big node shown as:
+
+   /-artichoke_025750_1
+--|
+   \-Cpent156859_cp74295_c2_seq49_1044m_f1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 51.0 with the node shown as:
+
+   /-artichoke_025750_1
+--|
+   \-Cpent156859_cp74295_c2_seq49_1044m_f1
+Orthogroup number: 17371 has the big node shown as:
+
+            /-Cpent4298_cp33855_c0_seq1_1445p_f1
+         /-|
+        |   \-gnl_Betvu_v1.1_Bv9_217650_ndez.t1
+      /-|
+     |  |   /-Amaranthus_hypochondriacus_017661
+     |   \-|
+   /-|      \-Amaranthus_hypochondriacus_003607
+  |  |
+  |  |   /-gnl_Betvu_v1.1_Bv9_218830_hwxq.t1
+--|   \-|
+  |      \-Amaranthus_hypochondriacus_003608
+  |
+   \-gnl_Betvu_v1.1_Bv9_218850_jiaf.t1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 72.0 with the node shown as:
+
+   /-Cpent4298_cp33855_c0_seq1_1445p_f1
+--|
+   \-gnl_Betvu_v1.1_Bv9_217650_ndez.t1
+Orthogroup number: 17371 has the big node shown as:
+
+         /-Cpent4298_cp33855_c0_seq1_1445p_f1
+      /-|
+     |   \-gnl_Betvu_v1.1_Bv9_217650_ndez.t1
+   /-|
+  |  |   /-Amaranthus_hypochondriacus_017661
+  |   \-|
+--|      \-Amaranthus_hypochondriacus_003607
+  |
+  |   /-gnl_Betvu_v1.1_Bv9_218830_hwxq.t1
+   \-|
+      \-Amaranthus_hypochondriacus_003608
+the node1 support consisting the Cuscuta gene and distal asterid donor is 72.0 with the node shown as:
+
+   /-Cpent4298_cp33855_c0_seq1_1445p_f1
+--|
+   \-gnl_Betvu_v1.1_Bv9_217650_ndez.t1
+Orthogroup number: 17371 has the big node shown as:
+
+      /-Cpent4298_cp33855_c0_seq1_1445p_f1
+   /-|
+  |   \-gnl_Betvu_v1.1_Bv9_217650_ndez.t1
+--|
+  |   /-Amaranthus_hypochondriacus_017661
+   \-|
+      \-Amaranthus_hypochondriacus_003607
+the node1 support consisting the Cuscuta gene and distal asterid donor is 72.0 with the node shown as:
+
+   /-Cpent4298_cp33855_c0_seq1_1445p_f1
+--|
+   \-gnl_Betvu_v1.1_Bv9_217650_ndez.t1
+Orthogroup number: 207 has the big node shown as:
+
+      /-Cpent203838_cp73665_c1_seq1_1112m_f1
+   /-|
+  |   \-gnl_kiwi_Achn373101
+  |
+--|      /-Daucus_carota_030090
+  |   /-|
+  |  |  |   /-Daucus_carota_030080
+  |  |   \-|
+   \-|      \-Daucus_carota_030079
+     |
+     |   /-Daucus_carota_015905
+      \-|
+         \-Daucus_carota_008433
+the node1 support consisting the Cuscuta gene and distal asterid donor is 55.0 with the node shown as:
+
+   /-Cpent203838_cp73665_c1_seq1_1112m_f1
+--|
+   \-gnl_kiwi_Achn373101
+Orthogroup number: 20744 has the big node shown as:
+
+   /-gnl_Betvu_v1.1_Bv2_042910_qptm.t2
+--|
+   \-Cpent259677_cp78546_c2_seq1_2869m_f2
+the node1 support consisting the Cuscuta gene and distal asterid donor is 86.0 with the node shown as:
+
+   /-gnl_Betvu_v1.1_Bv2_042910_qptm.t2
+--|
+   \-Cpent259677_cp78546_c2_seq1_2869m_f2
+Orthogroup number: 20761 has the big node shown as:
+
+   /-gnl_Betvu_v1.1_Bv6_152210_jpjh.t1
+--|
+   \-Cpent258310_cp78035_c1_seq51_580m_f1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 89.0 with the node shown as:
+
+   /-gnl_Betvu_v1.1_Bv6_152210_jpjh.t1
+--|
+   \-Cpent258310_cp78035_c1_seq51_580m_f1
+Orthogroup number: 20825 has the big node shown as:
+
+   /-Daucus_carota_002574
+--|
+  |   /-Cpent46182_cp76256_c7_seq42_1143m_f1
+   \-|
+      \-Daucus_carota_026906
+the node1 support consisting the Cuscuta gene and distal asterid donor is 68.0 with the node shown as:
+
+   /-Cpent46182_cp76256_c7_seq42_1143m_f1
+--|
+   \-Daucus_carota_026906
+Orthogroup number: 20921 has the big node shown as:
+
+      /-Amaranthus_hypochondriacus_004267
+   /-|
+  |   \-Cpent214953_cp73049_c0_seq2_408x_f1
+--|
+  |   /-Cpent202675_cp72150_c0_seq3_2595p_f2
+   \-|
+     |   /-PhAeBC6_h_c21860_g15731_i1
+      \-|
+        |   /-TrVeBC4_p_c21720_g35799_i1
+         \-|
+            \-StHeBC4_p_c21288_g2_i1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 60.0 with the node shown as:
+
+   /-Amaranthus_hypochondriacus_004267
+--|
+   \-Cpent214953_cp73049_c0_seq2_408x_f1
+Orthogroup number: 20921 has the big node shown as:
+
+   /-Amaranthus_hypochondriacus_004267
+--|
+   \-Cpent214953_cp73049_c0_seq2_408x_f1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 60.0 with the node shown as:
+
+   /-Amaranthus_hypochondriacus_004267
+--|
+   \-Cpent214953_cp73049_c0_seq2_408x_f1
+Orthogroup number: 20926 has the big node shown as:
+
+   /-gnl_kiwi_Achn086661
+--|
+   \-Cpent83300_cp45799_c0_seq2_2462m_f1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 76.0 with the node shown as:
+
+   /-gnl_kiwi_Achn086661
+--|
+   \-Cpent83300_cp45799_c0_seq2_2462m_f1
+Orthogroup number: 22384 has the big node shown as:
+
+            /-TrVeBC4_p_c21720_g31910_i1
+         /-|
+        |  |   /-StHeBC4_p_c12903_g2411_i1
+        |   \-|
+      /-|     |   /-TrVeBC4_p_c21720_g28888_i1
+     |  |      \-|
+     |  |         \-TrVeBC4_p_c21720_g14522_i1
+   /-|  |
+  |  |   \-StHeBC4_h_c12903_g20649_i1
+  |  |
+--|  |   /-artichoke_015487_1
+  |   \-|
+  |      \-Cpent16620_cp77058_c4_seq1_2483p_f3
+  |
+   \-Cpent106093_cp69068_c1_seq1_1709p_f1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 58.0 with the node shown as:
+
+   /-artichoke_015487_1
+--|
+   \-Cpent16620_cp77058_c4_seq1_2483p_f3
+Orthogroup number: 22384 has the big node shown as:
+
+   /-artichoke_015487_1
+--|
+   \-Cpent16620_cp77058_c4_seq1_2483p_f3
+the node1 support consisting the Cuscuta gene and distal asterid donor is 58.0 with the node shown as:
+
+   /-artichoke_015487_1
+--|
+   \-Cpent16620_cp77058_c4_seq1_2483p_f3
+Orthogroup number: 22548 has the big node shown as:
+
+   /-Daucus_carota_006021
+--|
+  |   /-TrVeBC4_p_c30204_g0_i1
+   \-|
+      \-Cpent156568_cp74939_c0_seq1_695m_f1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 77.0 with the node shown as:
+
+   /-TrVeBC4_p_c30204_g0_i1
+--|
+   \-Cpent156568_cp74939_c0_seq1_695m_f1
+Orthogroup number: 22722 has the big node shown as:
+
+   /-gnl_kiwi_Achn125661
+--|
+   \-Cpent75171_cp67820_c0_seq1_2824x_f2
+the node1 support consisting the Cuscuta gene and distal asterid donor is 64.0 with the node shown as:
+
+   /-gnl_kiwi_Achn125661
+--|
+   \-Cpent75171_cp67820_c0_seq1_2824x_f2
+Orthogroup number: 23769 has the big node shown as:
+
+      /-gnl_kiwi_Achn173561
+   /-|
+  |  |   /-gnl_kiwi_Achn313821
+  |   \-|
+--|      \-gnl_kiwi_Achn162961
+  |
+  |   /-Cpent109293_cp68269_c0_seq2_913m_f1
+   \-|
+      \-PhAeBC6_p_c11150_g0_i1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 74.0 with the node shown as:
+
+   /-Cpent109293_cp68269_c0_seq2_913m_f1
+--|
+   \-PhAeBC6_p_c11150_g0_i1
+Orthogroup number: 24693 has the big node shown as:
+
+         /-PhAeBC6_p_c24287_g4_i1
+      /-|
+     |  |   /-Cpent46273_cp77473_c1_seq2_1213m_f1
+     |   \-|
+     |     |   /-Cpent46274_cp77473_c1_seq3_1162m_f3
+     |      \-|
+     |         \-Cpent46275_cp77473_c1_seq4_1086m_f1
+     |
+   /-|         /-StHeBC4_p_c12903_g6267_i1
+  |  |      /-|
+  |  |     |  |   /-TrVeBC4_p_c21720_g31995_i1
+  |  |     |   \-|
+  |  |   /-|      \-PhAeBC6_p_c21860_g22243_i1
+  |  |  |  |
+  |  |  |  |   /-gnl_kiwi_Achn341491
+  |   \-|   \-|
+  |     |      \-Cpent248515_cp78609_c0_seq1_1117p_f1
+  |     |
+  |     |   /-Daucus_carota_010418
+--|      \-|
+  |         \-gnl_kiwi_Achn096461
+  |
+  |         /-StHeBC4_p_c12903_g37831_i1
+  |      /-|
+  |     |   \-StHeBC4_p_c12903_g37834_i1
+  |   /-|
+  |  |  |   /-StHeBC4_p_c12903_g37830_i1
+  |  |   \-|
+  |  |      \-StHeBC4_p_c12903_g29172_i1
+  |  |
+   \-|      /-Cpent195107_cp72026_c0_seq3_1063m_f1
+     |   /-|
+     |  |   \-Cpent49046_cp77086_c1_seq1_1463m_f1
+     |  |
+     |  |         /-PhAeBC6_p_c21860_g3666_i1
+     |  |      /-|
+      \-|     |  |   /-TrVeBC4_p_c21720_g26914_i1
+        |     |   \-|
+        |   /-|      \-TrVeBC4_p_c21720_g40690_i1
+        |  |  |
+        |  |  |   /-TrVeBC4_p_c31221_g0_i1
+         \-|   \-|
+           |      \-TrVeBC4_p_c29687_g0_i1
+           |
+            \-Daucus_carota_032009
+the node1 support consisting the Cuscuta gene and distal asterid donor is 85.0 with the node shown as:
+
+   /-gnl_kiwi_Achn341491
+--|
+   \-Cpent248515_cp78609_c0_seq1_1117p_f1
+Orthogroup number: 24693 has the big node shown as:
+
+         /-StHeBC4_p_c12903_g6267_i1
+      /-|
+     |  |   /-TrVeBC4_p_c21720_g31995_i1
+     |   \-|
+   /-|      \-PhAeBC6_p_c21860_g22243_i1
+  |  |
+  |  |   /-gnl_kiwi_Achn341491
+--|   \-|
+  |      \-Cpent248515_cp78609_c0_seq1_1117p_f1
+  |
+  |   /-Daucus_carota_010418
+   \-|
+      \-gnl_kiwi_Achn096461
+the node1 support consisting the Cuscuta gene and distal asterid donor is 85.0 with the node shown as:
+
+   /-gnl_kiwi_Achn341491
+--|
+   \-Cpent248515_cp78609_c0_seq1_1117p_f1
+Orthogroup number: 24693 has the big node shown as:
+
+   /-gnl_kiwi_Achn341491
+--|
+   \-Cpent248515_cp78609_c0_seq1_1117p_f1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 85.0 with the node shown as:
+
+   /-gnl_kiwi_Achn341491
+--|
+   \-Cpent248515_cp78609_c0_seq1_1117p_f1
+Orthogroup number: 248 has the big node shown as:
+
+   /-gnl_kiwi_Achn253781
+--|
+   \-Cpent19269_cp77686_c0_seq1_565m_f2
+the node1 support consisting the Cuscuta gene and distal asterid donor is 79.0 with the node shown as:
+
+   /-gnl_kiwi_Achn253781
+--|
+   \-Cpent19269_cp77686_c0_seq1_565m_f2
+Orthogroup number: 25323 has the big node shown as:
+
+   /-artichoke_014168_1
+--|
+   \-Cpent107059_cp68122_c3_seq1_1378p_f1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 100.0 with the node shown as:
+
+   /-artichoke_014168_1
+--|
+   \-Cpent107059_cp68122_c3_seq1_1378p_f1
+Orthogroup number: 2643 has the big node shown as:
+
+      /-gnl_kiwi_Achn034531
+   /-|
+  |   \-gnl_kiwi_Achn299261
+--|
+  |   /-StHeBC4_p_c12903_g35171_i2
+   \-|
+      \-Cpent175780_cp74329_c1_seq1_1214p_f1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 64.0 with the node shown as:
+
+   /-StHeBC4_p_c12903_g35171_i2
+--|
+   \-Cpent175780_cp74329_c1_seq1_1214p_f1
+Orthogroup number: 2721 has the big node shown as:
+
+      /-PhAeBC6_p_c19739_g2_i1
+   /-|
+  |  |   /-Daucus_carota_014030
+  |   \-|
+  |     |   /-StHeBC4_p_c12903_g26765_i1
+--|      \-|
+  |         \-Cpent50975_cp77229_c0_seq1_1852m_f1
+  |
+  |   /-StHeBC4_p_c12903_g41404_i1
+   \-|
+     |   /-StHeBC4_p_c12903_g41373_i1
+      \-|
+         \-StHeBC4_p_c12903_g41391_i2
+the node1 support consisting the Cuscuta gene and distal asterid donor is 99.0 with the node shown as:
+
+   /-StHeBC4_p_c12903_g26765_i1
+--|
+   \-Cpent50975_cp77229_c0_seq1_1852m_f1
+Orthogroup number: 2721 has the big node shown as:
+
+   /-Daucus_carota_014030
+--|
+  |   /-StHeBC4_p_c12903_g26765_i1
+   \-|
+      \-Cpent50975_cp77229_c0_seq1_1852m_f1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 99.0 with the node shown as:
+
+   /-StHeBC4_p_c12903_g26765_i1
+--|
+   \-Cpent50975_cp77229_c0_seq1_1852m_f1
+Orthogroup number: 2726 has the big node shown as:
+
+      /-Daucus_carota_001902
+     |
+   /-|      /-Cpent98657_cp68778_c0_seq5_2037p_f1
+  |  |   /-|
+  |  |  |  |   /-Cpent98673_cp68778_c0_seq21_1313p_f1
+  |   \-|   \-|
+  |     |      \-Cpent98659_cp68778_c0_seq7_1990p_f1
+  |     |
+--|      \-Cpent98655_cp68778_c0_seq3_2424p_f1
+  |
+  |      /-Daucus_carota_001904
+  |   /-|
+  |  |  |   /-Cpent7716_cp77387_c0_seq31_2349m_f2
+  |  |   \-|
+  |  |     |   /-Cpent7716_cp77387_c0_seq31_2349m_f1
+   \-|      \-|
+     |         \-Cpent7718_cp77387_c0_seq33_2276m_f1
+     |
+     |   /-Cpent271078_cp64609_c0_seq1_1830p_f1
+      \-|
+         \-Daucus_carota_001924
+the node1 support consisting the Cuscuta gene and distal asterid donor is 100.0 with the node shown as:
+
+   /-Cpent271078_cp64609_c0_seq1_1830p_f1
+--|
+   \-Daucus_carota_001924
+Orthogroup number: 2726 has the big node shown as:
+
+      /-Daucus_carota_001904
+   /-|
+  |  |   /-Cpent7716_cp77387_c0_seq31_2349m_f2
+  |   \-|
+  |     |   /-Cpent7716_cp77387_c0_seq31_2349m_f1
+--|      \-|
+  |         \-Cpent7718_cp77387_c0_seq33_2276m_f1
+  |
+  |   /-Cpent271078_cp64609_c0_seq1_1830p_f1
+   \-|
+      \-Daucus_carota_001924
+the node1 support consisting the Cuscuta gene and distal asterid donor is 100.0 with the node shown as:
+
+   /-Cpent271078_cp64609_c0_seq1_1830p_f1
+--|
+   \-Daucus_carota_001924
+Orthogroup number: 28093 has the big node shown as:
+
+   /-gnl_kiwi_Achn204561
+--|
+   \-Cpent171837_cp74167_c2_seq1_847p_f1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 82.0 with the node shown as:
+
+   /-gnl_kiwi_Achn204561
+--|
+   \-Cpent171837_cp74167_c2_seq1_847p_f1
+Orthogroup number: 2950 has the big node shown as:
+
+      /-PhAeBC6_p_c22187_g0_i1
+   /-|
+  |   \-gnl_kiwi_Achn376381
+  |
+  |         /-PhAeBC6_p_c16625_g0_i1
+--|      /-|
+  |     |   \-Cpent261244_cp78642_c1_seq1_1533m_f1
+  |   /-|
+  |  |  |   /-PhAeBC6_p_c21860_g23846_i1
+   \-|   \-|
+     |      \-PhAeBC6_p_c21860_g23844_i1
+     |
+      \-PhAeBC6_p_c2633_g0_i1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 100.0 with the node shown as:
+
+   /-PhAeBC6_p_c16625_g0_i1
+--|
+   \-Cpent261244_cp78642_c1_seq1_1533m_f1
+Orthogroup number: 2982 has the big node shown as:
+
+   /-artichoke_015553_1
+--|
+   \-Cpent102634_cp69959_c0_seq2_571m_f1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 80.0 with the node shown as:
+
+   /-artichoke_015553_1
+--|
+   \-Cpent102634_cp69959_c0_seq2_571m_f1
+Orthogroup number: 31599 has the big node shown as:
+
+         /-Cpent256063_cp78415_c4_seq5_401p_f1
+      /-|
+     |   \-gnl_kiwi_Achn221211
+     |
+   /-|         /-TrVeBC4_p_c21720_g23714_i1
+  |  |      /-|
+  |  |   /-|   \-PhAeBC6_p_c21860_g26273_i1
+  |  |  |  |
+--|   \-|   \-TrVeBC4_p_c21720_g24015_i1
+  |     |
+  |      \-TrVeBC4_p_c21720_g16274_i1
+  |
+   \-Cpent256058_cp78415_c3_seq1_746p_f1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 56.0 with the node shown as:
+
+   /-Cpent256063_cp78415_c4_seq5_401p_f1
+--|
+   \-gnl_kiwi_Achn221211
+Orthogroup number: 31599 has the big node shown as:
+
+      /-Cpent256063_cp78415_c4_seq5_401p_f1
+   /-|
+  |   \-gnl_kiwi_Achn221211
+  |
+--|         /-TrVeBC4_p_c21720_g23714_i1
+  |      /-|
+  |   /-|   \-PhAeBC6_p_c21860_g26273_i1
+  |  |  |
+   \-|   \-TrVeBC4_p_c21720_g24015_i1
+     |
+      \-TrVeBC4_p_c21720_g16274_i1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 56.0 with the node shown as:
+
+   /-Cpent256063_cp78415_c4_seq5_401p_f1
+--|
+   \-gnl_kiwi_Achn221211
+Orthogroup number: 31935 has the big node shown as:
+
+      /-gnl_Betvu_v1.1_Bv_48970_aiya.t1
+   /-|
+  |   \-Cpent260490_cp78207_c0_seq3_2152m_f2
+--|
+  |   /-gnl_kiwi_Achn106071
+   \-|
+      \-gnl_kiwi_Achn274391
+the node1 support consisting the Cuscuta gene and distal asterid donor is 93.0 with the node shown as:
+
+   /-gnl_Betvu_v1.1_Bv_48970_aiya.t1
+--|
+   \-Cpent260490_cp78207_c0_seq3_2152m_f2
+Orthogroup number: 31935 has the big node shown as:
+
+   /-gnl_Betvu_v1.1_Bv_48970_aiya.t1
+--|
+   \-Cpent260490_cp78207_c0_seq3_2152m_f2
+the node1 support consisting the Cuscuta gene and distal asterid donor is 93.0 with the node shown as:
+
+   /-gnl_Betvu_v1.1_Bv_48970_aiya.t1
+--|
+   \-Cpent260490_cp78207_c0_seq3_2152m_f2
+Orthogroup number: 31949 has the big node shown as:
+
+      /-Amaranthus_hypochondriacus_022545
+   /-|
+  |   \-Amaranthus_hypochondriacus_021002
+  |
+--|   /-TrVeBC4_p_c21720_g1816_i1
+  |  |
+  |  |         /-Cpent176799_cp74714_c0_seq12_1296m_f1
+   \-|      /-|
+     |   /-|   \-Cpent176797_cp74714_c0_seq10_1551m_f1
+     |  |  |
+      \-|   \-Cpent176795_cp74714_c0_seq8_1620m_f1
+        |
+         \-StHeBC4_p_c22628_g1_i1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 69.0 with the node shown as:
+
+         /-Cpent176799_cp74714_c0_seq12_1296m_f1
+      /-|
+   /-|   \-Cpent176797_cp74714_c0_seq10_1551m_f1
+  |  |
+--|   \-Cpent176795_cp74714_c0_seq8_1620m_f1
+  |
+   \-StHeBC4_p_c22628_g1_i1
+Orthogroup number: 31949 has the big node shown as:
+
+      /-Amaranthus_hypochondriacus_022545
+   /-|
+  |   \-Amaranthus_hypochondriacus_021002
+  |
+--|   /-TrVeBC4_p_c21720_g1816_i1
+  |  |
+  |  |         /-Cpent176799_cp74714_c0_seq12_1296m_f1
+   \-|      /-|
+     |   /-|   \-Cpent176797_cp74714_c0_seq10_1551m_f1
+     |  |  |
+      \-|   \-Cpent176795_cp74714_c0_seq8_1620m_f1
+        |
+         \-StHeBC4_p_c22628_g1_i1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 69.0 with the node shown as:
+
+         /-Cpent176799_cp74714_c0_seq12_1296m_f1
+      /-|
+   /-|   \-Cpent176797_cp74714_c0_seq10_1551m_f1
+  |  |
+--|   \-Cpent176795_cp74714_c0_seq8_1620m_f1
+  |
+   \-StHeBC4_p_c22628_g1_i1
+Orthogroup number: 31949 has the big node shown as:
+
+      /-Amaranthus_hypochondriacus_022545
+   /-|
+  |   \-Amaranthus_hypochondriacus_021002
+  |
+--|   /-TrVeBC4_p_c21720_g1816_i1
+  |  |
+  |  |         /-Cpent176799_cp74714_c0_seq12_1296m_f1
+   \-|      /-|
+     |   /-|   \-Cpent176797_cp74714_c0_seq10_1551m_f1
+     |  |  |
+      \-|   \-Cpent176795_cp74714_c0_seq8_1620m_f1
+        |
+         \-StHeBC4_p_c22628_g1_i1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 69.0 with the node shown as:
+
+         /-Cpent176799_cp74714_c0_seq12_1296m_f1
+      /-|
+   /-|   \-Cpent176797_cp74714_c0_seq10_1551m_f1
+  |  |
+--|   \-Cpent176795_cp74714_c0_seq8_1620m_f1
+  |
+   \-StHeBC4_p_c22628_g1_i1
+Orthogroup number: 32425 has the big node shown as:
+
+   /-gnl_kiwi_Achn263481
+--|
+   \-Cpent199984_cp73304_c1_seq2_972m_f2
+the node1 support consisting the Cuscuta gene and distal asterid donor is 91.0 with the node shown as:
+
+   /-gnl_kiwi_Achn263481
+--|
+   \-Cpent199984_cp73304_c1_seq2_972m_f2
+Orthogroup number: 32511 has the big node shown as:
+
+      /-Cpent172310_cp75357_c3_seq1_337m_f1
+   /-|
+--|   \-artichoke_026526_1
+  |
+   \-TrVeBC4_p_c21720_g32086_i2
+the node1 support consisting the Cuscuta gene and distal asterid donor is 53.0 with the node shown as:
+
+   /-Cpent172310_cp75357_c3_seq1_337m_f1
+--|
+   \-artichoke_026526_1
+Orthogroup number: 32521 has the big node shown as:
+
+   /-artichoke_014718_1
+--|
+   \-Cpent184648_cp74603_c3_seq4_1549m_f3
+the node1 support consisting the Cuscuta gene and distal asterid donor is 72.0 with the node shown as:
+
+   /-artichoke_014718_1
+--|
+   \-Cpent184648_cp74603_c3_seq4_1549m_f3
+Orthogroup number: 32845 has the big node shown as:
+
+   /-artichoke_012442_1
+--|
+   \-Cpent221953_cp72831_c0_seq2_908x_f2
+the node1 support consisting the Cuscuta gene and distal asterid donor is 65.0 with the node shown as:
+
+   /-artichoke_012442_1
+--|
+   \-Cpent221953_cp72831_c0_seq2_908x_f2
+Orthogroup number: 32848 has the big node shown as:
+
+   /-Daucus_carota_006275
+--|
+   \-Cpent9839_cp77268_c2_seq9_795p_f1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 70.0 with the node shown as:
+
+   /-Daucus_carota_006275
+--|
+   \-Cpent9839_cp77268_c2_seq9_795p_f1
+Orthogroup number: 36 has the big node shown as:
+
+      /-Amaranthus_hypochondriacus_004725
+   /-|
+  |   \-Cpent142531_cp71369_c1_seq1_586p_f2
+--|
+  |   /-Cpent195305_cp73360_c1_seq18_1631p_f2
+   \-|
+      \-Cpent195314_cp73360_c1_seq27_1378p_f2
+the node1 support consisting the Cuscuta gene and distal asterid donor is 90.0 with the node shown as:
+
+   /-Amaranthus_hypochondriacus_004725
+--|
+   \-Cpent142531_cp71369_c1_seq1_586p_f2
+Orthogroup number: 36 has the big node shown as:
+
+   /-Amaranthus_hypochondriacus_004725
+--|
+   \-Cpent142531_cp71369_c1_seq1_586p_f2
+the node1 support consisting the Cuscuta gene and distal asterid donor is 90.0 with the node shown as:
+
+   /-Amaranthus_hypochondriacus_004725
+--|
+   \-Cpent142531_cp71369_c1_seq1_586p_f2
+Orthogroup number: 3774 has the big node shown as:
+
+   /-Amaranthus_hypochondriacus_014170
+--|
+   \-Cpent141486_cp70640_c1_seq1_1474x_f1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 100.0 with the node shown as:
+
+   /-Amaranthus_hypochondriacus_014170
+--|
+   \-Cpent141486_cp70640_c1_seq1_1474x_f1
+Orthogroup number: 4157 has the big node shown as:
+
+   /-Daucus_carota_010415
+--|
+  |   /-PhAeBC6_p_c21860_g5205_i2
+   \-|
+      \-Cpent32337_cp76116_c1_seq48_470x_f2
+the node1 support consisting the Cuscuta gene and distal asterid donor is 77.0 with the node shown as:
+
+   /-PhAeBC6_p_c21860_g5205_i2
+--|
+   \-Cpent32337_cp76116_c1_seq48_470x_f2
+Orthogroup number: 4254 has the big node shown as:
+
+   /-Amaranthus_hypochondriacus_012792
+--|
+   \-Cpent104741_cp69689_c3_seq1_987x_f1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 83.0 with the node shown as:
+
+   /-Amaranthus_hypochondriacus_012792
+--|
+   \-Cpent104741_cp69689_c3_seq1_987x_f1
+Orthogroup number: 4455 has the big node shown as:
+
+      /-gnl_kiwi_Achn309741
+   /-|
+  |   \-Cpent133579_cp71578_c1_seq16_2239m_f1
+  |
+  |      /-gnl_Betvu_v1.1_Bv4_087490_rcya.t1
+--|   /-|
+  |  |  |   /-Amaranthus_hypochondriacus_006276
+  |  |   \-|
+  |  |     |   /-Amaranthus_hypochondriacus_022742
+   \-|      \-|
+     |        |   /-Amaranthus_hypochondriacus_022679
+     |         \-|
+     |            \-Amaranthus_hypochondriacus_003103
+     |
+      \-gnl_kiwi_Achn152311
+the node1 support consisting the Cuscuta gene and distal asterid donor is 87.0 with the node shown as:
+
+   /-gnl_kiwi_Achn309741
+--|
+   \-Cpent133579_cp71578_c1_seq16_2239m_f1
+Orthogroup number: 4455 has the big node shown as:
+
+   /-gnl_kiwi_Achn309741
+--|
+   \-Cpent133579_cp71578_c1_seq16_2239m_f1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 87.0 with the node shown as:
+
+   /-gnl_kiwi_Achn309741
+--|
+   \-Cpent133579_cp71578_c1_seq16_2239m_f1
+Orthogroup number: 50 has the big node shown as:
+
+   /-Amaranthus_hypochondriacus_001166
+--|
+   \-Cpent71300_cp67295_c1_seq1_10646m_f2
+the node1 support consisting the Cuscuta gene and distal asterid donor is 61.0 with the node shown as:
+
+   /-Amaranthus_hypochondriacus_001166
+--|
+   \-Cpent71300_cp67295_c1_seq1_10646m_f2
+Orthogroup number: 506 has the big node shown as:
+
+   /-gnl_kiwi_Achn326091
+--|
+  |   /-Cpent191479_cp74720_c0_seq1_2598m_f2
+   \-|
+      \-gnl_kiwi_Achn257321
+the node1 support consisting the Cuscuta gene and distal asterid donor is 100.0 with the node shown as:
+
+   /-Cpent191479_cp74720_c0_seq1_2598m_f2
+--|
+   \-gnl_kiwi_Achn257321
+Orthogroup number: 52 has the big node shown as:
+
+   /-gnl_Betvu_v1.1_Bv_44710_fdee.t1
+--|
+  |   /-PhAeBC6_p_c12216_g0_i1
+   \-|
+     |   /-PhAeBC6_p_c27160_g3_i1
+      \-|
+         \-Cpent184006_cp75064_c0_seq4_838x_f1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 68.0 with the node shown as:
+
+   /-PhAeBC6_p_c27160_g3_i1
+--|
+   \-Cpent184006_cp75064_c0_seq4_838x_f1
+Orthogroup number: 5348 has the big node shown as:
+
+   /-Amaranthus_hypochondriacus_011931
+  |
+  |         /-Cpent255882_cp78000_c7_seq5_1834m_f1
+--|      /-|
+  |     |   \-Cpent255885_cp78000_c7_seq8_1716m_f2
+  |   /-|
+  |  |  |   /-Cpent255880_cp78000_c7_seq3_1924m_f1
+   \-|   \-|
+     |      \-Cpent255881_cp78000_c7_seq4_1871m_f2
+     |
+      \-Daucus_carota_028360
+the node1 support consisting the Cuscuta gene and distal asterid donor is 50.0 with the node shown as:
+
+         /-Cpent255882_cp78000_c7_seq5_1834m_f1
+      /-|
+     |   \-Cpent255885_cp78000_c7_seq8_1716m_f2
+   /-|
+  |  |   /-Cpent255880_cp78000_c7_seq3_1924m_f1
+--|   \-|
+  |      \-Cpent255881_cp78000_c7_seq4_1871m_f2
+  |
+   \-Daucus_carota_028360
+Orthogroup number: 5348 has the big node shown as:
+
+   /-Amaranthus_hypochondriacus_011931
+  |
+  |         /-Cpent255882_cp78000_c7_seq5_1834m_f1
+--|      /-|
+  |     |   \-Cpent255885_cp78000_c7_seq8_1716m_f2
+  |   /-|
+  |  |  |   /-Cpent255880_cp78000_c7_seq3_1924m_f1
+   \-|   \-|
+     |      \-Cpent255881_cp78000_c7_seq4_1871m_f2
+     |
+      \-Daucus_carota_028360
+the node1 support consisting the Cuscuta gene and distal asterid donor is 50.0 with the node shown as:
+
+         /-Cpent255882_cp78000_c7_seq5_1834m_f1
+      /-|
+     |   \-Cpent255885_cp78000_c7_seq8_1716m_f2
+   /-|
+  |  |   /-Cpent255880_cp78000_c7_seq3_1924m_f1
+--|   \-|
+  |      \-Cpent255881_cp78000_c7_seq4_1871m_f2
+  |
+   \-Daucus_carota_028360
+Orthogroup number: 5348 has the big node shown as:
+
+   /-Amaranthus_hypochondriacus_011931
+  |
+  |         /-Cpent255882_cp78000_c7_seq5_1834m_f1
+--|      /-|
+  |     |   \-Cpent255885_cp78000_c7_seq8_1716m_f2
+  |   /-|
+  |  |  |   /-Cpent255880_cp78000_c7_seq3_1924m_f1
+   \-|   \-|
+     |      \-Cpent255881_cp78000_c7_seq4_1871m_f2
+     |
+      \-Daucus_carota_028360
+the node1 support consisting the Cuscuta gene and distal asterid donor is 50.0 with the node shown as:
+
+         /-Cpent255882_cp78000_c7_seq5_1834m_f1
+      /-|
+     |   \-Cpent255885_cp78000_c7_seq8_1716m_f2
+   /-|
+  |  |   /-Cpent255880_cp78000_c7_seq3_1924m_f1
+--|   \-|
+  |      \-Cpent255881_cp78000_c7_seq4_1871m_f2
+  |
+   \-Daucus_carota_028360
+Orthogroup number: 5348 has the big node shown as:
+
+   /-Amaranthus_hypochondriacus_011931
+  |
+  |         /-Cpent255882_cp78000_c7_seq5_1834m_f1
+--|      /-|
+  |     |   \-Cpent255885_cp78000_c7_seq8_1716m_f2
+  |   /-|
+  |  |  |   /-Cpent255880_cp78000_c7_seq3_1924m_f1
+   \-|   \-|
+     |      \-Cpent255881_cp78000_c7_seq4_1871m_f2
+     |
+      \-Daucus_carota_028360
+the node1 support consisting the Cuscuta gene and distal asterid donor is 50.0 with the node shown as:
+
+         /-Cpent255882_cp78000_c7_seq5_1834m_f1
+      /-|
+     |   \-Cpent255885_cp78000_c7_seq8_1716m_f2
+   /-|
+  |  |   /-Cpent255880_cp78000_c7_seq3_1924m_f1
+--|   \-|
+  |      \-Cpent255881_cp78000_c7_seq4_1871m_f2
+  |
+   \-Daucus_carota_028360
+Orthogroup number: 562 has the big node shown as:
+
+         /-artichoke_002667_1
+      /-|
+   /-|   \-artichoke_006229_1
+  |  |
+--|   \-Daucus_carota_006559
+  |
+  |   /-Cpent216966_cp72742_c3_seq7_1077p_f1
+   \-|
+      \-gnl_Betvu_v1.1_Bv5_099390_offc.t1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 90.0 with the node shown as:
+
+   /-Cpent216966_cp72742_c3_seq7_1077p_f1
+--|
+   \-gnl_Betvu_v1.1_Bv5_099390_offc.t1
+Orthogroup number: 597 has the big node shown as:
+
+   /-gnl_kiwi_Achn345481
+--|
+   \-Cpent38917_cp77467_c0_seq2_1427m_f1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 80.0 with the node shown as:
+
+   /-gnl_kiwi_Achn345481
+--|
+   \-Cpent38917_cp77467_c0_seq2_1427m_f1
+Orthogroup number: 66 has the big node shown as:
+
+         /-Cpent266461_cp65650_c2_seq1_1219x_f1
+      /-|
+     |   \-gnl_Betvu_v1.1_Bv9_222200_cwgp.t1
+   /-|
+  |  |   /-gnl_kiwi_Achn015511
+--|   \-|
+  |      \-StHeBC4_p_c23640_g6_i1
+  |
+   \-gnl_Betvu_v1.1_Bv5_115960_kkne.t1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 78.0 with the node shown as:
+
+   /-Cpent266461_cp65650_c2_seq1_1219x_f1
+--|
+   \-gnl_Betvu_v1.1_Bv9_222200_cwgp.t1
+Orthogroup number: 66 has the big node shown as:
+
+      /-Cpent266461_cp65650_c2_seq1_1219x_f1
+   /-|
+  |   \-gnl_Betvu_v1.1_Bv9_222200_cwgp.t1
+--|
+  |   /-gnl_kiwi_Achn015511
+   \-|
+      \-StHeBC4_p_c23640_g6_i1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 78.0 with the node shown as:
+
+   /-Cpent266461_cp65650_c2_seq1_1219x_f1
+--|
+   \-gnl_Betvu_v1.1_Bv9_222200_cwgp.t1
+Orthogroup number: 7244 has the big node shown as:
+
+   /-artichoke_021090_1
+--|
+   \-Cpent173160_cp74336_c0_seq33_1347p_f1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 52.0 with the node shown as:
+
+   /-artichoke_021090_1
+--|
+   \-Cpent173160_cp74336_c0_seq33_1347p_f1
+Orthogroup number: 7702 has the big node shown as:
+
+   /-artichoke_010621_1
+--|
+   \-Cpent130986_cp70573_c0_seq1_1098m_f1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 94.0 with the node shown as:
+
+   /-artichoke_010621_1
+--|
+   \-Cpent130986_cp70573_c0_seq1_1098m_f1
+Orthogroup number: 8505 has the big node shown as:
+
+   /-gnl_Betvu_v1.1_Bv_18600_pgzr.t1
+  |
+--|      /-Cpent191367_cp74144_c0_seq5_1160p_f1
+  |   /-|
+   \-|   \-Cpent191365_cp74144_c0_seq3_1782p_f1
+     |
+      \-Amaranthus_hypochondriacus_022367
+the node1 support consisting the Cuscuta gene and distal asterid donor is 100.0 with the node shown as:
+
+      /-Cpent191367_cp74144_c0_seq5_1160p_f1
+   /-|
+--|   \-Cpent191365_cp74144_c0_seq3_1782p_f1
+  |
+   \-Amaranthus_hypochondriacus_022367
+Orthogroup number: 8505 has the big node shown as:
+
+   /-gnl_Betvu_v1.1_Bv_18600_pgzr.t1
+  |
+--|      /-Cpent191367_cp74144_c0_seq5_1160p_f1
+  |   /-|
+   \-|   \-Cpent191365_cp74144_c0_seq3_1782p_f1
+     |
+      \-Amaranthus_hypochondriacus_022367
+the node1 support consisting the Cuscuta gene and distal asterid donor is 100.0 with the node shown as:
+
+      /-Cpent191367_cp74144_c0_seq5_1160p_f1
+   /-|
+--|   \-Cpent191365_cp74144_c0_seq3_1782p_f1
+  |
+   \-Amaranthus_hypochondriacus_022367
+Orthogroup number: 9 has the big node shown as:
+
+            /-TrVeBC4_p_c21720_g20907_i1
+           |
+           |      /-TrVeBC4_p_c21720_g20889_i1
+           |     |
+         /-|     |      /-TrVeBC4_p_c21720_g20905_i1
+        |  |   /-|   /-|
+        |  |  |  |  |  |   /-TrVeBC4_p_c21720_g20903_i1
+        |  |  |  |  |   \-|
+        |  |  |   \-|     |   /-TrVeBC4_p_c21720_g20886_i1
+        |   \-|     |      \-|
+        |     |     |         \-TrVeBC4_p_c21720_g20916_i1
+        |     |     |
+      /-|     |      \-TrVeBC4_p_c21720_g20901_i1
+     |  |     |
+     |  |      \-TrVeBC4_p_c21720_g20913_i2
+     |  |
+     |  |      /-PhAeBC6_p_c24003_g0_i1
+     |  |   /-|
+     |  |  |  |   /-PhAeBC6_p_c24003_g2_i1
+     |  |  |   \-|
+     |   \-|     |   /-PhAeBC6_p_c24003_g3_i24
+     |     |      \-|
+     |     |         \-PhAeBC6_p_c24003_g1_i1
+     |     |
+   /-|      \-PhAeBC6_p_c24003_g4_i1
+  |  |
+  |  |            /-TrVeBC4_p_c26049_g0_i2
+  |  |         /-|
+  |  |        |  |   /-TrVeBC4_p_c29823_g0_i1
+  |  |        |   \-|
+  |  |      /-|      \-Cpent152820_cp61942_c1_seq1_701m_f1
+  |  |     |  |
+  |  |     |  |   /-Amaranthus_hypochondriacus_001989
+  |  |   /-|   \-|
+  |  |  |  |      \-Amaranthus_hypochondriacus_001987
+  |  |  |  |
+  |  |  |   \-StHeBC4_p_c17050_g0_i1
+  |   \-|
+  |     |   /-gnl_Stras_v1.02_SGA1.0.scaffold36G001550
+  |     |  |
+  |     |  |         /-StHeBC4_p_c18736_g5_i1
+--|     |  |      /-|
+  |      \-|   /-|   \-StHeBC4_p_c18736_g9_i1
+  |        |  |  |
+  |        |  |   \-StHeBC4_p_c18736_g6_i1
+  |        |  |
+  |        |  |         /-StHeBC4_p_c18736_g10_i2
+  |         \-|      /-|
+  |           |     |  |   /-StHeBC4_p_c18736_g1_i1
+  |           |     |   \-|
+  |           |   /-|      \-StHeBC4_p_c18736_g7_i1
+  |           |  |  |
+  |           |  |  |   /-StHeBC4_p_c18736_g11_i1
+  |            \-|   \-|
+  |              |      \-StHeBC4_p_c18736_g0_i1
+  |              |
+  |               \-StHeBC4_p_c18736_g8_i4
+  |
+  |   /-StHeBC4_p_c12903_g5705_i2
+   \-|
+      \-TrVeBC4_p_c22522_g0_i1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 78.0 with the node shown as:
+
+   /-TrVeBC4_p_c29823_g0_i1
+--|
+   \-Cpent152820_cp61942_c1_seq1_701m_f1
+Orthogroup number: 9 has the big node shown as:
+
+            /-TrVeBC4_p_c26049_g0_i2
+         /-|
+        |  |   /-TrVeBC4_p_c29823_g0_i1
+        |   \-|
+      /-|      \-Cpent152820_cp61942_c1_seq1_701m_f1
+     |  |
+     |  |   /-Amaranthus_hypochondriacus_001989
+   /-|   \-|
+  |  |      \-Amaranthus_hypochondriacus_001987
+  |  |
+  |   \-StHeBC4_p_c17050_g0_i1
+--|
+  |   /-gnl_Stras_v1.02_SGA1.0.scaffold36G001550
+  |  |
+  |  |         /-StHeBC4_p_c18736_g5_i1
+  |  |      /-|
+   \-|   /-|   \-StHeBC4_p_c18736_g9_i1
+     |  |  |
+     |  |   \-StHeBC4_p_c18736_g6_i1
+     |  |
+     |  |         /-StHeBC4_p_c18736_g10_i2
+      \-|      /-|
+        |     |  |   /-StHeBC4_p_c18736_g1_i1
+        |     |   \-|
+        |   /-|      \-StHeBC4_p_c18736_g7_i1
+        |  |  |
+        |  |  |   /-StHeBC4_p_c18736_g11_i1
+         \-|   \-|
+           |      \-StHeBC4_p_c18736_g0_i1
+           |
+            \-StHeBC4_p_c18736_g8_i4
+the node1 support consisting the Cuscuta gene and distal asterid donor is 78.0 with the node shown as:
+
+   /-TrVeBC4_p_c29823_g0_i1
+--|
+   \-Cpent152820_cp61942_c1_seq1_701m_f1
+Orthogroup number: 9 has the big node shown as:
+
+         /-TrVeBC4_p_c26049_g0_i2
+      /-|
+     |  |   /-TrVeBC4_p_c29823_g0_i1
+     |   \-|
+   /-|      \-Cpent152820_cp61942_c1_seq1_701m_f1
+  |  |
+  |  |   /-Amaranthus_hypochondriacus_001989
+--|   \-|
+  |      \-Amaranthus_hypochondriacus_001987
+  |
+   \-StHeBC4_p_c17050_g0_i1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 78.0 with the node shown as:
+
+   /-TrVeBC4_p_c29823_g0_i1
+--|
+   \-Cpent152820_cp61942_c1_seq1_701m_f1
+Orthogroup number: 9662 has the big node shown as:
+
+         /-Cpent32741_cp77863_c0_seq4_2880m_f1
+      /-|
+     |   \-Cpent32739_cp77863_c0_seq2_2900m_f1
+   /-|
+  |  |   /-gnl_Betvu_v1.1_Bv5_098680_yyso.t1
+  |   \-|
+  |     |   /-gnl_Betvu_v1.1_Bv_04580_xwij.t1
+  |      \-|
+--|        |   /-Amaranthus_hypochondriacus_020950
+  |         \-|
+  |            \-Amaranthus_hypochondriacus_003755
+  |
+  |      /-Cpent86516_cp57301_c3_seq1_459x_f1
+  |   /-|
+   \-|   \-PhAeBC6_p_c21860_g19242_i1
+     |
+      \-gnl_Betvu_v1.1_Bv_23400_ngam.t1
+the node1 support consisting the Cuscuta gene and distal asterid donor is 99.0 with the node shown as:
+
+   /-Cpent86516_cp57301_c3_seq1_459x_f1
+--|
+   \-PhAeBC6_p_c21860_g19242_i1
