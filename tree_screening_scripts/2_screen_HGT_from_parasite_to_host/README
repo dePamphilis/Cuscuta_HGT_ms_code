@@ -1,0 +1,24 @@
+1. The script identifies candidate parasite-to-host HGT orthogroups from a large number of RAxML trees (in Phylip format), which needs further careful validation.
+2. The example tree folder is shown as in "1_example_tree_folder".
+3. For possible parasite-to-host HGTs, we mainly focus on HGT from parasite to rosid. 
+4. To run the script, simply do the following:
+
+(1) To identify HGT in Cuscuta from Rosids, one needs to run the five scripts separately
+
+cd 2_scripts
+python get_HGT_from_cuscuta2rosids_v3.1_50_and_atLeastOne50.py ../1_example_tree_folder > ../3_output_folder/rosid2Cuscuta_3.1_HGT_out.txt 
+
+python get_HGT_from_cuscuta2rosids_v3.2_50_and_atLeastOne50.py ../1_example_tree_folder > ../3_output_folder/rosid2Cuscuta_3.2_HGT_out.txt 
+
+python get_HGT_from_cuscuta2rosids_v3.3.4.5_50_and_atLeastOne50.py ../1_example_tree_folder > ../3_output_folder/rosid2Cuscuta_3.3.4.5_HGT_out.txt 
+
+
+#To identify orthogroups from the output file, run the following code:
+
+cd ../3_output_folder
+perl export_ortho_from_HGT_screen_output.pl rosid2Cuscuta_3.1_HGT_out.txt > rosid_HGT_3.1_orthos
+perl export_ortho_from_HGT_screen_output.pl rosid2Cuscuta_3.2_HGT_out.txt > rosid_HGT_3.2_orthos
+perl export_ortho_from_HGT_screen_output.pl rosid2Cuscuta_3.3.4.5_HGT_out.txt > rosid_HGT_3.3.4.5_orthos
+
+
+#One needs to validate the candidate orthogroups by increased taxon sampling, examination of the orthogroup alingments, and other things such as frameshift errors.

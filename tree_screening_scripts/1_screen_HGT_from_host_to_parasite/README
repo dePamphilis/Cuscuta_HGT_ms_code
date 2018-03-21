@@ -1,0 +1,36 @@
+1. The script identifies candidate host-to-parasite HGT orthogroups from a large number of RAxML trees (in Phylip format).
+2. The example tree folder is shown as in "1_example_tree_folder".
+3. There are scripts which identify HGT in Cuscuta from different donors: in this analysis, we identify donor from rosids and distant Asterid group such as Caryophyllales. Scripts are written to identify HGTs representing tree topologies of several schema, such as model1, model 2.1, model 2.2, model 3.1, model 3.2. The topology of different models can be found in supplementary figure S1.
+4. To run the script, simply do the following:
+
+(1) To identify HGT in Cuscuta from Rosids, one needs to run the five scripts separately
+
+cd 2_scripts
+python get_HGT_from_Rosids2Cuscuta_model1_50_and_atLeastOne50.py ../1_example_tree_folder > ../3_output_folder/Rosid_HGT_v1_out.txt 
+
+python get_HGT_from_Rosids2Cuscuta_model2.1_50_and_atLeastOne50.py ../1_example_tree_folder > ../3_output_folder/Rosid_HGT_v2.1_out.txt 
+
+python gget_HGT_from_Rosids2Cuscuta_model2.2_50_and_OnlyOne50.py ../1_example_tree_folder > ../3_output_folder/Rosid_HGT_v2.2_out.txt 
+
+python get_HGT_from_rosids2Cuscuta_model3.1_50_and_OnlyOne50_1donor.py ../1_example_tree_folder > ../3_output_folder/Rosid_HGT_v3.1_out.txt 
+
+
+python get_HGT_from_Rosids2Cuscuta_model3.2_50_and_OnlyOne50_gt1donor.py ../1_example_tree_folder > ../3_output_folder/Rosid_HGT_v3.2_out.txt 
+
+
+
+#To identify orthogroups from the output file, run the following code:
+
+cd ../3_output_folder
+perl export_ortho_from_HGT_screen_output.pl Rosid_HGT_v1_out.txt > Rosid_HGT_v1_orthos
+perl export_ortho_from_HGT_screen_output.pl Rosid_HGT_v2.1_out.txt > Rosid_HGT_v2.1_orthos
+
+perl export_ortho_from_HGT_screen_output.pl Rosid_HGT_v2.2_out.txt > Rosid_HGT_v2.2_orthos
+
+perl export_ortho_from_HGT_screen_output.pl Rosid_HGT_v3.1_out.txt > Rosid_HGT_v3.1_orthos
+
+perl export_ortho_from_HGT_screen_output.pl Rosid_HGT_v3.2_out.txt > Rosid_HGT_v3.2_orthos
+
+
+
+#Similarly, one can run the remaining scripts to identify HGT in Cuscuta from the distal Asterid group.

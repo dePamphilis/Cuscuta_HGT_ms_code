@@ -1,0 +1,169 @@
+Notothyladales	Anthocerotophyta_embryophytes	distant_non-seed_plant
+Apiales	asterids	close
+Aquifoliales	asterids	close
+Asterales	asterids	close
+Boraginales	asterids	close
+Bruniales	asterids	close
+Cornales	asterids	close
+Dipsacales	asterids	close
+Ericales	asterids	close
+Escalloniales	asterids	close
+Garryales	asterids	close
+Gentianales	asterids	close
+Lamiales	asterids	close
+Paracryphiales	asterids	close
+Solanales	asterids	close_or_self
+Amborellales	Basal angiosperms	distant_basal
+Austrobaileyales	Basal angiosperms	distant_basal
+Canellales	Basal angiosperms	distant_basal
+Chloranthales	Basal angiosperms	distant_basal
+Laurales	Basal angiosperms	distant_basal
+Magnoliales	Basal angiosperms	distant_basal
+Nymphaeales	Basal angiosperms	distant_basal
+Piperales	Basal angiosperms	distant_basal
+Berberidopsidales	Basal asterids	distant_basal
+Caryophyllales	Basal asterids	distant_basal
+Santalales	Basal asterids	distant_basal
+Buxales	Basal eudicots	distant_basal
+Ceratophyllales	Basal eudicots	distant_basal
+Gunnerales	Basal eudicots	distant_basal
+Proteales	Basal eudicots	distant_basal
+Ranunculales	Basal eudicots	distant_basal
+Trochodendrales	Basal eudicots	distant_basal
+Saxifragales	Basal rosids	distant_basal
+Archidiales	bryophyte	distant_non-seed_plant
+Bartramiales	bryophyte	distant_non-seed_plant
+Blasiales	bryophyte	distant_non-seed_plant
+Bryales	bryophyte	distant_non-seed_plant
+Bryoxiphiales	bryophyte	distant_non-seed_plant
+Buxbaumiales	bryophyte	distant_non-seed_plant
+Calobryales	bryophyte	distant_non-seed_plant
+Dicranales	bryophyte	distant_non-seed_plant
+Diphysciales	bryophyte	distant_non-seed_plant
+Encalyptales	bryophyte	distant_non-seed_plant
+Funariales	bryophyte	distant_non-seed_plant
+Gigaspermales	bryophyte	distant_non-seed_plant
+Grimmiales	bryophyte	distant_non-seed_plant
+Hedwigiales	bryophyte	distant_non-seed_plant
+Hookeriales	bryophyte	distant_non-seed_plant
+Hypnales	bryophyte	distant_non-seed_plant
+Leiosporocerotales	bryophyte	distant_non-seed_plant
+Orthotrichales	bryophyte	distant_non-seed_plant
+Pottiales	bryophyte	distant_non-seed_plant
+Ptychomniales	bryophyte	distant_non-seed_plant
+Rhizogoniales	bryophyte	distant_non-seed_plant
+Scouleriales	bryophyte	distant_non-seed_plant
+Splachnales	bryophyte	distant_non-seed_plant
+Hypnodendrales	bryophyte	distant_non-seed_plant
+Treubiales	embryophytes	distant_non-seed_plant
+Cyatheales	ferns	distant_non-seed_plant
+Equisetales	ferns	distant_non-seed_plant
+Gleicheniales	ferns	distant_non-seed_plant
+Hymenophyllales	ferns	distant_non-seed_plant
+Marattiales	ferns	distant_non-seed_plant
+Ophioglossales	ferns	distant_non-seed_plant
+Osmundales	ferns	distant_non-seed_plant
+Polypodiales	ferns	distant_non-seed_plant
+Psilotales	ferns	distant_non-seed_plant
+Salviniales	ferns	distant_non-seed_plant
+Schizaeales	ferns	distant_non-seed_plant
+Acrosiphoniales	green algae	distant_non-seed_plant
+Bryopsidales	green algae	distant_non-seed_plant
+Chaetopeltidales	green algae	distant_non-seed_plant
+Chaetophorales	green algae	distant_non-seed_plant
+Charales	green algae	distant_non-seed_plant
+Chlamydomonadales	green algae	distant_non-seed_plant
+Chlorellales	green algae	distant_non-seed_plant
+Chlorococcales	green algae	distant_non-seed_plant
+Chlorodendrales	green algae	distant_non-seed_plant
+Chlorokybales	green algae	distant_non-seed_plant
+Chlorosarcinales	green algae	distant_non-seed_plant
+Cladophorales	green algae	distant_non-seed_plant
+Coleochaetales	green algae	distant_non-seed_plant
+Ctenocladales	green algae	distant_non-seed_plant
+Dasycladales	green algae	distant_non-seed_plant
+Desmidiales	green algae	distant_non-seed_plant
+Dolichomastigales	green algae	distant_non-seed_plant
+Ignatiales	green algae	distant_non-seed_plant
+Klebsormidiales	green algae	distant_non-seed_plant
+Mamiellales	green algae	distant_non-seed_plant
+Marsupiomonadales	green algae	distant_non-seed_plant
+Mesostigmatales	green algae	distant_non-seed_plant
+Microthamniales	green algae	distant_non-seed_plant
+Monomastigales	green algae	distant_non-seed_plant
+Oedogoniales	green algae	distant_non-seed_plant
+Pedinomonadales	green algae	distant_non-seed_plant
+Prasinococcales	green algae	distant_non-seed_plant
+Prasiolales	green algae	distant_non-seed_plant
+Pseudoscourfieldiales	green algae	distant_non-seed_plant
+Pyramimonadales	green algae	distant_non-seed_plant
+Sphaeropleales	green algae	distant_non-seed_plant
+Trentepohliales	green algae	distant_non-seed_plant
+Ulotrichales	green algae	distant_non-seed_plant
+Ulvales	green algae	distant_non-seed_plant
+Zygnematales	green algae	distant_non-seed_plant
+Phaeophilales	green algae	distant_non-seed_plant
+Palmophyllales	green algae	distant_non-seed_plant
+Araucariales	gymnopserms	distant_gymnosperm
+Cupressales	gymnopserms	distant_gymnosperm
+Cycadales	gymnopserms	distant_gymnosperm
+Ephedrales	gymnopserms	distant_gymnosperm
+Ginkgoales	gymnopserms	distant_gymnosperm
+Gnetales	gymnopserms	distant_gymnosperm
+Pinales	gymnopserms	distant_gymnosperm
+Welwitschiales	gymnopserms	distant_gymnosperm
+Anthocerotales	hornwort	distant_non-seed_plant
+Dendrocerotales	hornwort	distant_non-seed_plant
+Phymatocerotales	hornwort	distant_non-seed_plant
+Fossombroniales	liverworts	distant_non-seed_plant
+Jungermanniales	liverworts	distant_non-seed_plant
+Lunulariales	liverworts	distant_non-seed_plant
+Marchantiales	liverworts	distant_non-seed_plant
+Metzgeriales	liverworts	distant_non-seed_plant
+Neohodgsoniales	liverworts	distant_non-seed_plant
+Pallaviciniales	liverworts	distant_non-seed_plant
+Pelliales	liverworts	distant_non-seed_plant
+Pleuroziales	liverworts	distant_non-seed_plant
+Porellales	liverworts	distant_non-seed_plant
+Ptilidiales	liverworts	distant_non-seed_plant
+Sphaerocarpales	liverworts	distant_non-seed_plant
+Isoetales	lycophyte	distant_non-seed_plant
+Lycopodiales	lycophyte	distant_non-seed_plant
+Selaginellales	lycophyte	distant_non-seed_plant
+Acorales	monocots	distant_monocot
+Alismatales	monocots	distant_monocot
+Arecales	monocots	distant_monocot
+Asparagales	monocots	distant_monocot
+Commelinales	monocots	distant_monocot
+Dioscoreales	monocots	distant_monocot
+Liliales	monocots	distant_monocot
+Pandanales	monocots	distant_monocot
+Petrosaviales	monocots	distant_monocot
+Poales	monocots	distant_monocot
+Zingiberales	monocots	distant_monocot
+Andreaeales	moss	distant_non-seed_plant
+Andreaeobryales	moss	distant_non-seed_plant
+Oedipodiales	moss	distant_non-seed_plant
+Polytrichales	moss	distant_non-seed_plant
+Sphagnales	moss	distant_non-seed_plant
+Takakiales	moss	distant_non-seed_plant
+Tetraphidales	moss	distant_non-seed_plant
+Timmiales	moss	distant_non-seed_plant
+Brassicales	rosids	distant_rosid
+Celastrales	rosids	distant_rosid
+Crossosomatales	rosids	distant_rosid
+Cucurbitales	rosids	distant_rosid
+Fabales	rosids	distant_rosid
+Fagales	rosids	distant_rosid
+Geraniales	rosids	distant_rosid
+Huerteales	rosids	distant_rosid
+Malpighiales	rosids	distant_rosid
+Malvales	rosids	distant_rosid
+Myrtales	rosids	distant_rosid
+Oxalidales	rosids	distant_rosid
+Picramniales	rosids	distant_rosid
+Rosales	rosids	distant_rosid
+Sapindales	rosids	distant_rosid
+Vitales	rosids	distant_rosid
+Zygophyllales	rosids	distant_rosid
+Dilleniales	Unique rosids	distant_basal

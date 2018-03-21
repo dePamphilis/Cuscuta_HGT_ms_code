@@ -1,0 +1,6 @@
+1. The script exports the proportion of each gene from self, close, and various distant taxonomic groups, based on two input files: one is a BLAST input file, the other is a user-provided taxonomic file with the order and group information.
+
+2. An example of the <BLAST input file> is provided as "input_file1_example_blast_input", an example of the <order and group file> is provided as "input_file2_order_and_human_curated_category_input.txt".
+
+3. To run the script, simply do the following:
+python calculate_self-close-distant-proportions_per_gene_top50_Cuscuta.py input_file1_example_blast_input input_file2_order_and_human_curated_category_input.txt > output
