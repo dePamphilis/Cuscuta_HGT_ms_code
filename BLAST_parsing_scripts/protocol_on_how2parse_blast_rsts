@@ -1,0 +1,327 @@
+ cat Input_blastp_results_example/*.blastp > Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results.txt 
+
+1. split blast results into nr hits and non-nr hits
+perl -e 'my $nr_blast = "Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_nr.txt "; my $non_nr_blast = "Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_non-nr.txt ";  open NR, ">$nr_blast"; open NON, ">$non_nr_blast";  while(<>) {chomp; @F=split(/\t/,$_); if ($F[1] =~ /^gi\|/) {print NR "$_\n"; } else { print NON "$_\n";}}' < Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results.txt 
+
+
+
+2. extract gi information and their taxonomic information
+python ../scripts/extract_unique_gi_from_blast_rst.py Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_nr.txt > Cuscuta_blast_results_uniq_gi
+
+python ../scripts/split_lines.py Cuscuta_blast_results_uniq_gi 50000
+python ../mv_gi_files_into_multi_folders.py .
+
+#copy the blast folders to biostar
+scp -r blast_* zzy5028@biostar.psu.edu:/gpfs/home/zzy5028/biostar/users/zzy5028/Taxonomy/Cuscuta_neelima_eric
+
+#go to the folder on biostar: /gpfs/home/zzy5028/biostar/users/zzy5028/Taxonomy/Cuscuta_neelima_eric
+#and run the following script:
+
+python ../create_multiple_pbs_tax_classifier_scripts_Cuscuta_16g.4t.py   /gpfs/home/zzy5028/biostar/users/zzy5028/Taxonomy/Cuscuta_neelima_eric blast_ 49 
+
+#the above script will produce multiple pbs scripts, for instance script: run_tax_classifier_1.phb 
+
+3. extract taxonomic information for non-gi blast results
+#split blast results into multiple files
+python ../scripts/split_lines.py Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_non-nr.txt  1000000
+
+#ccreate a folder on bostar
+Cuscuta_neelima_eric_16g4t
+#run the script on biostar has to use the actual path of the current folder
+python ../create_multiple_pbs_tax_classifier_scripts_non-nr_cuscuta_new_db.py /gpfs/home/zzy5028/biostar/users/zzy5028/Tax_non-nr/Cuscuta_neelima_eric_16g4t 11
+
+python ../scripts/concatenate_taxonomic_info_for_1kp_and_genomic_hit_with_blast_out_v6_16g4t.py /gpfs/home/zzy5028/biostar/users/zzy5028/Tax_non-nr/Cuscuta_neelima_eric_16g4t/Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_non-nr.txt_1.txt  > /gpfs/home/zzy5028/biostar/users/zzy5028/Tax_non-nr/Cuscuta_neelima_eric_16g4t/tax_1
+
+cd /gpfs/home/zzy5028/biostar/users/zzy5028/Tax_non-nr/Cuscuta_neelima_eric_16g4t
+cat tax_* > Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_non-nr_and_tax_info.txt 
+
+[zzy5028@biostar Cuscuta_neelima_eric]$ less run_tax_classifier_38.phb.e1762463
+[zzy5028@biostar Cuscuta_neelima_eric]$ less run_tax_classifier_23.phb.e1762448 
+[zzy5028@biostar Cuscuta_neelima_eric]$ less run_tax_classifier_24.phb.e1762449
+
+4. process blast nr results and taxonomic information
+scp zzy5028@biostar.psu.edu:/gpfs/home/zzy5028/biostar/users/zzy5028/Taxonomy/Cuscuta_neelima_eric/blast_*/Cuscuta_blast_results_uniq_gi_* .
+
+perl ../scripts/get_fileA-fileB.pl Cuscuta_blast_results_uniq_gi_1.txt taxonomy_info_1.txt > failed_gi1
+
+cut -f 1 taxonomy_info_1.txt > finished_gi1
+perl -e '$part1 = "cut -f 1 taxonomy_info_"; $part2 = ".txt > finished_gi"; for $i (1..49) {print "$part1$i$part2$i\n";}'
+perl -e '$part1 = "perl ../scripts/get_fileA-fileB.pl Cuscuta_blast_results_uniq_gi_"; $part2 = ".txt finished_gi"; $part3 = " > failed_gi"; for $i (1..49) {print "$part1$i$part2$i$part3$i\n";}'
+
+perl ../scripts/get_fileA-fileB.pl Cuscuta_blast_results_uniq_gi_1.txt finished_gi1 > failed_gi1
+
+
+perl -e 'for $i (1..49) {$dir = "blast_$i"; system "mkdir $dir \n";}'
+cp failed_gi1 blast_1
+perl -e '$part1 = "cp  failed_gi"; $part2 = " blast_"; $part3 = "/Cuscuta_blast_results_uniq_gi_"; $part4 = ".txt"; for $i (1..49) {print "$part1$i$part2$i$part3$i$part4\n";}'
+
+#replace the phb script from 2 cpu to 1 cpu
+for i in *.phb ; do sed -i 's/ppn=2/ppn=1/g' $i ; done
+
+
+#go to desktop 241 /Users/zhenzhen/projects/NR_Oct15/NR_taxonomy_info
+and go to Temp: cd Temp
+scp failed_gi* zhenzhen@10.102.32.12:/Users/zhenzhen/projects/NR_Oct15/NR_taxonomy_info/Temp
+perl -e '$part1= "~/software/ncbi-blast-2.2.31+/bin/blastdbcmd -db ../../db/nr -entry_batch failed_gi"; $part2 = " -outfmt \"%g %T\" > failed_gi_and_taxid"; for $i (1..49) {print "$part1$i$part2$i\n";}'
+
+#turns out that these failed gi failed because they don't have their taxonomic information in the database gi_and_tax_info, so we have to get theier taxid and get their information.
+~/software/ncbi-blast-2.2.31+/bin/blastdbcmd -db ../../db/nr -entry_batch failed_gi2 -outfmt "%g %T" > failed_gi_and_taxid2
+
+perl convert_space2tab.pl failed_gi_and_taxid1 > failed_gi_and_taxid_tab1 
+
+perl -e '$part1 = "perl convert_space2tab.pl failed_gi_and_taxid"; $part2= " > failed_gi_and_taxid_tab"; for $i (1..49) {print "$part1$i$part2$i\n";}'
+
+perl ../scripts/convert_space2tab.pl failed_gi_and_taxid1 > failed_gi_and_taxid_tab1
+
+cat  failed_gi_and_taxid_tab* |cut -f 2 | uniq > all_failed_taxids
+ perl ../get_uniq_lines.pl all_failed_taxids > test
+ mv -f test all_failed_taxids #1495 all_failed_taxids, only 1495 failed taxid information
+
+python ../scripts/tax_identifier_v2.2.py all_failed_taxids > failed_taxid_and_tax_info
+cat  failed_gi_and_taxid_tab* > all_failed_gi_and_taxid
+python ../scripts/export_taxonomy_info_for_each_gi.py failed_taxid_and_tax_info
+
+python ~/Dropbox/BACKUP/Bioinformatics_journal/python/export_taxonomy_info_for_each_gi.py failed_taxid_and_tax_info all_failed_gi_and_taxid > all_failed_gi_and_tax_info.txt
+
+go to comandra and 
+scp zhenzhen@10.102.32.12:/Users/zhenzhen/projects/NR_Oct15/NR_taxonomy_info/Temp/all_failed_gi_and_tax_info.txt  .
+
+python ../scripts/concatenate_taxonomic_info_for_1kp_and_genomic_hit_with_blast_out_v6_16g4t.py all_failed_gi_and_tax_info.txt  ../Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_nr.txt > Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_non-nr_and_tax_info_failed.txt 
+
+cat Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_non-nr_and_tax_info_failed.txt  ../Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_nr_and_tax_info_round1.txt > ../Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_nr_and_tax_info_all.txt
+rm -f Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_nr_and_tax_info_round1.txt 
+
+
+scp zzy5028@10.102.32.23:/scratch/users/zhenzhen/Cuscuta_blast/1_final_blast_and_tax_info/Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_nr_and_tax_info_all.txt .
+
+1) #concatenate nr and non-nr blast results
+
+cat Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_nr_and_tax_info_all.txt Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_non-nr_and_tax_info.txt > Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info.txt
+
+#edit the following:
+perl -e 'while(<>) {chomp; @F=split(/\t/,$_); if ($F[12]) {print "$_\n";}}'  < Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info.txt > Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_F12_present.txt
+
+
+
+wc -l Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info.txt
+#18012799 Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info.txt
+
+wc -l Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_F12_present.txt
+#18011546 Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_F12_present.txt
+
+
+perl -e 'while(<>) {chomp; @F=split(/\t/,$_); if (!$F[12]) {print "$_\n";}}'  <  Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info.txt > failed_blast
+
+wc -l failed_blast 
+#1253 failed_blast
+
+#find that failed blast are all due to superRosid-LMVB-2002853-Liquidambar_styraciflua
+#so decide to update the script and save it as v6
+#use the updated v6 script to run taxonomic information for failed_blast file
+
+python ../scripts/concatenate_taxonomic_info_for_1kp_and_genomic_hit_with_blast_out_v6_16g4t.py failed_blast > failed_blast_and_tax_info.txt
+
+cat Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_F12_present.txt failed_blast_and_tax_info.txt > Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_v2.txt
+
+wc -l Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_v2.txt
+wc -l Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info.txt
+
+
+mv Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_v2.txt Cuscuta_against_hgt_db_non_nr_blast_results_and_tax_info.txt
+
+rm -f Cuscuta_against_hgt_db_non_nr_blast_results_and_tax_info.txt Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_F12_present.txt Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_non-nr_and_tax_info.txt Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_nr_and_tax_info_all.txt failed_blast
+
+
+wc -l Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info.txt
+#18012799  #18 million blast results
+
+2) sort blast results
+
+python ../scripts/sort_blast_rst_by_bitscore_v2.py Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info.txt > Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_sorted.txt
+
+wc -l Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_sorted.txt 
+#
+
+check list for follow up results:
+6.1. create a file for this blast results: plant_subclass_and_human_curated_category 
+#this is done by exporting the subclass of blast result, and compare if this subclass matches the file plant_subclass_and_human_curated_category  we already generated, if not, manual curated it
+6.2. create a file for this blast results: plant_non-typical_order_and_human_curated_category
+#this is done by exporting the unique order - unusual order from blast results (unusual means normally order is followed by class (asterid), but due to mistake, this unusal order is followed by viripidiae) - so export all the unsual orders, and compare these unusal orders with file plant_non-typical_order_and_human_curated_category - if orders match completely, no need to do more curation
+6.3. create a file called F15_nothing_F14_and_human_curated_category_and_other_info 
+6.4. run script (~/Projects/Zhenzhen/scripts/export_blast_with_order_family_human_category_species_v3.pl) to get organized information - this script used the above three files 
+
+6.1)
+
+perl -e 'while(<>) {chomp; @F=split(/\t/,$_); if ($F[13] eq 'Viridiplantae') {if ($F[15] =~ /ales$/) {print "$F[14]\n";;}} }' < Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_sorted.txt > plant_classes
+perl ../scripts/get_uniq_lines.pl plant_classes > uniq_plant_classes
+rm -f plant_classes
+
+create a file and called plant_subclass_and_curated_human_category - check!
+#if the following unique_plant_classes from the blast results match the classes in this category, then we are good
+#the unique_plant_classes match exactly the first column of the old file - plant_subclass_and_human_curated_category_old so we will just use this file and update the name of the old file to be #plant_subclass_and_human_curated_category
+mv plant_subclass_and_human_curated_category_old plant_subclass_and_human_curated_category
+
+
+perl -e 'while(<>) {chomp; @F=split(/\t/,$_); if ($F[13] eq 'Viridiplantae') {next; } else {print "$F[13]\n";}}' < Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_sorted.txt > non_plant_kingdom
+perl ../scripts/get_uniq_lines.pl non_plant_kingdom > uniq_non_plant_kingdom
+rm -f non_plant_kingdom
+
+perl -e 'while(<>) {chomp; @F=split(/\t/,$_); if ($F[13] eq 'Viridiplantae') {next; } else {print "$_\n";}}' < Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_sorted.txt > non_plant_kingdom_blast.txt
+
+#non_plant_kingdom_blast.txt may be a file where there is HGT from non-plant sources
+
+#get genes whose top hit is non-plant and non_cuscuta (non_cuscuta is used as the criteria to get top hits after passing hits from the same Cuscuta species)
+python ../scripts/get_non_self_species_nonplant_best_hit.py Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_sorted.txt "Cuscuta pentagona" > non_cuscuta_nonplant_best_hit_blast.txt
+#this script also produced an error file in which F[13] doesn't exist - file name is error_blast.txt 
+#look into the file and find two lines with hit from Liquidambar_styraciflua
+grep Liquidambar_styraciflua Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_sorted.txt > superRosid_liqui_blast.txt
+
+#look into the file and find that they still don't have the taxonomic information, so decide to add that in
+ perl -e 'while(<>) {chomp; s/\s+$//g; @F=split(/\t/,$_); if ($F[12])  {print "$_\n";;} else { $new_line = $_."\t"."Liquidambar styraciflua"."\t"."Viridiplantae"."\t"."Basal rosids"."\t"."Saxifragales"."\t"."Saxifragaceae"."\t"."Liquidambar"; print "$new_line\n";} }' Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_sorted.txt > Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_sorted_update_liquidambar.txt
+grep Liquidambar_styraciflua Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_sorted_update_liquidambar.txt > superRosid_liqui_blast.txt
+
+wc -l Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_sorted_update_liquidambar.txt 
+#18012799 Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_sorted_update_liquidambar.txt
+mv Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_sorted_update_liquidambar.txt Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_sorted.txt
+rm -f Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info.txt
+cut -f 1 non_cuscuta_nonplant_best_hit_blast.txt |uniq > genes_with_nonplant_best_hit
+
+perl -e '%gene; open IN, "<genes_with_nonplant_best_hit"; while(<IN>) {chomp; $gene{$_} = $_;} close IN; while(<>) {chomp; @F=split(/\t/,$_) ; if ($gene{$F[0]}) {next; } else {print "$_\n";} }' Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_sorted.txt > Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_sorted_filter_nonplant_besthit_genes.txt
+
+wc -l Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_sorted_filter_nonplant_besthit_genes.txt
+#17973873 Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_sorted_filter_nonplant_besthit_genes.txt
+
+grep "Viridiplantae" Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_sorted_filter_nonplant_besthit_genes.txt > Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_sorted_plant.txt
+
+ wc -l Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_sorted_plant.txt
+ #16601055 Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_sorted_plant.txt
+
+#get the number of hits for each query and see if there is anything that has less than say 5 hits, this is important because they have each query with 3 open reading frames, so if they don't have more than #5hits, than that ORF should be discounted
+python ../scripts/calculate_number_of_hits_for_each_query.py Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_sorted_plant.txt > Cuscuta_sorted_plant_query_and_num_of_hits.txt
+
+#looking at the file and found that many: more than 13,000 queries have hits less than 3, and I looked at their blast results, and decided to remove these that have less than or equal to 5 hits, but have only
+hits from Cuscuta pentagona
+python ../scripts/identify_genes_with_hits_from_Cuscuta_only_v2.py Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_sorted_plant.txt > Cuscuta_sorted_plant_genes_with_cuscuta_hits_only.txt
+#export genes that have less than or equal to 5 hits and venn diagram with those that have Cuscuta hits only - remove these lines
+perl ../scripts/get_intersect_fileA_and_B.pl Cuscuta_sorted_plant_genes_with_cuscuta_hits_only.txt Cuscuta_sorted_plant_lt_or_equal5hits_genes.txt > Cuscuta_sorted_plant_genes_with_lt_equal5_cuscuta_only_hits.txt 
+
+wc -l Cuscuta_sorted_plant_genes_with_lt_equal5_cuscuta_only_hits.txt 
+ #  14226 Cuscuta_sorted_plant_genes_with_lt_equal5_cuscuta_only_hits.txt
+
+
+perl -e '%id; open IN, "<Cuscuta_sorted_plant_genes_with_lt_equal5_cuscuta_only_hits.txt"; while(<IN>) {chomp; $id{$_} = $_;  } close IN; while(<>) {chomp; @F=split(/\t/,$_); if ($id{$F[0]}) { next; } else {print "$_\n";}}'  Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_sorted_plant.txt  > Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_sorted_plant_filter_genes_with_lt_equal5_cuscuta_only_hits.txt
+
+mv Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_sorted_plant_filter_genes_with_lt_equal5_cuscuta_only_hits.txt Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_sorted_plant_after_filter.txt
+
+#this is important in doing HGTector in generating background distribution
+
+wc -l Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_sorted_plant_after_filter.txt
+#16570384 Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_sorted_plant_after_filter.txt
+
+ perl -e 'while(<>) {chomp; @F=split(/\t/,$_); if ($F[13] eq 'Viridiplantae') {if ($F[15] =~ /ales$/) {print "$F[14]\n";;}} }' < Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_sorted_plant_after_filter.txt  > plant_classes
+perl /scratch/users/zhenzhen/scripts/get_uniq_lines.pl plant_classes > uniq_plant_classes
+rm -f plant_classes
+
+create a file and called plant_subclass_and_curated_human_category - check!
+#if the following unique_plant_classes from the blast results match the classes in this category, then we are good
+#the unique_plant_classes match exactly the first column of the old file - plant_subclass_and_human_curated_category_old so we will just use this file and update the name of the old file to be #plant_subclass_and_human_curated_category
+mv plant_subclass_and_human_curated_category_old plant_subclass_and_human_curated_category
+
+
+
+6.2)
+#note that most often it's $F[15] that contains order information, but sometimes if a species, say a basal educiot Nelumbo is not classified to any
+rosid or asterid in $F[14], $F[14] would contain the order information
+
+#extract which species has such case 
+perl -e 'while(<>) {chomp; @F=split(/\t/,$_); if ($F[15] =~ /ales$/) {next;} else {print "$_\n";}}' < Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_sorted_plant_after_filter.txt > Cuscuta_blast_and_tax_unusual_tax_classification.txt 
+
+wc -l Cuscuta_blast_and_tax_unusual_tax_classification.txt 
+#490104 Cuscuta_blast_and_tax_unusual_tax_classification.txt
+
+perl -e 'while(<>) {chomp; @F=split(/\t/,$_); my $out = ""; for $i (12..$#F) {$out .= "$F[$i]\t";} $out =~ s/\s$//; print "$out\n";}' < Cuscuta_blast_and_tax_unusual_tax_classification.txt  >  unusual_tax_cases 
+perl ../scripts/get_uniq_lines.pl  unusual_tax_cases > test 
+mv test unusual_tax_cases
+
+scp zzy5028@10.102.32.23:/scratch/users/zhenzhen/Cuscuta_blast/1_final_blast_and_tax_info/unus* .
+#open unusual_tax_cases in excel and get the collumn right after Viridiplantae and use Venn to get the unique categories and name it unusual_uniq_after_viridiplantae
+perl -e '$file1 = "unique_order_after_viridiplantae.txt" ; $file2 = "unusal_non-order_after_viridiplantae.txt"; open OUT1, ">$file1"; open OUT2, ">$file2"; while(<>) {chomp; if ($_ =~ /ales$/) {print OUT1 "$_\n";} else {print OUT2 "$_\n";}}' < unusual_uniq_after_viridiplantae
+
+scp unique_order_after_viridiplantae.txt zzy5028@10.102.32.23:/scratch/users/zhenzhen/Cuscuta_blast/1_final_blast_and_tax_info
+
+#these are the stuff that are assigned to an order but not assigned to any phyla say rosid or asterid in the column right after Viriplantae
+# stuff in the file unusal_non-order_after_viridiplantae.txt, even though they don't end with "ales", i looked up their information, and found that they represent the genus, so manually get their human category information, we will discuss how to deal with them slightly later
+
+perl -e 'my $curated_order_file = "unique_order_after_viridiplantae.txt"; %order; open IN, "<$curated_order_file"; while (<IN>) {chomp; $order{$_} = $_;} while(<>) {chomp; @F=split(/\t/,$_); if ($F[15] =~ /ales$/) {if ($order{$F[15]}) {print "$_\n";} } else {next;}}' < Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_sorted_plant_after_filter.txt > possible_correct_info_for_orders_that_are_needed_for_correcton.txt
+
+ cat possible_correct_info_for_orders_that_are_needed_for_correcton.txt |cut -f 16 |uniq > temp
+ perl ../scripts/get_uniq_lines.pl temp > Orders_needs_curation1_common_in_1kp.txt
+perl ../scripts/get_fileA-fileB.pl unique_order_after_viridiplantae.txt Orders_needs_curation1_common_in_1kp.txt > Orders_needs_curation2_not_in_1kp.txt
+
+#get the content of two files (Orders_needs_curation1_and_class and Orders_needs_curation2_not_in_1kp_manual_curation_of_phylum_class.xls) and their human curated classification and save it as file:
+plant_non-typical_order_and_human_curated_category (we can use the previous file content to just modify stuff that we don't have human curated category for)
+for instance, plant_non-typical_order_and_human_curated_category file contains a list of orders, if these orders are all the same as unique_order_after_viridiplantae.txt, no need to modify, 
+else, just modify additional orders that are in unique_order_after_viridiplantae.txt
+
+#unusal_non-order_after_viridiplantae.txt contains mostly genus that belong to algae or green algae, but also two categories such as "asterids" and "commelinids", we need to curate the category for them #separately
+unusal_non-order_after_viridiplantae_and_human_category_algae.txt #this file is for those unusual_non_order stuff that belong to algae
+
+#get the blast results for those that have "asterids" and "commelinids" after Viridiplantae and see how to curate them, the unusual blast lines are from file  Cuscuta_blast_and_tax_unusual_tax_classification.txt
+#save it as file unusal_non-order_after_viridiplantae_asterids_and_commelinids_blast.txt 
+
+perl -e 'while(<>) {chomp; @F=split(/\t/,$_); for $i (12..$#F) { if ($F[$i] eq 'asterids') {print "$_\n";} elsif ($F[$i] eq 'commelinids') {print "$_\n";}  } }' Cuscuta_blast_and_tax_unusual_tax_classification.txt > unusal_non-order_after_viridiplantae_asterids_and_commelinids_blast.txt 
+
+#found that it is only from 
+#Icacinaceae
+#Vahliaceae
+#Dasypogonaceae
+#Oncothecaceae
+#these four families that don't have order information, get their oder and category inforation
+Icacinaceae	Icacinales	Asterids
+Vahliaceae	Vahliales	Asterids
+Dasypogonaceae	Arecales	monocots
+Oncothecaceae	Icacinales	Asterids
+
+#create a file nano unusal_non-order_after_viridiplantae_asterids_commelinids_order_human_category.txt  and put the above information inside
+#update this information in script export_blast_with_order_family_human_category_species_v4.pl from lines 137 to 160
+###############################################################STOP at here###############################################################
+###############################################################STOP at here###############################################################
+
+6.3)
+perl -e 'while (<>) {chomp; @F=split(/\t/,$_); if ($F[14] =~ /aceae$/) {print "$_\n";}} ' < Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_sorted_plant_after_filter.txt  > Plant_F14_is_family.txt
+#found that there are 4 unique family of these linesBotryococcaceae -manually get their class, phylum and human curated category
+Botryococcaceae	Trebouxiophyceae	Chlorophyta	green algae
+Coccomyxaceae	Chlorococcales	Chlorophyta	green algae
+Microsporaceae	Chlorophyceae	Chlorophyta	green algae
+Pycnococcaceae	Prasinophyceae	Chlorophyta	green algae
+
+#there also seem to be lines where $F[15] doesn't exist
+perl -e 'while (<>) {chomp; @F=split(/\t/,$_); if (!$F[15]) {print "$_\n";}} ' < Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_sorted_plant_after_filter.txt > Plant_F15_not_exist.txt
+
+#get the F[14] and use that to key down their family, order, class, and human curated category and create a new file called F15_nothing_F14_and_human_curated_category_and_other_info
+#also find that when F14 doesn't exist and not contain any family information, the species name can be used to tell which group they belong to
+#Trebouxiophyceae	NA	green algae
+#Prasinophyceae	NA	green algae
+#marchantiophyte contaminant	NA	liverworts
+#information from the above is integrated into the script from line 89 to 103
+
+scp plant_subclass_and_human_curated_category F15_nothing_F14_and_human_curated_category_and_other_info plant_non-typical_order_and_human_curated_category zzy5028@10.102.32.23:/scratch/users/zhenzhen/Cuscuta_blast/1_final_blast_and_tax_info
+scp ~/Dropbox/BACKUP/Bioinformatics_journal/python/export_blast_with_order_family_human_category_species_v4.pl zzy5028@10.102.32.23:/scratch/users/zhenzhen/scripts/
+#make sure that you have these scripts in the current running directory
+#plant_subclass_and_human_curated_category,F15_nothing_F14_and_human_curated_category_and_other_info, plant_non-typical_order_and_human_curated_category
+
+perl ../scripts/export_blast_with_order_family_human_category_species_v4.pl Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_sorted_plant_after_filter.txt > Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_human_curated_category_script_v4.txt
+
+wc -l Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_human_curated_category_script_v4.txt 
+#16570385 Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_human_curated_category_script_v4.txt
+wc -l Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_sorted_plant_after_filter.txt
+#16570384 Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_sorted_plant_after_filter.txt
+#the one extra line in the output file is due to the header
+
+#delete non-necessary files
+rm -f Cuscuta_blast_and_tax_unusual_tax_classification.txt
+rm -f possible_correct_info_for_orders_that_are_needed_for_correcton.txt
+rm -f Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_sorted_filter_nonplant_besthit_genes.txt
+rm -f Cuscuta_neelima_eric_agst_nr_16g_4t_otherG_blast_results_and_tax_info_sorted_plant.txt
+
+zhenzhen finds that if parasites are discounted as close taxa, then they should be excluded in the total, for instance, originally, we divide by 50, now we should divide by 50-#of parasitic taxa
